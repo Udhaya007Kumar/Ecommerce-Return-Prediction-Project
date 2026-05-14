@@ -1,0 +1,3031 @@
+Order_ID,Customer_Age,Order_Amount,Delivery_Days,Previous_Returns,Product_Rating,Product_Category,Payment_Method,Customer_Type,City,Returned_Product
+ORD100000,56,16295.0,13,7,5.0,Electronics,UPI,Premium,Mumbai,1
+ORD100001,38,55386.0,10,2,3.0,Fashion,Credit Card,New,Chennai,0
+ORD100002,28,44631.0,8,7,3.0,Sports,UPI,Premium,Delhi,1
+ORD100003,39,65320.0,2,7,4.0,Electronics,UPI,New,Bangalore,0
+ORD100004,47,68469.0,12,4,1.0,Fashion,UPI,Premium,Bangalore,1
+ORD100005,29,85805.0,6,8,1.0,Sports,Cash on Delivery,New,Delhi,1
+ORD100006,44,26158.0,10,2,4.0,Sports,Debit Card,New,Bangalore,0
+ORD100007,20,69592.0,3,6,5.0,Beauty,Debit Card,Regular,Bangalore,0
+ORD100008,26,80538.0,2,3,1.0,Fashion,Debit Card,New,Chennai,0
+ORD100009,31,74469.0,10,8,2.0,Beauty,UPI,Regular,Mumbai,1
+ORD100010,19,,7,7,3.0,Sports,Debit Card,New,Delhi,1
+ORD100011,31,36420.0,4,1,4.0,Sports,UPI,Regular,Chennai,0
+ORD100012,19,67057.0,6,5,2.0,Sports,Debit Card,Premium,Hyderabad,1
+ORD100013,21,41257.0,13,1,2.0,Home,Credit Card,Premium,Chennai,1
+ORD100014,51,37565.0,14,3,4.0,Electronics,Credit Card,Regular,Chennai,1
+ORD100015,57,90312.0,13,1,5.0,Fashion,UPI,Regular,Mumbai,0
+ORD100016,41,12685.0,9,8,5.0,Beauty,Debit Card,New,Mumbai,1
+ORD100017,32,61728.0,1,8,1.0,Home,Credit Card,Premium,Mumbai,1
+ORD100018,41,63092.0,12,7,3.0,Electronics,Credit Card,Premium,Bangalore,1
+ORD100019,34,33659.0,3,2,,Fashion,Cash on Delivery,Regular,Mumbai,0
+ORD100020,22,4061.0,7,9,1.0,Sports,Credit Card,Premium,Mumbai,1
+ORD100021,45,23162.0,9,7,4.0,Electronics,Credit Card,New,Mumbai,1
+ORD100022,51,52756.0,7,6,5.0,Beauty,Debit Card,New,Bangalore,0
+ORD100023,52,85151.0,8,5,3.0,Sports,Debit Card,New,Delhi,1
+ORD100024,52,71092.0,3,4,3.0,Beauty,Cash on Delivery,New,Mumbai,0
+ORD100025,18,83448.0,10,6,3.0,Fashion,Credit Card,Premium,Hyderabad,1
+ORD100026,26,706.0,10,9,4.0,Sports,Debit Card,Premium,Hyderabad,1
+ORD100027,30,50515.0,7,0,4.0,Beauty,Cash on Delivery,Regular,Bangalore,0
+ORD100028,49,88439.0,14,4,5.0,Fashion,Cash on Delivery,New,Chennai,1
+ORD100029,32,34327.0,13,6,3.0,,Credit Card,Premium,Bangalore,1
+ORD100030,39,22799.0,2,9,5.0,Beauty,UPI,Regular,Delhi,1
+ORD100031,23,95503.0,12,3,3.0,Sports,Cash on Delivery,Premium,Mumbai,1
+ORD100032,45,22476.0,7,0,1.0,Sports,UPI,Premium,Chennai,0
+ORD100033,44,61873.0,9,3,5.0,Sports,Debit Card,Premium,Mumbai,0
+ORD100034,58,9974.0,7,5,3.0,Electronics,Debit Card,Regular,Bangalore,1
+ORD100035,26,4248.0,1,2,2.0,Beauty,UPI,Premium,Mumbai,0
+ORD100036,41,35266.0,11,5,1.0,Sports,Credit Card,Premium,Chennai,1
+ORD100037,29,53233.0,7,1,3.0,Home,Credit Card,New,Mumbai,0
+ORD100038,54,86116.0,8,0,3.0,Fashion,UPI,Premium,Mumbai,0
+ORD100039,19,1354.0,5,0,1.0,Beauty,UPI,New,Mumbai,0
+ORD100040,36,47217.0,2,4,4.0,Home,Credit Card,New,Bangalore,0
+ORD100041,43,26809.0,7,3,3.0,Sports,UPI,New,Delhi,0
+ORD100042,34,25842.0,6,7,5.0,Electronics,Credit Card,New,Delhi,1
+ORD100043,51,66233.0,6,0,1.0,Sports,Credit Card,Regular,Hyderabad,0
+ORD100044,23,52163.0,13,2,4.0,Sports,Cash on Delivery,New,Hyderabad,1
+ORD100045,53,72582.0,10,2,3.0,Fashion,Debit Card,Regular,Mumbai,0
+ORD100046,37,3411.0,7,3,1.0,Beauty,Cash on Delivery,New,Bangalore,1
+ORD100047,50,84379.0,7,1,1.0,Fashion,UPI,Regular,Chennai,1
+ORD100048,28,8655.0,9,8,2.0,Sports,Credit Card,Premium,Bangalore,1
+ORD100049,40,22418.0,14,9,3.0,Electronics,UPI,Premium,Chennai,1
+ORD100050,24,47343.0,10,8,4.0,Fashion,UPI,New,Mumbai,1
+ORD100051,19,32116.0,14,4,5.0,Electronics,Credit Card,Regular,Delhi,1
+ORD100052,49,61934.0,7,8,1.0,Fashion,Credit Card,Premium,Hyderabad,1
+ORD100053,52,43142.0,3,3,1.0,Sports,Cash on Delivery,New,Delhi,1
+ORD100054,41,29799.0,11,0,4.0,Beauty,Credit Card,New,Chennai,0
+ORD100055,55,53851.0,4,2,,Beauty,Debit Card,Regular,Delhi,0
+ORD100056,52,2700.0,13,1,2.0,Beauty,UPI,Premium,Chennai,1
+ORD100057,19,3369.0,3,8,4.0,Electronics,Cash on Delivery,Premium,Mumbai,1
+ORD100058,50,38967.0,1,4,4.0,Electronics,Credit Card,New,Bangalore,0
+ORD100059,25,46714.0,3,0,1.0,Sports,Cash on Delivery,New,Delhi,0
+ORD100060,29,41318.0,6,6,5.0,Fashion,Debit Card,Regular,Bangalore,0
+ORD100061,25,20238.0,11,1,5.0,Electronics,Cash on Delivery,Premium,Chennai,0
+ORD100062,47,98388.0,12,0,5.0,Electronics,UPI,New,Bangalore,0
+ORD100063,36,57335.0,3,0,1.0,Fashion,Cash on Delivery,Regular,Delhi,0
+ORD100064,45,19089.0,13,4,3.0,Fashion,Cash on Delivery,New,Bangalore,1
+ORD100065,58,34328.0,8,0,5.0,Beauty,UPI,Regular,Mumbai,0
+ORD100066,48,66735.0,1,3,,Beauty,Debit Card,Regular,Hyderabad,0
+ORD100067,38,6602.0,1,2,2.0,Beauty,Credit Card,New,Mumbai,0
+ORD100068,42,33245.0,6,9,3.0,Fashion,UPI,Premium,Hyderabad,1
+ORD100069,57,52385.0,8,1,2.0,Electronics,Debit Card,New,Chennai,0
+ORD100070,44,11229.0,2,9,1.0,Sports,Cash on Delivery,Premium,Hyderabad,1
+ORD100071,57,78569.0,7,9,2.0,Fashion,UPI,Premium,Chennai,1
+ORD100072,52,51493.0,9,7,5.0,Fashion,UPI,Premium,Chennai,1
+ORD100073,24,90412.0,4,3,1.0,Fashion,Cash on Delivery,New,Hyderabad,1
+ORD100074,25,7155.0,14,2,4.0,Fashion,UPI,Premium,Chennai,1
+ORD100075,51,79157.0,7,5,3.0,Beauty,Debit Card,Regular,Bangalore,1
+ORD100076,42,53421.0,14,5,2.0,Home,Credit Card,Regular,Delhi,1
+ORD100077,39,31524.0,4,9,3.0,Fashion,Debit Card,Regular,Mumbai,1
+ORD100078,54,80635.0,5,4,4.0,Electronics,UPI,Regular,Hyderabad,0
+ORD100079,23,66912.0,4,2,4.0,Sports,UPI,New,Hyderabad,0
+ORD100080,33,94976.0,2,9,3.0,Fashion,Debit Card,New,Mumbai,1
+ORD100081,34,74347.0,3,9,2.0,Electronics,Credit Card,Regular,Mumbai,1
+ORD100082,54,32717.0,5,6,,Fashion,Cash on Delivery,Premium,Mumbai,1
+ORD100083,29,75240.0,1,9,2.0,Sports,UPI,Premium,Hyderabad,1
+ORD100084,18,46675.0,14,5,1.0,Home,UPI,New,Mumbai,1
+ORD100085,57,57056.0,5,0,5.0,Electronics,UPI,Premium,Hyderabad,0
+ORD100086,56,29875.0,5,5,5.0,Fashion,Debit Card,Regular,Hyderabad,0
+ORD100087,20,85567.0,10,2,5.0,Fashion,Debit Card,New,Mumbai,0
+ORD100088,39,85164.0,13,4,1.0,Sports,Cash on Delivery,Regular,Chennai,1
+ORD100089,47,96481.0,14,3,5.0,Electronics,Cash on Delivery,Regular,Chennai,1
+ORD100090,29,44419.0,10,9,5.0,Electronics,Debit Card,New,Mumbai,1
+ORD100091,56,92247.0,1,4,2.0,Fashion,Cash on Delivery,Premium,Delhi,0
+ORD100092,27,80105.0,5,3,2.0,Sports,UPI,New,Chennai,0
+ORD100093,48,65917.0,10,2,2.0,Fashion,UPI,Regular,Hyderabad,1
+ORD100094,49,60660.0,8,4,5.0,Sports,Credit Card,Regular,Bangalore,0
+ORD100095,21,28163.0,8,6,2.0,Electronics,Debit Card,Regular,Chennai,1
+ORD100096,45,91507.0,11,3,4.0,Home,Credit Card,Premium,Bangalore,1
+ORD100097,52,35695.0,1,0,5.0,Electronics,Debit Card,Premium,Delhi,0
+ORD100098,54,98356.0,1,7,2.0,Sports,Credit Card,New,Bangalore,1
+ORD100099,46,86527.0,14,1,5.0,Fashion,Cash on Delivery,New,Bangalore,0
+ORD100100,52,27850.0,1,9,5.0,Home,Cash on Delivery,Premium,Bangalore,1
+ORD100101,43,15805.0,10,1,3.0,Home,Credit Card,Premium,Chennai,0
+ORD100102,58,20858.0,4,9,5.0,Beauty,UPI,Regular,Bangalore,1
+ORD100103,28,912.0,8,3,1.0,Fashion,Cash on Delivery,Regular,Mumbai,1
+ORD100104,38,89584.0,9,3,2.0,Fashion,Credit Card,New,Bangalore,1
+ORD100105,54,19388.0,8,2,1.0,Beauty,Debit Card,Regular,Chennai,1
+ORD100106,52,86499.0,4,1,1.0,Home,Debit Card,Premium,Hyderabad,0
+ORD100107,56,,8,6,5.0,Beauty,Debit Card,New,Chennai,1
+ORD100108,29,36708.0,7,6,1.0,Home,Credit Card,Premium,Mumbai,1
+ORD100109,52,21852.0,14,0,1.0,Electronics,UPI,Premium,Delhi,1
+ORD100110,37,47459.0,9,5,5.0,Home,Debit Card,Regular,Hyderabad,0
+ORD100111,36,47780.0,4,8,3.0,Sports,UPI,Regular,Hyderabad,1
+ORD100112,29,70396.0,7,3,3.0,Fashion,Debit Card,New,Delhi,0
+ORD100113,33,87400.0,5,2,4.0,Electronics,Credit Card,Regular,Delhi,0
+ORD100114,42,97703.0,11,4,4.0,Electronics,Debit Card,Premium,Mumbai,1
+ORD100115,40,67203.0,9,6,5.0,Electronics,Debit Card,Premium,Mumbai,1
+ORD100116,59,22189.0,7,9,5.0,Beauty,Debit Card,Regular,Mumbai,1
+ORD100117,52,38602.0,13,1,4.0,Sports,Credit Card,New,Delhi,0
+ORD100118,26,24125.0,10,0,5.0,Beauty,Credit Card,Premium,Hyderabad,0
+ORD100119,55,2042.0,14,7,2.0,Home,Cash on Delivery,Premium,Chennai,1
+ORD100120,26,93605.0,11,9,2.0,Home,Debit Card,New,Delhi,1
+ORD100121,22,88592.0,5,5,3.0,Sports,Debit Card,Regular,Delhi,1
+ORD100122,25,14307.0,13,0,4.0,Beauty,Credit Card,Premium,Delhi,0
+ORD100123,34,58354.0,7,8,5.0,Fashion,UPI,Regular,Hyderabad,1
+ORD100124,21,36409.0,12,2,5.0,Sports,Debit Card,New,Bangalore,0
+ORD100125,56,25789.0,10,2,3.0,Home,Credit Card,New,Bangalore,0
+ORD100126,30,87269.0,12,9,4.0,Electronics,UPI,New,Delhi,1
+ORD100127,45,58299.0,13,8,1.0,Sports,UPI,Regular,Delhi,1
+ORD100128,20,80719.0,14,8,4.0,Sports,Credit Card,Premium,Delhi,1
+ORD100129,42,34091.0,1,5,5.0,Beauty,Cash on Delivery,New,Bangalore,0
+ORD100130,23,68141.0,12,4,5.0,Electronics,UPI,Regular,Bangalore,1
+ORD100131,28,77039.0,5,3,3.0,Fashion,Cash on Delivery,New,Hyderabad,0
+ORD100132,36,14343.0,9,1,1.0,Fashion,UPI,Regular,Bangalore,1
+ORD100133,31,53138.0,1,4,3.0,Beauty,Debit Card,Regular,Hyderabad,0
+ORD100134,33,41930.0,9,9,4.0,Sports,Cash on Delivery,Premium,Delhi,1
+ORD100135,41,66703.0,5,7,2.0,Fashion,Cash on Delivery,Regular,Mumbai,1
+ORD100136,45,62029.0,8,9,4.0,Fashion,Debit Card,Premium,Delhi,1
+ORD100137,45,27855.0,5,8,4.0,Fashion,Debit Card,Regular,Chennai,1
+ORD100138,44,48105.0,1,8,1.0,Home,Credit Card,Regular,Mumbai,1
+ORD100139,37,36047.0,13,2,5.0,Home,UPI,New,Bangalore,0
+ORD100140,23,6213.0,3,4,1.0,Fashion,Cash on Delivery,Premium,Bangalore,1
+ORD100141,19,66045.0,8,1,3.0,Fashion,UPI,Regular,Delhi,0
+ORD100142,22,1515.0,1,5,1.0,Home,Cash on Delivery,Regular,Chennai,1
+ORD100143,35,8915.0,1,4,2.0,Fashion,Cash on Delivery,Regular,Hyderabad,0
+ORD100144,42,20809.0,11,0,5.0,Electronics,Cash on Delivery,Regular,Chennai,0
+ORD100145,50,18517.0,9,2,1.0,Home,Debit Card,Regular,Delhi,1
+ORD100146,38,41443.0,7,5,4.0,Sports,Credit Card,Regular,Bangalore,1
+ORD100147,34,60600.0,5,5,3.0,Home,Cash on Delivery,Regular,Chennai,1
+ORD100148,40,24024.0,5,4,2.0,Beauty,Debit Card,Premium,Delhi,1
+ORD100149,27,53830.0,1,4,1.0,Fashion,Cash on Delivery,New,Hyderabad,1
+ORD100150,18,45606.0,13,3,1.0,Sports,UPI,Regular,Hyderabad,1
+ORD100151,57,92693.0,12,7,2.0,Sports,UPI,New,Delhi,1
+ORD100152,51,62377.0,6,2,3.0,Fashion,Cash on Delivery,New,Chennai,0
+ORD100153,29,43444.0,6,4,3.0,Home,Cash on Delivery,Regular,Bangalore,1
+ORD100154,34,54371.0,7,4,5.0,Beauty,Debit Card,Regular,Delhi,0
+ORD100155,31,37941.0,11,2,4.0,Home,Cash on Delivery,Regular,Chennai,0
+ORD100156,51,7449.0,2,1,2.0,Beauty,UPI,Premium,Hyderabad,0
+ORD100157,47,26434.0,11,2,2.0,Electronics,Debit Card,New,Chennai,1
+ORD100158,55,57300.0,8,6,2.0,Electronics,UPI,New,Bangalore,1
+ORD100159,34,40311.0,10,7,1.0,Electronics,Credit Card,New,Bangalore,1
+ORD100160,27,20463.0,4,7,5.0,Beauty,UPI,Premium,Bangalore,0
+ORD100161,51,73977.0,5,1,5.0,Beauty,Debit Card,Regular,Bangalore,0
+ORD100162,28,6754.0,9,6,3.0,Sports,UPI,New,Mumbai,1
+ORD100163,33,24571.0,4,7,4.0,Electronics,UPI,Regular,Hyderabad,1
+ORD100164,42,84307.0,3,1,5.0,Beauty,Cash on Delivery,Premium,Bangalore,0
+ORD100165,36,57608.0,5,1,4.0,Electronics,Credit Card,New,Mumbai,0
+ORD100166,59,37168.0,6,4,1.0,Sports,UPI,Premium,Chennai,1
+ORD100167,22,17407.0,10,1,1.0,Home,Cash on Delivery,Premium,Mumbai,1
+ORD100168,31,92365.0,13,8,2.0,Electronics,Debit Card,New,Delhi,1
+ORD100169,39,10978.0,8,0,2.0,Beauty,UPI,Regular,Mumbai,0
+ORD100170,53,79604.0,8,0,3.0,Beauty,Credit Card,Regular,Bangalore,0
+ORD100171,32,802.0,8,5,2.0,Sports,Debit Card,Premium,Hyderabad,1
+ORD100172,45,74186.0,14,7,2.0,Beauty,Cash on Delivery,Regular,Hyderabad,1
+ORD100173,43,5121.0,11,7,3.0,Home,Debit Card,New,Chennai,1
+ORD100174,24,5622.0,7,1,2.0,Home,Cash on Delivery,New,Delhi,0
+ORD100175,55,35174.0,9,6,5.0,Sports,Cash on Delivery,Regular,Chennai,1
+ORD100176,45,91325.0,7,8,1.0,Beauty,Debit Card,New,Delhi,1
+ORD100177,56,6729.0,10,8,1.0,Fashion,Debit Card,Regular,Mumbai,1
+ORD100178,30,6668.0,4,9,3.0,Home,Debit Card,Premium,Chennai,1
+ORD100179,58,27234.0,4,5,2.0,Sports,Credit Card,New,Bangalore,1
+ORD100180,25,78235.0,1,2,2.0,Beauty,Cash on Delivery,Premium,Bangalore,0
+ORD100181,58,60504.0,6,3,2.0,Beauty,Cash on Delivery,Regular,Chennai,1
+ORD100182,51,76203.0,11,5,5.0,Electronics,Debit Card,New,Delhi,1
+ORD100183,50,27785.0,5,5,4.0,Fashion,Debit Card,Premium,Hyderabad,0
+ORD100184,47,56638.0,14,7,1.0,Home,Cash on Delivery,Premium,Hyderabad,1
+ORD100185,20,25318.0,8,4,4.0,Home,Cash on Delivery,Premium,Hyderabad,1
+ORD100186,41,38610.0,6,1,4.0,Home,Debit Card,Premium,Delhi,0
+ORD100187,45,29246.0,4,5,1.0,Home,Debit Card,Regular,Bangalore,1
+ORD100188,47,84971.0,6,2,1.0,Electronics,Credit Card,Regular,Chennai,1
+ORD100189,19,1346.0,11,7,2.0,Sports,Credit Card,New,Bangalore,1
+ORD100190,22,6969.0,10,5,4.0,Beauty,Debit Card,Premium,Hyderabad,1
+ORD100191,36,58567.0,1,3,1.0,Sports,Debit Card,New,Bangalore,0
+ORD100192,29,68084.0,10,5,5.0,Home,Credit Card,Regular,Bangalore,1
+ORD100193,28,32754.0,4,2,1.0,Home,UPI,Premium,Hyderabad,0
+ORD100194,23,59883.0,10,4,2.0,Fashion,Debit Card,New,Chennai,1
+ORD100195,19,5787.0,2,3,1.0,Sports,Debit Card,Premium,Bangalore,0
+ORD100196,54,19716.0,9,7,3.0,Beauty,UPI,New,Hyderabad,1
+ORD100197,47,42578.0,1,4,4.0,Home,Cash on Delivery,Regular,Delhi,0
+ORD100198,31,67944.0,8,8,2.0,Home,Credit Card,New,Mumbai,1
+ORD100199,29,74198.0,3,0,4.0,Beauty,UPI,New,Delhi,0
+ORD100200,46,,11,8,5.0,Beauty,UPI,Premium,Chennai,1
+ORD100201,31,31023.0,14,2,5.0,Fashion,Credit Card,Premium,Mumbai,0
+ORD100202,54,19782.0,11,9,4.0,Electronics,Credit Card,New,Hyderabad,1
+ORD100203,42,14560.0,10,8,2.0,Beauty,Credit Card,Premium,Delhi,1
+ORD100204,57,59707.0,7,7,3.0,Beauty,Cash on Delivery,Regular,Hyderabad,1
+ORD100205,55,72020.0,7,0,,Beauty,Debit Card,Premium,Hyderabad,0
+ORD100206,34,34516.0,7,1,5.0,Electronics,UPI,New,Bangalore,0
+ORD100207,57,92763.0,3,6,3.0,Home,UPI,New,Bangalore,1
+ORD100208,23,55417.0,3,6,3.0,Fashion,UPI,New,Chennai,1
+ORD100209,25,97309.0,4,0,4.0,Beauty,Cash on Delivery,Premium,Hyderabad,0
+ORD100210,47,9946.0,11,3,5.0,Beauty,Debit Card,New,Bangalore,0
+ORD100211,55,98220.0,1,4,3.0,Home,Debit Card,Premium,Delhi,0
+ORD100212,50,68279.0,6,1,2.0,Electronics,Credit Card,Regular,Hyderabad,0
+ORD100213,22,44372.0,6,5,5.0,Fashion,Cash on Delivery,New,Hyderabad,0
+ORD100214,48,29986.0,4,7,4.0,Fashion,Credit Card,Regular,Bangalore,1
+ORD100215,32,20603.0,5,3,4.0,Electronics,UPI,New,Mumbai,0
+ORD100216,19,16978.0,3,2,4.0,Sports,Debit Card,Regular,Chennai,0
+ORD100217,53,99597.0,11,4,4.0,Beauty,Debit Card,Premium,Delhi,1
+ORD100218,28,14653.0,8,5,2.0,Home,Cash on Delivery,Regular,Chennai,1
+ORD100219,29,76493.0,13,7,2.0,Sports,UPI,Regular,Mumbai,1
+ORD100220,42,15828.0,8,3,4.0,Sports,Debit Card,New,Chennai,0
+ORD100221,22,60779.0,5,7,2.0,Fashion,UPI,Premium,Mumbai,1
+ORD100222,45,65810.0,10,8,3.0,Sports,UPI,New,Delhi,1
+ORD100223,46,44827.0,9,5,3.0,Sports,Cash on Delivery,Regular,Bangalore,1
+ORD100224,40,,14,4,5.0,Sports,Cash on Delivery,Premium,Delhi,1
+ORD100225,43,2145.0,4,5,1.0,Electronics,Cash on Delivery,Regular,Delhi,1
+ORD100226,18,53673.0,7,2,5.0,Home,Debit Card,Premium,Chennai,0
+ORD100227,26,75560.0,9,9,4.0,Fashion,Debit Card,Regular,Delhi,1
+ORD100228,43,13724.0,3,3,1.0,Home,Cash on Delivery,Premium,Chennai,1
+ORD100229,43,74009.0,2,6,2.0,Beauty,UPI,Regular,Mumbai,1
+ORD100230,44,58261.0,11,0,3.0,Home,UPI,Regular,Hyderabad,0
+ORD100231,41,68026.0,4,5,5.0,Electronics,Cash on Delivery,Regular,Chennai,0
+ORD100232,41,46740.0,1,5,2.0,Fashion,Debit Card,Premium,Delhi,0
+ORD100233,45,16741.0,5,0,1.0,Beauty,UPI,New,Mumbai,0
+ORD100234,37,20316.0,1,3,4.0,Sports,Credit Card,Regular,Delhi,0
+ORD100235,57,21306.0,1,6,3.0,Beauty,UPI,New,Hyderabad,0
+ORD100236,36,94001.0,14,0,5.0,Fashion,Credit Card,Regular,Hyderabad,0
+ORD100237,46,90897.0,8,2,2.0,Electronics,Cash on Delivery,New,Bangalore,1
+ORD100238,18,64577.0,3,1,2.0,Electronics,Cash on Delivery,New,Bangalore,0
+ORD100239,45,38500.0,2,5,3.0,Beauty,Debit Card,Premium,Mumbai,0
+ORD100240,21,55668.0,8,6,3.0,Beauty,Cash on Delivery,Regular,Bangalore,1
+ORD100241,49,76129.0,2,0,4.0,Beauty,Credit Card,Regular,Bangalore,0
+ORD100242,49,85882.0,13,7,1.0,Sports,Credit Card,New,Mumbai,1
+ORD100243,20,31178.0,11,7,1.0,Beauty,Debit Card,Premium,Mumbai,1
+ORD100244,54,72758.0,3,0,4.0,Electronics,Debit Card,Premium,Mumbai,0
+ORD100245,25,65429.0,3,7,3.0,Sports,Cash on Delivery,New,Delhi,1
+ORD100246,33,55271.0,5,5,5.0,Sports,Cash on Delivery,Regular,Mumbai,0
+ORD100247,31,66858.0,2,6,2.0,Sports,Cash on Delivery,Regular,Mumbai,1
+ORD100248,24,16532.0,7,4,,Fashion,Credit Card,Premium,Delhi,1
+ORD100249,36,14359.0,13,1,2.0,Fashion,Cash on Delivery,New,Mumbai,1
+ORD100250,18,23736.0,4,9,2.0,Beauty,Cash on Delivery,Regular,Bangalore,1
+ORD100251,20,77418.0,12,3,5.0,Beauty,UPI,New,Hyderabad,0
+ORD100252,54,79257.0,14,8,2.0,Sports,Debit Card,New,Delhi,1
+ORD100253,52,18271.0,8,0,2.0,Electronics,Cash on Delivery,New,Bangalore,0
+ORD100254,47,19563.0,11,6,1.0,Beauty,Credit Card,New,Delhi,1
+ORD100255,34,3073.0,9,7,2.0,Home,Debit Card,Premium,Delhi,1
+ORD100256,42,61274.0,9,5,3.0,Electronics,Debit Card,Premium,Hyderabad,1
+ORD100257,21,56461.0,10,1,5.0,Beauty,Debit Card,Premium,Delhi,0
+ORD100258,28,56633.0,2,4,2.0,Sports,UPI,Premium,Chennai,0
+ORD100259,53,57884.0,6,1,1.0,Fashion,Debit Card,New,Chennai,0
+ORD100260,54,97932.0,6,9,4.0,Beauty,UPI,Premium,Chennai,1
+ORD100261,40,49256.0,10,5,5.0,Beauty,Credit Card,Premium,Mumbai,1
+ORD100262,44,81682.0,6,7,2.0,Electronics,UPI,Regular,Chennai,1
+ORD100263,29,47328.0,9,4,2.0,Home,Debit Card,Regular,Delhi,1
+ORD100264,34,36237.0,5,9,2.0,Fashion,Credit Card,Premium,Delhi,1
+ORD100265,18,19750.0,5,3,3.0,Sports,Credit Card,New,Bangalore,0
+ORD100266,43,53776.0,5,7,3.0,,Cash on Delivery,Premium,Bangalore,1
+ORD100267,53,91748.0,11,6,3.0,Beauty,Credit Card,New,Delhi,1
+ORD100268,51,53802.0,8,5,5.0,Home,Cash on Delivery,Regular,Chennai,0
+ORD100269,50,59629.0,4,3,3.0,Beauty,Debit Card,Premium,Hyderabad,0
+ORD100270,52,32487.0,11,0,3.0,Fashion,UPI,Regular,Mumbai,0
+ORD100271,51,47804.0,10,1,5.0,Sports,Debit Card,Premium,Delhi,0
+ORD100272,26,15548.0,8,0,1.0,Home,Cash on Delivery,Regular,Bangalore,1
+ORD100273,42,560.0,11,7,2.0,Beauty,Cash on Delivery,New,Bangalore,1
+ORD100274,42,13850.0,3,2,2.0,Beauty,Debit Card,Premium,Mumbai,0
+ORD100275,54,86623.0,12,2,2.0,Home,UPI,Premium,Delhi,1
+ORD100276,29,51974.0,5,0,5.0,Home,UPI,Premium,Chennai,0
+ORD100277,34,49981.0,9,6,1.0,Sports,Cash on Delivery,Regular,Bangalore,1
+ORD100278,29,1841.0,8,2,5.0,Sports,Debit Card,New,Bangalore,0
+ORD100279,34,2250.0,5,5,1.0,Sports,Debit Card,Premium,Bangalore,1
+ORD100280,35,63052.0,12,9,1.0,Electronics,UPI,Regular,Delhi,1
+ORD100281,43,28435.0,10,6,1.0,Electronics,Debit Card,Premium,Bangalore,1
+ORD100282,40,88333.0,5,5,2.0,Electronics,Debit Card,Regular,Delhi,1
+ORD100283,24,45313.0,5,6,1.0,Fashion,Credit Card,New,Hyderabad,1
+ORD100284,25,83941.0,11,6,5.0,Home,Debit Card,New,Mumbai,1
+ORD100285,35,36562.0,14,3,3.0,Beauty,Debit Card,Premium,Mumbai,1
+ORD100286,35,,10,6,1.0,Electronics,Cash on Delivery,New,Bangalore,1
+ORD100287,31,75410.0,8,2,4.0,Fashion,Cash on Delivery,Premium,Mumbai,0
+ORD100288,51,82550.0,5,7,2.0,Electronics,Cash on Delivery,New,Mumbai,1
+ORD100289,40,78687.0,7,7,1.0,Sports,UPI,Regular,Mumbai,1
+ORD100290,21,55120.0,6,8,5.0,,Cash on Delivery,Premium,Mumbai,1
+ORD100291,35,94723.0,13,9,4.0,Electronics,Credit Card,Regular,Chennai,1
+ORD100292,19,74538.0,3,9,2.0,Sports,Debit Card,Premium,Bangalore,1
+ORD100293,47,29930.0,13,1,3.0,Electronics,Cash on Delivery,Premium,Mumbai,1
+ORD100294,56,16871.0,13,0,5.0,Beauty,UPI,New,Chennai,0
+ORD100295,33,85931.0,12,8,2.0,Electronics,Debit Card,Regular,Chennai,1
+ORD100296,47,50572.0,7,3,5.0,Electronics,Credit Card,Premium,Bangalore,0
+ORD100297,18,33233.0,1,2,5.0,Beauty,Cash on Delivery,Regular,Hyderabad,0
+ORD100298,31,25451.0,14,1,4.0,Beauty,Credit Card,Regular,Chennai,0
+ORD100299,35,41100.0,1,4,1.0,Beauty,Cash on Delivery,Regular,Chennai,1
+ORD100300,32,81188.0,9,7,4.0,Home,Credit Card,Regular,Delhi,1
+ORD100301,29,43501.0,5,4,3.0,Fashion,Debit Card,New,Mumbai,0
+ORD100302,23,1306.0,8,7,3.0,Sports,Debit Card,New,Delhi,1
+ORD100303,30,80597.0,9,6,4.0,Home,Credit Card,New,Delhi,1
+ORD100304,21,55342.0,8,3,5.0,Electronics,Credit Card,Premium,Hyderabad,0
+ORD100305,27,40542.0,2,8,2.0,Electronics,UPI,Regular,Bangalore,1
+ORD100306,58,27876.0,10,2,5.0,Fashion,Credit Card,New,Hyderabad,0
+ORD100307,22,74281.0,7,0,1.0,Fashion,Credit Card,New,Mumbai,0
+ORD100308,52,62983.0,10,0,5.0,Fashion,UPI,Regular,Bangalore,0
+ORD100309,59,84886.0,2,1,1.0,Fashion,Debit Card,New,Chennai,0
+ORD100310,41,25078.0,3,5,5.0,Electronics,Credit Card,New,Mumbai,0
+ORD100311,42,60220.0,4,4,2.0,Fashion,Debit Card,New,Bangalore,1
+ORD100312,28,84060.0,8,2,3.0,Home,UPI,New,Delhi,0
+ORD100313,45,98320.0,9,2,1.0,Sports,UPI,Premium,Chennai,1
+ORD100314,51,26431.0,10,8,1.0,Beauty,Cash on Delivery,Regular,Hyderabad,1
+ORD100315,22,59262.0,11,1,4.0,Sports,UPI,Regular,Hyderabad,0
+ORD100316,32,70169.0,8,4,2.0,Fashion,UPI,Premium,Hyderabad,1
+ORD100317,35,95161.0,5,4,5.0,Home,Cash on Delivery,Premium,Chennai,0
+ORD100318,34,10016.0,14,2,2.0,Electronics,Cash on Delivery,Regular,Delhi,1
+ORD100319,20,2091.0,8,1,3.0,Electronics,Cash on Delivery,Premium,Delhi,0
+ORD100320,30,86731.0,3,7,4.0,Electronics,UPI,Regular,Hyderabad,0
+ORD100321,50,97326.0,11,8,5.0,Fashion,UPI,New,Mumbai,1
+ORD100322,42,26792.0,10,3,3.0,Sports,Debit Card,Regular,Hyderabad,1
+ORD100323,55,54447.0,7,4,3.0,Sports,Debit Card,Regular,Hyderabad,1
+ORD100324,48,699279.0,10,9,3.0,Sports,Cash on Delivery,New,Chennai,1
+ORD100325,47,699279.0,2,3,2.0,Sports,Credit Card,Regular,Delhi,0
+ORD100326,31,58432.0,13,6,2.0,Fashion,Cash on Delivery,Regular,Delhi,1
+ORD100327,49,96256.0,14,0,1.0,Beauty,Cash on Delivery,Premium,Chennai,1
+ORD100328,34,32466.0,2,7,5.0,Home,Cash on Delivery,Regular,Mumbai,0
+ORD100329,52,1507.0,6,2,2.0,Home,Credit Card,Premium,Delhi,0
+ORD100330,58,42707.0,2,4,5.0,Electronics,UPI,New,Chennai,0
+ORD100331,39,14007.0,4,3,2.0,Beauty,UPI,Premium,Mumbai,0
+ORD100332,21,50692.0,12,5,1.0,Fashion,UPI,Premium,Hyderabad,1
+ORD100333,27,9577.0,1,5,2.0,Sports,Debit Card,Premium,Chennai,0
+ORD100334,35,68389.0,14,3,3.0,Beauty,Debit Card,Premium,Delhi,1
+ORD100335,52,21927.0,13,6,5.0,Electronics,Debit Card,Premium,Mumbai,1
+ORD100336,28,44564.0,6,2,3.0,Home,UPI,Premium,Hyderabad,0
+ORD100337,40,45069.0,2,1,5.0,,Credit Card,Premium,Delhi,0
+ORD100338,21,14788.0,3,8,5.0,Fashion,UPI,Regular,Hyderabad,0
+ORD100339,46,17982.0,4,1,4.0,Home,UPI,Regular,Hyderabad,0
+ORD100340,39,77758.0,11,2,1.0,Fashion,Cash on Delivery,Premium,Hyderabad,1
+ORD100341,45,34256.0,5,4,3.0,Sports,UPI,Premium,Mumbai,0
+ORD100342,37,49401.0,3,8,5.0,Electronics,Credit Card,Regular,Mumbai,0
+ORD100343,20,6126.0,1,9,4.0,Home,Debit Card,New,Bangalore,1
+ORD100344,55,20482.0,2,2,1.0,Fashion,Cash on Delivery,New,Bangalore,0
+ORD100345,42,83211.0,12,1,4.0,Electronics,UPI,Premium,Hyderabad,0
+ORD100346,33,86030.0,8,8,1.0,Fashion,Cash on Delivery,Regular,Delhi,1
+ORD100347,46,69416.0,8,1,4.0,Home,Credit Card,Regular,Mumbai,0
+ORD100348,24,62288.0,12,4,4.0,Home,UPI,New,Bangalore,1
+ORD100349,20,15751.0,14,8,1.0,,UPI,Premium,Chennai,1
+ORD100350,37,35031.0,9,5,1.0,Home,Cash on Delivery,Premium,Delhi,1
+ORD100351,39,5609.0,5,4,2.0,Beauty,Cash on Delivery,Regular,Mumbai,1
+ORD100352,41,83003.0,11,0,5.0,Fashion,UPI,Regular,Delhi,0
+ORD100353,35,27089.0,2,5,3.0,Electronics,Debit Card,Premium,Hyderabad,0
+ORD100354,42,64788.0,12,5,1.0,Beauty,Debit Card,New,Bangalore,1
+ORD100355,25,50430.0,6,2,1.0,Beauty,UPI,New,Bangalore,1
+ORD100356,34,39999.0,9,5,4.0,Home,Credit Card,New,Mumbai,1
+ORD100357,37,35988.0,10,7,2.0,Home,Debit Card,New,Chennai,1
+ORD100358,50,49653.0,1,0,1.0,Beauty,Cash on Delivery,New,Bangalore,0
+ORD100359,30,84369.0,1,3,2.0,Beauty,Credit Card,Premium,Hyderabad,0
+ORD100360,39,52826.0,2,5,2.0,Home,UPI,Regular,Chennai,1
+ORD100361,32,69077.0,10,6,4.0,Beauty,UPI,Regular,Chennai,1
+ORD100362,57,72126.0,13,2,3.0,Home,Cash on Delivery,Premium,Delhi,1
+ORD100363,23,84476.0,6,8,1.0,Beauty,Debit Card,New,Delhi,1
+ORD100364,29,26789.0,12,3,3.0,Electronics,Debit Card,New,Hyderabad,1
+ORD100365,24,99262.0,4,3,2.0,Beauty,Debit Card,New,Delhi,0
+ORD100366,39,74637.0,3,8,4.0,Electronics,Credit Card,Regular,Hyderabad,1
+ORD100367,59,37377.0,11,1,4.0,Beauty,UPI,Regular,Mumbai,0
+ORD100368,40,2060.0,13,2,2.0,Home,Credit Card,Regular,Bangalore,1
+ORD100369,36,20522.0,14,3,5.0,Electronics,UPI,Premium,Hyderabad,1
+ORD100370,25,28880.0,7,4,3.0,Fashion,Debit Card,Regular,Bangalore,1
+ORD100371,35,76217.0,2,2,5.0,Fashion,UPI,New,Mumbai,0
+ORD100372,49,3420.0,11,2,4.0,Fashion,Credit Card,Premium,Bangalore,0
+ORD100373,27,9446.0,3,5,1.0,Electronics,Credit Card,Premium,Delhi,1
+ORD100374,24,30527.0,1,4,2.0,Beauty,Cash on Delivery,Premium,Hyderabad,0
+ORD100375,41,74631.0,5,3,4.0,Sports,Debit Card,Premium,Mumbai,0
+ORD100376,37,99759.0,8,1,1.0,Fashion,Cash on Delivery,New,Delhi,1
+ORD100377,49,65628.0,4,9,5.0,Beauty,Debit Card,Regular,Hyderabad,1
+ORD100378,51,22515.0,4,1,2.0,Electronics,Debit Card,Premium,Chennai,0
+ORD100379,53,45850.0,10,2,3.0,Home,Cash on Delivery,Regular,Chennai,1
+ORD100380,29,48864.0,2,7,5.0,Electronics,Debit Card,Regular,Chennai,0
+ORD100381,32,57556.0,3,9,4.0,Electronics,Cash on Delivery,Regular,Hyderabad,1
+ORD100382,47,12061.0,12,1,5.0,Sports,UPI,Regular,Hyderabad,0
+ORD100383,22,45465.0,13,8,4.0,Fashion,Debit Card,Premium,Delhi,1
+ORD100384,31,70635.0,7,8,4.0,Sports,Credit Card,New,Delhi,1
+ORD100385,19,69850.0,6,0,3.0,Electronics,Debit Card,Premium,Chennai,0
+ORD100386,42,92652.0,12,1,3.0,,Credit Card,New,Bangalore,1
+ORD100387,54,14260.0,8,7,4.0,Beauty,Cash on Delivery,Premium,Hyderabad,1
+ORD100388,40,52733.0,3,5,2.0,Sports,Credit Card,Regular,Mumbai,1
+ORD100389,46,77119.0,14,8,1.0,Home,Cash on Delivery,Regular,Mumbai,1
+ORD100390,22,80030.0,12,0,1.0,Sports,UPI,Premium,Mumbai,1
+ORD100391,37,85612.0,11,4,5.0,Electronics,Debit Card,New,Hyderabad,0
+ORD100392,29,92824.0,1,0,4.0,Beauty,Debit Card,Regular,Hyderabad,0
+ORD100393,45,83810.0,6,3,2.0,Fashion,Debit Card,New,Hyderabad,1
+ORD100394,31,82037.0,9,4,4.0,Fashion,Debit Card,Regular,Delhi,1
+ORD100395,43,27920.0,1,6,3.0,Fashion,UPI,Regular,Hyderabad,0
+ORD100396,23,76760.0,5,4,1.0,Beauty,Debit Card,New,Hyderabad,1
+ORD100397,31,26111.0,10,3,5.0,Electronics,Cash on Delivery,Premium,Mumbai,0
+ORD100398,41,66161.0,2,8,2.0,Electronics,Debit Card,Regular,Bangalore,1
+ORD100399,46,15898.0,8,1,4.0,Fashion,Debit Card,Regular,Bangalore,0
+ORD100400,55,12615.0,7,3,2.0,Fashion,Credit Card,New,Chennai,1
+ORD100401,59,83311.0,7,7,2.0,Home,UPI,Premium,Hyderabad,1
+ORD100402,38,23696.0,6,4,2.0,Sports,UPI,Premium,Mumbai,1
+ORD100403,18,47914.0,7,9,3.0,Sports,Credit Card,Premium,Delhi,1
+ORD100404,27,55909.0,2,0,2.0,Fashion,Credit Card,New,Hyderabad,0
+ORD100405,25,66338.0,8,0,4.0,Fashion,Cash on Delivery,New,Delhi,0
+ORD100406,44,43323.0,9,3,1.0,Home,Credit Card,Regular,Hyderabad,1
+ORD100407,18,32390.0,14,4,5.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD100408,58,8625.0,12,1,2.0,,Debit Card,Regular,Bangalore,1
+ORD100409,23,6204.0,1,8,1.0,Home,Cash on Delivery,Regular,Mumbai,1
+ORD100410,30,27708.0,5,8,3.0,Beauty,Cash on Delivery,New,Bangalore,1
+ORD100411,21,29665.0,4,5,3.0,Sports,Credit Card,Regular,Chennai,0
+ORD100412,23,36821.0,2,8,3.0,Beauty,Debit Card,Premium,Chennai,1
+ORD100413,28,4212.0,8,5,1.0,Sports,UPI,Regular,Chennai,1
+ORD100414,38,4226.0,1,9,5.0,Fashion,Debit Card,Regular,Hyderabad,0
+ORD100415,36,36143.0,13,8,1.0,Fashion,Cash on Delivery,New,Bangalore,1
+ORD100416,49,,3,5,2.0,Beauty,Debit Card,New,Delhi,1
+ORD100417,28,77243.0,14,9,2.0,Electronics,Cash on Delivery,Premium,Mumbai,1
+ORD100418,26,23112.0,10,7,2.0,Fashion,Cash on Delivery,New,Mumbai,1
+ORD100419,23,92559.0,5,9,1.0,Fashion,UPI,Regular,Chennai,1
+ORD100420,29,22136.0,2,4,4.0,Home,Credit Card,New,Chennai,0
+ORD100421,53,74270.0,7,5,2.0,Home,Cash on Delivery,Premium,Bangalore,1
+ORD100422,38,33674.0,11,6,5.0,Beauty,Cash on Delivery,Premium,Chennai,1
+ORD100423,32,56588.0,4,2,4.0,Electronics,UPI,Regular,Bangalore,0
+ORD100424,38,38150.0,2,3,5.0,Fashion,Cash on Delivery,New,Mumbai,0
+ORD100425,44,43152.0,12,2,2.0,,Debit Card,New,Chennai,1
+ORD100426,53,64657.0,2,1,1.0,Fashion,Cash on Delivery,Premium,Hyderabad,0
+ORD100427,30,23671.0,10,8,3.0,Beauty,UPI,New,Delhi,1
+ORD100428,24,44639.0,10,6,5.0,Sports,UPI,Premium,Hyderabad,1
+ORD100429,48,4154.0,8,0,2.0,Sports,Credit Card,Premium,Bangalore,0
+ORD100430,59,25111.0,4,3,1.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD100431,59,77166.0,13,6,5.0,Home,Credit Card,Premium,Delhi,1
+ORD100432,39,9935.0,9,9,1.0,Fashion,UPI,Premium,Mumbai,1
+ORD100433,32,82429.0,8,9,1.0,Electronics,UPI,Regular,Delhi,1
+ORD100434,59,72331.0,1,9,3.0,Electronics,Cash on Delivery,Regular,Mumbai,1
+ORD100435,54,56326.0,4,6,2.0,Electronics,Debit Card,New,Mumbai,1
+ORD100436,42,66181.0,3,3,2.0,Fashion,UPI,Premium,Mumbai,0
+ORD100437,50,64674.0,1,2,4.0,Fashion,UPI,Regular,Hyderabad,0
+ORD100438,51,95380.0,7,4,1.0,Home,Credit Card,Premium,Delhi,1
+ORD100439,39,77731.0,5,2,4.0,Beauty,Credit Card,New,Chennai,0
+ORD100440,24,24211.0,11,9,1.0,Beauty,UPI,Regular,Bangalore,1
+ORD100441,31,58284.0,14,8,2.0,Electronics,Credit Card,New,Mumbai,1
+ORD100442,52,4858.0,5,1,3.0,Home,Cash on Delivery,Premium,Delhi,0
+ORD100443,59,32617.0,13,6,1.0,Home,UPI,Premium,Bangalore,1
+ORD100444,28,62938.0,8,2,4.0,Home,Debit Card,New,Mumbai,0
+ORD100445,43,34393.0,10,6,5.0,Home,UPI,Regular,Delhi,1
+ORD100446,53,73879.0,3,8,1.0,Beauty,Cash on Delivery,Regular,Mumbai,1
+ORD100447,23,68508.0,7,3,,Fashion,Cash on Delivery,Premium,Delhi,0
+ORD100448,19,71087.0,5,4,2.0,Home,Debit Card,New,Delhi,1
+ORD100449,20,45613.0,3,5,2.0,Electronics,Cash on Delivery,Premium,Bangalore,1
+ORD100450,40,19701.0,6,0,3.0,Sports,Debit Card,Regular,Chennai,0
+ORD100451,51,10186.0,14,3,4.0,Electronics,Debit Card,Premium,Mumbai,1
+ORD100452,53,43328.0,13,8,2.0,Home,Cash on Delivery,Premium,Delhi,1
+ORD100453,47,99436.0,7,0,4.0,Fashion,Cash on Delivery,Regular,Delhi,0
+ORD100454,25,40391.0,3,6,4.0,Electronics,Debit Card,Premium,Delhi,0
+ORD100455,57,29801.0,5,3,4.0,Home,UPI,New,Delhi,0
+ORD100456,18,98412.0,14,4,4.0,Home,Credit Card,New,Bangalore,1
+ORD100457,23,56773.0,8,6,1.0,Sports,Cash on Delivery,New,Bangalore,1
+ORD100458,33,11199.0,6,3,2.0,Electronics,Credit Card,Premium,Mumbai,1
+ORD100459,31,16663.0,1,6,2.0,Home,Cash on Delivery,Premium,Chennai,1
+ORD100460,19,84828.0,5,1,3.0,Sports,Credit Card,Premium,Delhi,0
+ORD100461,26,84916.0,11,2,4.0,Home,Debit Card,Regular,Chennai,0
+ORD100462,40,18573.0,4,1,3.0,Sports,Credit Card,Premium,Mumbai,0
+ORD100463,39,65950.0,6,4,4.0,Beauty,Debit Card,Premium,Mumbai,0
+ORD100464,59,98018.0,1,9,2.0,Fashion,UPI,New,Bangalore,1
+ORD100465,52,77457.0,8,9,3.0,Beauty,Cash on Delivery,Premium,Chennai,1
+ORD100466,33,32250.0,4,8,5.0,Home,Debit Card,Premium,Delhi,1
+ORD100467,52,7221.0,11,1,3.0,Fashion,Debit Card,Premium,Delhi,0
+ORD100468,35,73409.0,4,1,2.0,Fashion,UPI,New,Chennai,0
+ORD100469,42,75020.0,13,5,1.0,Beauty,Credit Card,Premium,Delhi,1
+ORD100470,53,74322.0,14,0,5.0,Electronics,Debit Card,Premium,Mumbai,0
+ORD100471,20,35798.0,9,5,1.0,Electronics,Debit Card,Regular,Bangalore,1
+ORD100472,30,48744.0,2,7,5.0,Fashion,Debit Card,Premium,Bangalore,0
+ORD100473,51,17847.0,9,3,5.0,Electronics,Credit Card,New,Bangalore,0
+ORD100474,29,8467.0,12,3,2.0,Beauty,UPI,Regular,Hyderabad,1
+ORD100475,46,55599.0,6,1,4.0,Sports,Debit Card,Regular,Hyderabad,0
+ORD100476,40,72646.0,3,4,3.0,Fashion,UPI,New,Mumbai,0
+ORD100477,51,97533.0,9,1,3.0,Beauty,Cash on Delivery,Premium,Delhi,0
+ORD100478,48,96194.0,9,6,3.0,Beauty,UPI,New,Mumbai,1
+ORD100479,26,30294.0,5,8,4.0,Electronics,Cash on Delivery,Regular,Hyderabad,1
+ORD100480,24,97859.0,12,0,4.0,Home,Credit Card,Premium,Hyderabad,0
+ORD100481,21,55323.0,1,4,4.0,Fashion,Credit Card,Regular,Hyderabad,0
+ORD100482,46,99223.0,12,5,2.0,Electronics,UPI,Premium,Bangalore,1
+ORD100483,54,32871.0,14,2,3.0,Home,Credit Card,New,Mumbai,1
+ORD100484,45,28105.0,14,6,5.0,Fashion,Debit Card,Premium,Mumbai,1
+ORD100485,39,69752.0,14,6,2.0,Electronics,Debit Card,New,Hyderabad,1
+ORD100486,44,7048.0,6,5,5.0,Home,Credit Card,Premium,Mumbai,0
+ORD100487,27,24522.0,10,7,5.0,Sports,UPI,Premium,Bangalore,1
+ORD100488,18,60928.0,5,9,2.0,Sports,Credit Card,New,Hyderabad,1
+ORD100489,38,16552.0,2,4,5.0,Sports,Debit Card,Premium,Chennai,0
+ORD100490,49,663.0,1,2,1.0,Electronics,UPI,New,Hyderabad,0
+ORD100491,28,5298.0,5,3,5.0,Home,Credit Card,Premium,Delhi,0
+ORD100492,43,11249.0,4,1,4.0,Sports,UPI,Regular,Hyderabad,0
+ORD100493,35,21723.0,3,8,5.0,Home,Debit Card,Regular,Bangalore,0
+ORD100494,46,20377.0,10,4,2.0,Beauty,Debit Card,Regular,Chennai,1
+ORD100495,30,53852.0,1,7,1.0,Electronics,Credit Card,Regular,Delhi,1
+ORD100496,58,65141.0,12,0,,Beauty,Cash on Delivery,New,Mumbai,1
+ORD100497,57,91400.0,12,6,2.0,Sports,Credit Card,Regular,Mumbai,1
+ORD100498,25,29102.0,6,7,1.0,Home,Cash on Delivery,New,Mumbai,1
+ORD100499,32,74116.0,12,6,5.0,Sports,UPI,Regular,Bangalore,1
+ORD100500,36,48184.0,12,0,5.0,Beauty,UPI,Regular,Delhi,0
+ORD100501,25,70976.0,8,8,3.0,Fashion,Credit Card,New,Chennai,1
+ORD100502,18,8288.0,3,7,3.0,Home,Cash on Delivery,Premium,Delhi,1
+ORD100503,41,77316.0,5,3,5.0,Fashion,Credit Card,Regular,Hyderabad,0
+ORD100504,57,45357.0,14,3,3.0,Home,Credit Card,New,Delhi,1
+ORD100505,32,64527.0,3,9,5.0,Sports,Cash on Delivery,Regular,Mumbai,1
+ORD100506,22,76795.0,10,5,4.0,Beauty,UPI,New,Delhi,1
+ORD100507,34,18130.0,8,7,1.0,Sports,Cash on Delivery,New,Bangalore,1
+ORD100508,26,52661.0,2,2,1.0,Sports,Debit Card,New,Chennai,0
+ORD100509,53,98161.0,4,8,1.0,Home,Cash on Delivery,Premium,Delhi,1
+ORD100510,42,62058.0,14,1,2.0,Home,UPI,New,Delhi,1
+ORD100511,38,86167.0,12,7,2.0,Fashion,Debit Card,Premium,Mumbai,1
+ORD100512,30,39571.0,12,1,3.0,,Debit Card,New,Delhi,1
+ORD100513,27,46338.0,1,7,2.0,Electronics,Credit Card,Regular,Hyderabad,1
+ORD100514,26,22668.0,8,9,1.0,Home,UPI,Regular,Hyderabad,1
+ORD100515,39,78311.0,14,3,5.0,Beauty,Debit Card,Premium,Hyderabad,1
+ORD100516,49,65446.0,14,0,,Electronics,Credit Card,New,Delhi,0
+ORD100517,52,31341.0,14,6,1.0,Home,Debit Card,Premium,Mumbai,1
+ORD100518,29,50908.0,2,4,5.0,Fashion,Credit Card,Premium,Hyderabad,0
+ORD100519,38,16497.0,8,7,4.0,Beauty,UPI,New,Chennai,1
+ORD100520,49,94963.0,6,5,3.0,Fashion,Debit Card,Regular,Hyderabad,1
+ORD100521,42,44041.0,12,1,2.0,Beauty,Credit Card,Premium,Hyderabad,1
+ORD100522,46,56231.0,11,1,3.0,Fashion,Debit Card,Premium,Mumbai,0
+ORD100523,40,21067.0,12,5,3.0,Fashion,Cash on Delivery,Premium,Mumbai,1
+ORD100524,54,67760.0,1,7,3.0,Sports,Debit Card,Premium,Hyderabad,1
+ORD100525,36,82442.0,13,6,4.0,Sports,Cash on Delivery,Premium,Hyderabad,1
+ORD100526,42,56947.0,5,7,2.0,Home,Cash on Delivery,New,Mumbai,1
+ORD100527,33,65595.0,1,4,3.0,Home,UPI,Regular,Hyderabad,0
+ORD100528,18,39287.0,8,2,2.0,Home,UPI,Premium,Delhi,1
+ORD100529,51,68556.0,10,4,3.0,Home,Credit Card,Premium,Chennai,1
+ORD100530,44,77365.0,9,8,4.0,Sports,Cash on Delivery,New,Hyderabad,1
+ORD100531,53,48201.0,10,9,2.0,Sports,Cash on Delivery,New,Bangalore,1
+ORD100532,29,27332.0,14,8,2.0,Electronics,UPI,New,Chennai,1
+ORD100533,37,37251.0,3,6,3.0,Beauty,Debit Card,Regular,Bangalore,1
+ORD100534,54,83117.0,4,3,4.0,Beauty,Credit Card,Regular,Hyderabad,0
+ORD100535,27,67049.0,3,9,5.0,Sports,Cash on Delivery,Premium,Chennai,1
+ORD100536,55,79145.0,8,6,5.0,Fashion,Credit Card,Premium,Mumbai,1
+ORD100537,27,92697.0,14,3,4.0,Beauty,Cash on Delivery,Regular,Bangalore,1
+ORD100538,37,60164.0,7,6,4.0,Beauty,Debit Card,Premium,Mumbai,1
+ORD100539,46,95233.0,3,7,5.0,Home,Cash on Delivery,New,Bangalore,0
+ORD100540,33,23725.0,7,3,4.0,Home,Debit Card,New,Mumbai,0
+ORD100541,41,66197.0,14,1,3.0,Home,Credit Card,Premium,Delhi,1
+ORD100542,48,61103.0,12,2,1.0,Home,Cash on Delivery,Regular,Hyderabad,1
+ORD100543,36,78729.0,8,9,5.0,Home,Debit Card,New,Hyderabad,1
+ORD100544,48,10758.0,13,3,1.0,Sports,Cash on Delivery,Regular,Mumbai,1
+ORD100545,50,34437.0,4,0,3.0,Fashion,Debit Card,New,Mumbai,0
+ORD100546,45,27886.0,11,8,4.0,Electronics,Debit Card,Regular,Mumbai,1
+ORD100547,50,60292.0,6,3,4.0,Beauty,Credit Card,New,Hyderabad,0
+ORD100548,44,30754.0,14,6,1.0,Home,Debit Card,New,Chennai,1
+ORD100549,43,3971.0,5,8,4.0,Sports,Credit Card,New,Chennai,1
+ORD100550,27,35365.0,3,0,5.0,Sports,Credit Card,Premium,Bangalore,0
+ORD100551,23,53572.0,11,2,5.0,Electronics,UPI,Regular,Mumbai,0
+ORD100552,36,83869.0,3,9,3.0,Beauty,UPI,Premium,Bangalore,1
+ORD100553,22,63312.0,5,3,1.0,Electronics,Credit Card,Regular,Delhi,1
+ORD100554,38,25779.0,5,3,2.0,Beauty,Credit Card,Regular,Mumbai,0
+ORD100555,21,,7,6,2.0,Home,UPI,New,Hyderabad,1
+ORD100556,52,95348.0,8,8,4.0,Fashion,UPI,New,Delhi,1
+ORD100557,23,13993.0,14,8,4.0,Fashion,UPI,Regular,Delhi,1
+ORD100558,41,,4,4,4.0,Fashion,Debit Card,New,Chennai,0
+ORD100559,59,93073.0,6,6,3.0,Home,UPI,Regular,Mumbai,1
+ORD100560,45,74497.0,8,9,2.0,Beauty,Cash on Delivery,New,Hyderabad,1
+ORD100561,42,33472.0,6,8,5.0,Beauty,Debit Card,New,Chennai,1
+ORD100562,53,59563.0,11,3,2.0,Home,Credit Card,Premium,Delhi,1
+ORD100563,38,47799.0,2,0,3.0,Home,Credit Card,New,Mumbai,0
+ORD100564,24,97394.0,2,7,3.0,Home,Credit Card,New,Hyderabad,1
+ORD100565,37,77954.0,7,4,2.0,Beauty,Cash on Delivery,Premium,Mumbai,1
+ORD100566,43,3039.0,8,8,5.0,Electronics,Cash on Delivery,Premium,Chennai,1
+ORD100567,38,28728.0,3,6,2.0,Fashion,Credit Card,Regular,Mumbai,1
+ORD100568,54,97739.0,1,2,3.0,Fashion,UPI,Regular,Delhi,0
+ORD100569,42,62792.0,12,8,5.0,Fashion,Cash on Delivery,Regular,Mumbai,1
+ORD100570,58,6804.0,2,4,4.0,Home,UPI,Regular,Mumbai,0
+ORD100571,59,15852.0,7,5,1.0,Fashion,UPI,Premium,Chennai,1
+ORD100572,34,75915.0,13,1,4.0,Beauty,Debit Card,New,Delhi,0
+ORD100573,58,56218.0,6,0,1.0,Sports,Debit Card,Premium,Chennai,0
+ORD100574,51,51169.0,6,1,1.0,Home,Debit Card,Premium,Bangalore,0
+ORD100575,27,13640.0,5,1,1.0,Fashion,Credit Card,Regular,Bangalore,0
+ORD100576,19,66133.0,3,6,4.0,Beauty,Debit Card,Regular,Hyderabad,0
+ORD100577,41,57826.0,8,5,4.0,Beauty,Credit Card,New,Hyderabad,1
+ORD100578,27,17494.0,3,0,5.0,Electronics,Cash on Delivery,Premium,Mumbai,0
+ORD100579,37,75405.0,4,3,5.0,Electronics,UPI,New,Hyderabad,0
+ORD100580,32,18633.0,4,8,2.0,Sports,Credit Card,Premium,Hyderabad,1
+ORD100581,45,40461.0,1,1,1.0,Fashion,Credit Card,Regular,Hyderabad,0
+ORD100582,20,43451.0,12,0,2.0,Beauty,UPI,Premium,Bangalore,1
+ORD100583,52,21753.0,7,3,1.0,Sports,Cash on Delivery,New,Hyderabad,1
+ORD100584,36,7352.0,3,7,4.0,Beauty,UPI,Regular,Bangalore,0
+ORD100585,27,49659.0,8,8,4.0,Sports,Cash on Delivery,Regular,Hyderabad,1
+ORD100586,54,7739.0,7,8,2.0,Electronics,Cash on Delivery,Premium,Mumbai,1
+ORD100587,59,7471.0,4,5,4.0,Electronics,Cash on Delivery,Regular,Chennai,0
+ORD100588,19,85242.0,3,2,3.0,Fashion,UPI,New,Delhi,0
+ORD100589,57,7129.0,1,0,5.0,Home,UPI,Premium,Chennai,0
+ORD100590,49,17571.0,11,4,4.0,Electronics,Cash on Delivery,New,Mumbai,1
+ORD100591,47,11705.0,14,5,3.0,Beauty,Credit Card,New,Delhi,1
+ORD100592,49,63487.0,11,6,1.0,Home,Cash on Delivery,Regular,Delhi,1
+ORD100593,38,56981.0,4,5,2.0,Beauty,UPI,Premium,Hyderabad,1
+ORD100594,48,26670.0,7,4,1.0,Fashion,Debit Card,New,Bangalore,1
+ORD100595,20,27319.0,9,3,2.0,,Cash on Delivery,Premium,Bangalore,1
+ORD100596,43,89208.0,3,8,4.0,Fashion,UPI,New,Mumbai,1
+ORD100597,55,96165.0,6,2,4.0,Beauty,Cash on Delivery,Premium,Delhi,0
+ORD100598,28,87989.0,12,8,5.0,Fashion,Credit Card,Regular,Mumbai,1
+ORD100599,41,46805.0,6,2,4.0,Fashion,Debit Card,New,Chennai,0
+ORD100600,45,59665.0,10,4,4.0,Electronics,Cash on Delivery,Premium,Chennai,1
+ORD100601,43,90801.0,1,4,3.0,Fashion,Credit Card,New,Chennai,0
+ORD100602,51,45596.0,3,1,2.0,Sports,UPI,Regular,Hyderabad,0
+ORD100603,28,84746.0,6,0,5.0,Electronics,Credit Card,Premium,Chennai,0
+ORD100604,28,77137.0,11,2,1.0,Beauty,Cash on Delivery,New,Hyderabad,1
+ORD100605,37,28016.0,2,1,3.0,Fashion,UPI,New,Hyderabad,0
+ORD100606,57,10987.0,12,6,1.0,Home,Credit Card,Premium,Hyderabad,1
+ORD100607,37,29295.0,1,7,3.0,Home,Debit Card,New,Mumbai,1
+ORD100608,21,99245.0,9,5,5.0,Fashion,Credit Card,Regular,Mumbai,0
+ORD100609,52,10028.0,5,4,4.0,Home,UPI,Premium,Hyderabad,0
+ORD100610,31,55767.0,12,0,1.0,Fashion,Cash on Delivery,Premium,Delhi,1
+ORD100611,52,51439.0,13,1,3.0,Electronics,Debit Card,Premium,Delhi,1
+ORD100612,50,87161.0,11,6,3.0,Sports,Debit Card,Premium,Delhi,1
+ORD100613,44,83797.0,8,5,4.0,Beauty,Credit Card,Regular,Delhi,1
+ORD100614,25,15537.0,3,2,3.0,Fashion,Cash on Delivery,New,Bangalore,0
+ORD100615,37,8972.0,8,7,2.0,Home,Credit Card,Regular,Chennai,1
+ORD100616,55,35018.0,6,8,3.0,Sports,Cash on Delivery,Regular,Hyderabad,1
+ORD100617,20,22278.0,9,3,5.0,Sports,Credit Card,Regular,Bangalore,0
+ORD100618,24,28865.0,9,6,1.0,Home,Credit Card,Regular,Chennai,1
+ORD100619,36,52642.0,4,7,5.0,Beauty,Debit Card,New,Hyderabad,0
+ORD100620,53,32155.0,1,8,1.0,Fashion,UPI,Regular,Delhi,1
+ORD100621,42,47233.0,11,4,3.0,Sports,UPI,New,Bangalore,1
+ORD100622,58,98734.0,14,8,4.0,Sports,Credit Card,Regular,Bangalore,1
+ORD100623,21,50639.0,8,1,1.0,Home,Debit Card,New,Bangalore,1
+ORD100624,39,63595.0,7,0,4.0,Fashion,UPI,Premium,Delhi,0
+ORD100625,52,66814.0,14,1,5.0,Fashion,Credit Card,Regular,Bangalore,0
+ORD100626,38,51000.0,4,4,3.0,Sports,Debit Card,Regular,Delhi,0
+ORD100627,50,73192.0,13,8,5.0,Beauty,Debit Card,Regular,Mumbai,1
+ORD100628,26,46903.0,3,0,2.0,Home,Cash on Delivery,Regular,Chennai,0
+ORD100629,41,60371.0,1,7,5.0,Beauty,Debit Card,New,Mumbai,0
+ORD100630,40,32674.0,8,5,4.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD100631,32,27149.0,4,5,5.0,Fashion,Credit Card,New,Mumbai,0
+ORD100632,55,96519.0,9,2,4.0,Sports,Cash on Delivery,Regular,Bangalore,0
+ORD100633,24,43855.0,12,3,4.0,Fashion,Debit Card,New,Delhi,1
+ORD100634,20,11593.0,12,1,2.0,Sports,Credit Card,Regular,Hyderabad,1
+ORD100635,44,11690.0,9,0,1.0,Home,Debit Card,Regular,Delhi,1
+ORD100636,35,27012.0,13,5,2.0,Beauty,Credit Card,Premium,Mumbai,1
+ORD100637,44,41083.0,3,9,1.0,Fashion,Credit Card,Premium,Hyderabad,1
+ORD100638,46,43104.0,1,2,3.0,Beauty,Credit Card,Premium,Chennai,0
+ORD100639,37,96555.0,1,5,1.0,Sports,UPI,New,Chennai,1
+ORD100640,25,37918.0,4,0,2.0,Electronics,Cash on Delivery,New,Bangalore,0
+ORD100641,56,17224.0,5,0,2.0,Electronics,Credit Card,New,Bangalore,0
+ORD100642,58,51452.0,8,4,1.0,Sports,Cash on Delivery,Regular,Chennai,1
+ORD100643,58,34123.0,5,2,3.0,Sports,Cash on Delivery,Premium,Delhi,0
+ORD100644,56,49834.0,9,6,5.0,Electronics,UPI,Premium,Hyderabad,1
+ORD100645,28,82054.0,11,0,4.0,Beauty,UPI,New,Hyderabad,0
+ORD100646,36,44863.0,8,7,5.0,Home,Debit Card,New,Hyderabad,1
+ORD100647,29,,1,9,4.0,Beauty,Credit Card,New,Chennai,1
+ORD100648,22,37883.0,9,6,5.0,Sports,Credit Card,New,Bangalore,1
+ORD100649,40,4260.0,4,1,2.0,Sports,Debit Card,Regular,Mumbai,0
+ORD100650,19,38711.0,14,0,4.0,Beauty,UPI,Regular,Delhi,0
+ORD100651,35,98438.0,12,7,4.0,Beauty,Credit Card,Premium,Bangalore,1
+ORD100652,50,17215.0,10,2,1.0,Home,UPI,Premium,Chennai,1
+ORD100653,56,71925.0,13,8,2.0,Electronics,Cash on Delivery,Regular,Delhi,1
+ORD100654,19,35110.0,11,9,2.0,Sports,Cash on Delivery,New,Chennai,1
+ORD100655,26,47119.0,3,3,3.0,Fashion,UPI,Regular,Delhi,0
+ORD100656,19,30873.0,3,7,2.0,Home,UPI,Premium,Chennai,1
+ORD100657,34,29169.0,12,2,3.0,Fashion,Credit Card,Premium,Hyderabad,1
+ORD100658,18,48938.0,13,9,5.0,,Debit Card,New,Chennai,1
+ORD100659,38,37937.0,1,8,1.0,Home,UPI,New,Mumbai,1
+ORD100660,55,11016.0,6,1,4.0,Electronics,Credit Card,Premium,Bangalore,0
+ORD100661,52,36768.0,7,8,5.0,Beauty,UPI,Regular,Bangalore,1
+ORD100662,55,61549.0,14,1,3.0,Sports,Credit Card,Premium,Delhi,1
+ORD100663,20,79503.0,12,8,3.0,Sports,Debit Card,Regular,Bangalore,1
+ORD100664,49,76269.0,11,8,4.0,Electronics,Debit Card,New,Chennai,1
+ORD100665,50,46234.0,2,7,4.0,Beauty,Credit Card,New,Mumbai,0
+ORD100666,54,82426.0,4,4,1.0,Sports,Cash on Delivery,Regular,Chennai,1
+ORD100667,18,85026.0,4,2,5.0,Home,Cash on Delivery,Regular,Bangalore,0
+ORD100668,27,40879.0,2,2,3.0,Home,Cash on Delivery,Regular,Bangalore,0
+ORD100669,48,12238.0,14,0,1.0,Sports,Cash on Delivery,New,Hyderabad,1
+ORD100670,55,9267.0,5,7,2.0,Home,Credit Card,Premium,Chennai,1
+ORD100671,29,95540.0,4,0,5.0,Electronics,Debit Card,New,Delhi,0
+ORD100672,22,7569.0,8,7,3.0,Fashion,Cash on Delivery,Regular,Mumbai,1
+ORD100673,20,70688.0,4,9,3.0,Electronics,UPI,New,Mumbai,1
+ORD100674,44,91869.0,3,1,3.0,Beauty,Debit Card,Regular,Chennai,0
+ORD100675,32,53661.0,5,9,5.0,Fashion,UPI,New,Delhi,1
+ORD100676,54,72349.0,12,4,3.0,Beauty,Cash on Delivery,New,Chennai,1
+ORD100677,40,23673.0,4,1,4.0,Electronics,Debit Card,Premium,Chennai,0
+ORD100678,26,19300.0,13,3,1.0,Sports,Debit Card,Regular,Chennai,1
+ORD100679,49,42761.0,4,4,5.0,Home,Cash on Delivery,Regular,Chennai,0
+ORD100680,58,2852.0,13,1,5.0,Sports,Credit Card,Premium,Hyderabad,0
+ORD100681,39,87336.0,11,6,3.0,Fashion,Cash on Delivery,New,Bangalore,1
+ORD100682,20,10069.0,13,2,2.0,Home,Debit Card,Regular,Delhi,1
+ORD100683,38,44449.0,12,4,4.0,Fashion,UPI,New,Delhi,1
+ORD100684,28,858.0,4,2,1.0,Home,Cash on Delivery,Regular,Delhi,1
+ORD100685,45,31154.0,8,2,5.0,Electronics,Debit Card,Regular,Bangalore,0
+ORD100686,51,27262.0,4,2,5.0,Beauty,Credit Card,Regular,Chennai,0
+ORD100687,34,85590.0,12,1,1.0,Fashion,Debit Card,New,Delhi,1
+ORD100688,41,85254.0,5,6,5.0,Home,Cash on Delivery,Regular,Delhi,0
+ORD100689,25,1807.0,5,0,5.0,Home,Cash on Delivery,Premium,Hyderabad,0
+ORD100690,53,92521.0,3,4,2.0,Fashion,Debit Card,Regular,Hyderabad,0
+ORD100691,28,26921.0,13,5,5.0,Fashion,Cash on Delivery,Regular,Bangalore,1
+ORD100692,28,26586.0,12,4,1.0,Beauty,Debit Card,Regular,Delhi,1
+ORD100693,37,67996.0,14,9,4.0,Sports,Credit Card,Regular,Delhi,1
+ORD100694,23,98308.0,3,2,2.0,Home,Cash on Delivery,Regular,Chennai,0
+ORD100695,49,78905.0,7,9,4.0,Sports,Credit Card,Premium,Hyderabad,1
+ORD100696,55,59454.0,1,7,3.0,Fashion,UPI,Premium,Delhi,1
+ORD100697,28,13491.0,9,2,2.0,Fashion,Cash on Delivery,Regular,Chennai,1
+ORD100698,34,30886.0,5,1,4.0,Beauty,Cash on Delivery,New,Mumbai,0
+ORD100699,21,42362.0,13,2,1.0,Fashion,Debit Card,Premium,Bangalore,1
+ORD100700,25,82535.0,13,0,1.0,Beauty,Cash on Delivery,New,Delhi,1
+ORD100701,50,80518.0,6,2,3.0,Sports,Cash on Delivery,Premium,Delhi,0
+ORD100702,22,26018.0,14,6,2.0,Sports,Cash on Delivery,Premium,Chennai,1
+ORD100703,49,36688.0,6,2,2.0,Home,UPI,New,Bangalore,0
+ORD100704,59,27443.0,14,4,4.0,Home,Credit Card,Premium,Hyderabad,1
+ORD100705,19,12444.0,8,2,1.0,Electronics,Cash on Delivery,Regular,Delhi,1
+ORD100706,47,57122.0,3,2,2.0,Electronics,UPI,New,Mumbai,0
+ORD100707,25,85261.0,1,7,3.0,Fashion,Credit Card,Regular,Mumbai,1
+ORD100708,18,69399.0,9,4,1.0,Beauty,Cash on Delivery,Premium,Hyderabad,1
+ORD100709,32,86656.0,8,7,5.0,Sports,Credit Card,Regular,Chennai,1
+ORD100710,26,11890.0,1,3,3.0,Beauty,UPI,Regular,Delhi,0
+ORD100711,19,15538.0,8,6,1.0,Electronics,UPI,Premium,Bangalore,1
+ORD100712,51,54689.0,14,3,3.0,Home,Debit Card,Regular,Delhi,1
+ORD100713,52,24822.0,14,1,5.0,Fashion,Cash on Delivery,Regular,Delhi,0
+ORD100714,36,74585.0,2,7,1.0,Electronics,Cash on Delivery,Premium,Delhi,1
+ORD100715,51,90333.0,12,5,4.0,Home,UPI,Regular,Chennai,1
+ORD100716,19,46592.0,8,1,3.0,Electronics,UPI,Regular,Chennai,0
+ORD100717,25,,14,7,3.0,Fashion,Credit Card,Premium,Bangalore,1
+ORD100718,46,24282.0,5,6,1.0,Sports,Credit Card,Regular,Hyderabad,1
+ORD100719,34,16092.0,14,4,5.0,Beauty,Cash on Delivery,New,Delhi,1
+ORD100720,38,61702.0,9,8,1.0,Fashion,Credit Card,Premium,Delhi,1
+ORD100721,40,89107.0,14,9,2.0,Beauty,UPI,Premium,Hyderabad,1
+ORD100722,53,2089.0,4,3,2.0,Fashion,Cash on Delivery,Premium,Delhi,0
+ORD100723,31,32421.0,12,3,5.0,Beauty,UPI,Premium,Bangalore,0
+ORD100724,41,97602.0,6,3,5.0,Fashion,Debit Card,Premium,Chennai,0
+ORD100725,40,56571.0,2,6,2.0,Sports,UPI,Premium,Bangalore,1
+ORD100726,35,73963.0,2,8,4.0,Home,Debit Card,New,Delhi,1
+ORD100727,32,54738.0,1,9,5.0,Electronics,Debit Card,Premium,Delhi,0
+ORD100728,43,51461.0,6,5,1.0,Sports,Debit Card,Premium,Delhi,1
+ORD100729,40,63051.0,2,7,1.0,Sports,Cash on Delivery,Premium,Chennai,1
+ORD100730,23,81311.0,9,8,1.0,Home,Debit Card,Regular,Hyderabad,1
+ORD100731,36,53884.0,11,1,4.0,Fashion,Debit Card,Premium,Hyderabad,0
+ORD100732,21,97367.0,2,2,5.0,Electronics,Credit Card,Regular,Chennai,0
+ORD100733,36,2724.0,6,7,4.0,Fashion,Debit Card,New,Bangalore,1
+ORD100734,54,32941.0,7,9,5.0,Home,Credit Card,Premium,Delhi,1
+ORD100735,50,92622.0,9,7,2.0,Beauty,Credit Card,Premium,Delhi,1
+ORD100736,40,86216.0,5,4,1.0,Beauty,Credit Card,Regular,Hyderabad,1
+ORD100737,41,90463.0,11,0,4.0,Fashion,Credit Card,Regular,Mumbai,0
+ORD100738,42,75857.0,9,4,4.0,Fashion,Credit Card,Regular,Delhi,1
+ORD100739,36,6342.0,12,4,2.0,Sports,UPI,Regular,Chennai,1
+ORD100740,34,18008.0,6,6,4.0,Beauty,Credit Card,New,Delhi,1
+ORD100741,58,67414.0,2,2,4.0,Sports,Cash on Delivery,Regular,Delhi,0
+ORD100742,58,75119.0,7,8,5.0,Beauty,Cash on Delivery,Regular,Bangalore,1
+ORD100743,35,27864.0,13,3,2.0,Electronics,UPI,New,Mumbai,1
+ORD100744,33,29820.0,9,5,3.0,Electronics,Debit Card,New,Hyderabad,1
+ORD100745,39,51668.0,4,6,5.0,Home,Credit Card,Regular,Hyderabad,0
+ORD100746,51,86396.0,8,7,4.0,Beauty,UPI,Premium,Chennai,1
+ORD100747,35,24054.0,12,5,4.0,Home,Debit Card,Premium,Chennai,1
+ORD100748,38,17423.0,8,5,1.0,Beauty,Credit Card,Regular,Chennai,1
+ORD100749,53,61448.0,12,2,5.0,Fashion,Debit Card,New,Delhi,0
+ORD100750,27,56360.0,12,4,2.0,Home,Debit Card,New,Delhi,1
+ORD100751,30,20632.0,6,7,2.0,Electronics,Credit Card,New,Hyderabad,1
+ORD100752,39,8516.0,4,9,3.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD100753,42,52313.0,1,5,4.0,Fashion,Credit Card,New,Chennai,0
+ORD100754,41,13328.0,11,8,4.0,Sports,Debit Card,Premium,Mumbai,1
+ORD100755,43,92889.0,1,3,4.0,Sports,Credit Card,Regular,Mumbai,0
+ORD100756,33,12450.0,1,7,4.0,Home,Debit Card,Premium,Chennai,0
+ORD100757,29,4366.0,6,4,2.0,Fashion,Cash on Delivery,New,Mumbai,1
+ORD100758,47,30616.0,6,6,5.0,Fashion,Credit Card,New,Bangalore,0
+ORD100759,42,41492.0,7,9,4.0,Home,Credit Card,Premium,Delhi,1
+ORD100760,29,47107.0,11,4,4.0,Beauty,Credit Card,Premium,Mumbai,1
+ORD100761,30,53370.0,4,2,1.0,Beauty,Cash on Delivery,Regular,Chennai,1
+ORD100762,49,4926.0,8,0,1.0,Electronics,Cash on Delivery,Premium,Mumbai,1
+ORD100763,25,11808.0,6,3,3.0,Home,Cash on Delivery,Regular,Mumbai,0
+ORD100764,46,2704.0,2,1,4.0,Sports,UPI,Premium,Chennai,0
+ORD100765,30,34370.0,12,6,4.0,Beauty,Debit Card,New,Hyderabad,1
+ORD100766,43,22107.0,9,6,5.0,Beauty,Credit Card,Regular,Bangalore,1
+ORD100767,49,75207.0,2,5,1.0,Beauty,Debit Card,Regular,Mumbai,1
+ORD100768,34,38958.0,10,6,2.0,Home,Credit Card,Premium,Delhi,1
+ORD100769,43,46973.0,11,2,3.0,Home,UPI,New,Chennai,1
+ORD100770,30,56251.0,8,3,4.0,Beauty,UPI,New,Bangalore,0
+ORD100771,28,74718.0,1,0,4.0,Beauty,Cash on Delivery,New,Delhi,0
+ORD100772,55,33483.0,6,8,,Fashion,Credit Card,Premium,Mumbai,1
+ORD100773,43,16741.0,5,3,4.0,Fashion,Debit Card,New,Mumbai,0
+ORD100774,58,48062.0,8,5,1.0,Home,UPI,Regular,Bangalore,1
+ORD100775,55,45269.0,13,9,5.0,Electronics,Cash on Delivery,Premium,Mumbai,1
+ORD100776,22,65305.0,14,5,2.0,Fashion,Cash on Delivery,Premium,Chennai,1
+ORD100777,31,31933.0,14,2,5.0,Electronics,UPI,New,Delhi,0
+ORD100778,25,77727.0,13,0,1.0,Electronics,Credit Card,Premium,Bangalore,1
+ORD100779,28,92992.0,2,5,1.0,Sports,Cash on Delivery,New,Chennai,1
+ORD100780,33,13367.0,3,7,3.0,Home,UPI,Regular,Bangalore,1
+ORD100781,43,76721.0,9,4,1.0,Beauty,UPI,New,Delhi,1
+ORD100782,35,39370.0,7,5,2.0,Electronics,UPI,New,Mumbai,1
+ORD100783,43,59127.0,12,2,5.0,Home,Debit Card,New,Delhi,0
+ORD100784,51,34564.0,11,4,2.0,Fashion,Credit Card,New,Hyderabad,1
+ORD100785,51,71402.0,8,9,4.0,Sports,UPI,Premium,Bangalore,1
+ORD100786,47,89396.0,11,6,1.0,Beauty,Debit Card,Premium,Bangalore,1
+ORD100787,37,94283.0,2,5,5.0,Fashion,Cash on Delivery,Premium,Delhi,0
+ORD100788,39,28191.0,9,4,2.0,Fashion,UPI,New,Bangalore,1
+ORD100789,53,18520.0,12,9,3.0,Electronics,Cash on Delivery,Regular,Delhi,1
+ORD100790,38,19101.0,12,7,2.0,Home,Credit Card,New,Mumbai,1
+ORD100791,25,75171.0,11,5,5.0,Electronics,Credit Card,Premium,Hyderabad,1
+ORD100792,44,86367.0,13,9,4.0,Sports,Debit Card,Premium,Chennai,1
+ORD100793,26,41195.0,7,1,3.0,,Credit Card,Premium,Hyderabad,0
+ORD100794,18,86163.0,9,6,1.0,Sports,Credit Card,Premium,Delhi,1
+ORD100795,20,9671.0,4,4,3.0,Home,UPI,New,Delhi,0
+ORD100796,52,4196.0,7,9,1.0,Beauty,UPI,New,Delhi,1
+ORD100797,35,46240.0,4,3,5.0,Sports,UPI,Premium,Chennai,0
+ORD100798,44,67141.0,4,0,2.0,Home,Debit Card,New,Delhi,0
+ORD100799,18,15917.0,10,3,4.0,Sports,Cash on Delivery,Regular,Hyderabad,1
+ORD100800,40,30461.0,11,8,1.0,Fashion,Cash on Delivery,New,Chennai,1
+ORD100801,22,35181.0,1,0,2.0,Sports,UPI,New,Mumbai,0
+ORD100802,58,85200.0,4,4,3.0,Fashion,UPI,New,Delhi,0
+ORD100803,38,23126.0,12,9,3.0,Sports,Debit Card,Premium,Hyderabad,1
+ORD100804,36,67168.0,12,6,2.0,Beauty,Cash on Delivery,Premium,Delhi,1
+ORD100805,57,8312.0,5,3,2.0,Electronics,Credit Card,Regular,Chennai,0
+ORD100806,37,51074.0,2,3,5.0,Home,UPI,Premium,Bangalore,0
+ORD100807,46,39964.0,3,6,4.0,Fashion,Debit Card,Regular,Hyderabad,0
+ORD100808,44,32055.0,10,2,5.0,Electronics,Debit Card,Premium,Delhi,0
+ORD100809,18,81078.0,8,7,5.0,Fashion,UPI,New,Chennai,1
+ORD100810,53,699279.0,13,7,2.0,Beauty,UPI,Regular,Hyderabad,1
+ORD100811,21,61750.0,2,8,1.0,Sports,UPI,Regular,Bangalore,1
+ORD100812,40,7915.0,4,6,5.0,Electronics,UPI,Premium,Bangalore,0
+ORD100813,22,38226.0,14,4,1.0,Electronics,Credit Card,Regular,Mumbai,1
+ORD100814,23,34648.0,9,9,5.0,Sports,Debit Card,New,Mumbai,1
+ORD100815,37,38902.0,3,5,4.0,Fashion,Debit Card,Premium,Chennai,0
+ORD100816,45,85529.0,3,3,1.0,Electronics,Debit Card,Regular,Mumbai,0
+ORD100817,22,,7,9,2.0,Sports,UPI,Regular,Hyderabad,1
+ORD100818,47,36017.0,5,8,3.0,Electronics,Cash on Delivery,Regular,Hyderabad,1
+ORD100819,31,89772.0,14,5,4.0,Home,UPI,Regular,Hyderabad,1
+ORD100820,56,27627.0,6,4,5.0,Fashion,Debit Card,New,Mumbai,0
+ORD100821,25,15588.0,11,6,2.0,Electronics,UPI,New,Hyderabad,1
+ORD100822,27,47635.0,11,1,1.0,Electronics,UPI,New,Bangalore,1
+ORD100823,34,53374.0,10,5,1.0,Electronics,Cash on Delivery,Regular,Delhi,1
+ORD100824,34,94519.0,4,8,3.0,Fashion,Credit Card,New,Hyderabad,1
+ORD100825,38,11608.0,6,0,1.0,Beauty,Credit Card,Regular,Bangalore,0
+ORD100826,42,3110.0,4,0,1.0,Beauty,Debit Card,Regular,Chennai,0
+ORD100827,41,21083.0,7,5,1.0,Sports,Debit Card,New,Hyderabad,1
+ORD100828,40,14189.0,7,8,1.0,Electronics,Credit Card,New,Hyderabad,1
+ORD100829,51,13550.0,9,8,5.0,Electronics,Cash on Delivery,New,Delhi,1
+ORD100830,23,37625.0,4,3,5.0,Home,Debit Card,Regular,Chennai,0
+ORD100831,20,36676.0,1,6,1.0,Sports,Cash on Delivery,New,Mumbai,1
+ORD100832,34,75725.0,4,3,2.0,Fashion,Debit Card,Premium,Mumbai,0
+ORD100833,36,25118.0,4,2,2.0,Sports,Credit Card,Regular,Mumbai,0
+ORD100834,50,50945.0,2,6,4.0,Sports,Cash on Delivery,New,Hyderabad,0
+ORD100835,41,28462.0,13,2,1.0,Fashion,Credit Card,New,Delhi,1
+ORD100836,50,11078.0,5,0,5.0,Electronics,Credit Card,Premium,Mumbai,0
+ORD100837,44,889.0,8,2,3.0,Electronics,Debit Card,New,Delhi,0
+ORD100838,29,53315.0,11,9,1.0,Home,UPI,New,Hyderabad,1
+ORD100839,37,17335.0,12,6,2.0,Fashion,Cash on Delivery,Regular,Chennai,1
+ORD100840,39,17766.0,9,4,3.0,Fashion,Debit Card,New,Chennai,1
+ORD100841,33,11754.0,3,2,2.0,Fashion,Cash on Delivery,Premium,Mumbai,0
+ORD100842,33,16699.0,12,0,1.0,Beauty,UPI,Premium,Chennai,1
+ORD100843,29,20081.0,5,4,3.0,Sports,Credit Card,Premium,Delhi,0
+ORD100844,29,67460.0,6,0,5.0,Electronics,UPI,Regular,Bangalore,0
+ORD100845,45,73025.0,5,5,3.0,Fashion,Debit Card,Regular,Mumbai,1
+ORD100846,50,96049.0,2,8,3.0,Beauty,Debit Card,Regular,Delhi,1
+ORD100847,39,26549.0,14,6,4.0,Home,Credit Card,New,Bangalore,1
+ORD100848,50,46720.0,4,5,3.0,Fashion,UPI,New,Chennai,0
+ORD100849,46,23431.0,13,7,2.0,Fashion,Cash on Delivery,Regular,Mumbai,1
+ORD100850,27,95276.0,8,9,5.0,Beauty,UPI,Premium,Mumbai,1
+ORD100851,27,55812.0,2,5,2.0,Fashion,Cash on Delivery,Regular,Delhi,1
+ORD100852,22,63375.0,14,8,5.0,Home,UPI,New,Bangalore,1
+ORD100853,35,14756.0,11,0,4.0,Home,UPI,New,Mumbai,0
+ORD100854,24,60278.0,10,1,1.0,Fashion,UPI,Premium,Bangalore,1
+ORD100855,52,41667.0,2,7,2.0,Home,Cash on Delivery,Premium,Chennai,1
+ORD100856,55,4617.0,10,6,3.0,Home,Debit Card,New,Chennai,1
+ORD100857,46,67554.0,6,3,3.0,Beauty,Cash on Delivery,Premium,Hyderabad,0
+ORD100858,58,65119.0,3,3,3.0,Fashion,UPI,Regular,Chennai,0
+ORD100859,19,,5,1,3.0,Fashion,UPI,New,Chennai,0
+ORD100860,23,35010.0,11,9,1.0,Fashion,Credit Card,New,Delhi,1
+ORD100861,50,95267.0,6,8,3.0,Home,UPI,Premium,Hyderabad,1
+ORD100862,53,54830.0,12,1,5.0,Home,UPI,New,Chennai,0
+ORD100863,21,75316.0,3,9,1.0,Fashion,Cash on Delivery,New,Chennai,1
+ORD100864,27,62760.0,11,5,3.0,Home,UPI,New,Delhi,1
+ORD100865,38,2313.0,4,1,1.0,Electronics,Credit Card,Premium,Delhi,0
+ORD100866,45,63412.0,1,3,1.0,Beauty,Cash on Delivery,New,Delhi,0
+ORD100867,26,66118.0,1,9,4.0,Beauty,Credit Card,Regular,Bangalore,1
+ORD100868,26,81632.0,14,9,1.0,Fashion,Debit Card,Regular,Delhi,1
+ORD100869,27,82789.0,11,5,2.0,Fashion,UPI,Premium,Hyderabad,1
+ORD100870,52,51431.0,11,4,1.0,Sports,Credit Card,Premium,Mumbai,1
+ORD100871,45,95074.0,4,8,3.0,Beauty,Cash on Delivery,Premium,Delhi,1
+ORD100872,43,68998.0,8,0,3.0,Electronics,UPI,Regular,Delhi,0
+ORD100873,58,76445.0,2,3,5.0,Fashion,Cash on Delivery,New,Hyderabad,0
+ORD100874,57,699279.0,1,4,4.0,Fashion,UPI,Regular,Mumbai,0
+ORD100875,50,88556.0,14,4,,Beauty,Cash on Delivery,Regular,Hyderabad,1
+ORD100876,51,10942.0,13,1,3.0,Sports,Debit Card,Regular,Mumbai,1
+ORD100877,50,86846.0,2,6,2.0,Fashion,UPI,Regular,Hyderabad,1
+ORD100878,35,26649.0,3,3,3.0,Fashion,UPI,Regular,Chennai,0
+ORD100879,30,76662.0,10,5,1.0,Beauty,Debit Card,Premium,Bangalore,1
+ORD100880,44,96507.0,3,9,1.0,Fashion,UPI,New,Bangalore,1
+ORD100881,26,44016.0,6,8,1.0,Home,UPI,New,Hyderabad,1
+ORD100882,45,19796.0,6,4,1.0,Beauty,Debit Card,New,Bangalore,1
+ORD100883,35,13355.0,11,4,2.0,Fashion,Debit Card,Premium,Mumbai,1
+ORD100884,55,84461.0,8,3,2.0,Sports,UPI,Premium,Mumbai,1
+ORD100885,54,91970.0,12,1,2.0,Sports,Credit Card,Premium,Bangalore,1
+ORD100886,39,11251.0,11,9,1.0,Beauty,Debit Card,New,Delhi,1
+ORD100887,30,89335.0,6,6,5.0,Electronics,UPI,New,Bangalore,0
+ORD100888,41,74039.0,12,0,3.0,Sports,Credit Card,New,Hyderabad,0
+ORD100889,31,77209.0,2,8,1.0,Beauty,UPI,Regular,Hyderabad,1
+ORD100890,55,32281.0,5,4,,Fashion,Credit Card,Regular,Bangalore,1
+ORD100891,27,18952.0,2,6,3.0,Home,UPI,New,Bangalore,0
+ORD100892,37,16454.0,3,3,5.0,Sports,Credit Card,New,Hyderabad,0
+ORD100893,18,98999.0,12,7,2.0,Home,UPI,Regular,Delhi,1
+ORD100894,40,58120.0,13,9,4.0,Sports,UPI,Regular,Mumbai,1
+ORD100895,41,72332.0,13,6,5.0,Home,Credit Card,New,Delhi,1
+ORD100896,53,62561.0,10,0,,Beauty,Debit Card,New,Hyderabad,0
+ORD100897,56,11587.0,1,0,5.0,Sports,Debit Card,New,Hyderabad,0
+ORD100898,26,17913.0,3,2,1.0,Fashion,Cash on Delivery,Regular,Mumbai,0
+ORD100899,22,33354.0,1,6,3.0,Fashion,Credit Card,Premium,Chennai,0
+ORD100900,47,7468.0,6,8,5.0,Sports,Cash on Delivery,Premium,Chennai,1
+ORD100901,54,94282.0,13,3,5.0,Fashion,Debit Card,Premium,Bangalore,0
+ORD100902,34,36955.0,5,1,5.0,Sports,UPI,Regular,Bangalore,0
+ORD100903,23,15455.0,2,5,1.0,Home,UPI,New,Mumbai,1
+ORD100904,47,70769.0,11,9,3.0,Home,Credit Card,Premium,Chennai,1
+ORD100905,31,21613.0,10,2,4.0,Home,Cash on Delivery,New,Mumbai,0
+ORD100906,51,46813.0,12,6,3.0,Fashion,Credit Card,Premium,Chennai,1
+ORD100907,32,3953.0,12,7,3.0,Home,Debit Card,New,Chennai,1
+ORD100908,26,16034.0,1,0,3.0,Electronics,Cash on Delivery,Regular,Delhi,0
+ORD100909,20,80701.0,8,9,1.0,Fashion,Cash on Delivery,Regular,Delhi,1
+ORD100910,46,91557.0,2,2,5.0,Home,Cash on Delivery,New,Delhi,0
+ORD100911,18,44437.0,13,0,5.0,Sports,Credit Card,New,Delhi,0
+ORD100912,46,37658.0,8,9,1.0,Electronics,UPI,Regular,Chennai,1
+ORD100913,24,59192.0,10,0,3.0,Home,Debit Card,New,Chennai,0
+ORD100914,24,30509.0,1,6,5.0,Home,Credit Card,Regular,Bangalore,0
+ORD100915,18,36913.0,1,8,3.0,Electronics,UPI,Regular,Hyderabad,1
+ORD100916,20,40642.0,13,4,3.0,Sports,Cash on Delivery,Premium,Chennai,1
+ORD100917,49,,12,8,4.0,Beauty,Credit Card,Premium,Delhi,1
+ORD100918,26,52331.0,8,0,5.0,Fashion,UPI,New,Mumbai,0
+ORD100919,39,15171.0,9,2,4.0,Fashion,Credit Card,Regular,Hyderabad,0
+ORD100920,58,95930.0,14,2,3.0,Sports,Debit Card,Premium,Mumbai,1
+ORD100921,19,95136.0,3,4,1.0,Home,Credit Card,New,Chennai,1
+ORD100922,57,23685.0,3,1,4.0,Beauty,Cash on Delivery,New,Chennai,0
+ORD100923,57,76567.0,12,3,1.0,Home,UPI,Regular,Chennai,1
+ORD100924,35,48437.0,13,5,4.0,Home,Cash on Delivery,New,Chennai,1
+ORD100925,46,33902.0,10,2,3.0,Electronics,Credit Card,New,Mumbai,0
+ORD100926,20,74433.0,8,6,4.0,Electronics,Cash on Delivery,New,Mumbai,1
+ORD100927,28,93805.0,11,1,1.0,Beauty,Cash on Delivery,Regular,Mumbai,1
+ORD100928,26,15183.0,12,1,5.0,Electronics,Cash on Delivery,New,Mumbai,0
+ORD100929,32,54819.0,9,3,1.0,Beauty,Debit Card,New,Delhi,1
+ORD100930,54,69475.0,13,6,2.0,Electronics,Debit Card,Regular,Delhi,1
+ORD100931,34,44886.0,5,2,4.0,Home,Credit Card,Regular,Hyderabad,0
+ORD100932,46,87098.0,12,8,4.0,Electronics,Credit Card,Premium,Chennai,1
+ORD100933,23,36240.0,10,0,3.0,Electronics,Debit Card,Premium,Delhi,0
+ORD100934,38,81971.0,10,3,2.0,Sports,Credit Card,Premium,Chennai,1
+ORD100935,54,88296.0,6,9,4.0,Beauty,Cash on Delivery,Premium,Delhi,1
+ORD100936,59,39678.0,6,7,3.0,Sports,Credit Card,Regular,Mumbai,1
+ORD100937,57,40672.0,11,1,4.0,Electronics,Cash on Delivery,Premium,Chennai,0
+ORD100938,27,43807.0,11,0,2.0,Sports,Credit Card,New,Delhi,0
+ORD100939,19,61093.0,12,2,2.0,Fashion,Credit Card,New,Bangalore,1
+ORD100940,40,7985.0,1,5,1.0,Fashion,UPI,Regular,Chennai,1
+ORD100941,20,52377.0,3,0,5.0,Beauty,Credit Card,Premium,Bangalore,0
+ORD100942,49,37519.0,5,9,5.0,Sports,Debit Card,Regular,Chennai,1
+ORD100943,44,28026.0,6,9,5.0,Electronics,Cash on Delivery,Premium,Delhi,1
+ORD100944,32,,7,6,4.0,Sports,Debit Card,Regular,Hyderabad,1
+ORD100945,54,23367.0,12,0,4.0,Beauty,UPI,Premium,Hyderabad,0
+ORD100946,25,91380.0,5,5,5.0,Sports,Cash on Delivery,New,Delhi,0
+ORD100947,38,25683.0,3,4,4.0,Fashion,Credit Card,Premium,Hyderabad,0
+ORD100948,23,2603.0,14,7,5.0,Sports,UPI,New,Hyderabad,1
+ORD100949,24,12891.0,13,5,2.0,Electronics,Debit Card,Premium,Mumbai,1
+ORD100950,19,81659.0,11,0,5.0,Beauty,Debit Card,Regular,Delhi,0
+ORD100951,55,36003.0,11,3,4.0,Sports,Cash on Delivery,New,Bangalore,1
+ORD100952,48,75342.0,13,9,3.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD100953,44,47254.0,13,0,3.0,Sports,Cash on Delivery,New,Delhi,1
+ORD100954,28,61614.0,5,2,3.0,Home,Credit Card,New,Delhi,0
+ORD100955,47,14834.0,12,4,3.0,Home,Debit Card,New,Mumbai,1
+ORD100956,39,33433.0,14,7,2.0,Home,Debit Card,Regular,Delhi,1
+ORD100957,49,65706.0,11,9,3.0,Electronics,Credit Card,New,Mumbai,1
+ORD100958,20,46787.0,5,4,5.0,Beauty,Debit Card,Regular,Delhi,0
+ORD100959,27,76812.0,4,2,3.0,Sports,UPI,New,Delhi,0
+ORD100960,19,33840.0,11,8,,Fashion,Cash on Delivery,Premium,Delhi,1
+ORD100961,36,11594.0,8,1,4.0,Sports,Debit Card,New,Hyderabad,0
+ORD100962,22,69298.0,11,4,3.0,Fashion,UPI,Regular,Hyderabad,1
+ORD100963,38,36095.0,2,3,1.0,Beauty,Credit Card,Premium,Hyderabad,0
+ORD100964,59,53191.0,6,8,3.0,Electronics,Credit Card,New,Bangalore,1
+ORD100965,49,94590.0,13,1,3.0,Electronics,Credit Card,New,Delhi,1
+ORD100966,35,73067.0,7,4,4.0,Electronics,Debit Card,Premium,Bangalore,0
+ORD100967,22,36682.0,9,8,1.0,Home,Debit Card,Regular,Hyderabad,1
+ORD100968,27,1417.0,3,0,4.0,Beauty,UPI,Premium,Chennai,0
+ORD100969,18,18562.0,8,5,2.0,Fashion,Debit Card,Regular,Hyderabad,1
+ORD100970,34,,14,1,4.0,Beauty,Credit Card,Regular,Hyderabad,0
+ORD100971,50,74602.0,11,7,4.0,Sports,Debit Card,Regular,Bangalore,1
+ORD100972,47,699279.0,12,7,2.0,Home,UPI,Regular,Chennai,1
+ORD100973,47,19904.0,2,4,,Beauty,UPI,New,Hyderabad,1
+ORD100974,55,53527.0,6,9,3.0,Fashion,Credit Card,Premium,Bangalore,1
+ORD100975,25,22939.0,11,5,4.0,Fashion,Debit Card,Premium,Delhi,1
+ORD100976,25,89549.0,14,0,4.0,Sports,UPI,Premium,Chennai,0
+ORD100977,33,26017.0,14,6,5.0,Beauty,Credit Card,Premium,Bangalore,1
+ORD100978,44,88651.0,9,2,3.0,Sports,UPI,New,Mumbai,0
+ORD100979,37,43288.0,10,0,1.0,Sports,Debit Card,Premium,Mumbai,1
+ORD100980,25,34498.0,5,3,4.0,Beauty,Cash on Delivery,Regular,Delhi,0
+ORD100981,56,6250.0,12,0,1.0,Home,Credit Card,Regular,Mumbai,1
+ORD100982,59,32593.0,13,2,3.0,Sports,Cash on Delivery,Premium,Chennai,1
+ORD100983,51,88485.0,7,9,2.0,Electronics,Debit Card,Premium,Hyderabad,1
+ORD100984,37,70181.0,6,7,2.0,Sports,Debit Card,Regular,Chennai,1
+ORD100985,49,46119.0,5,3,3.0,Beauty,UPI,Regular,Mumbai,0
+ORD100986,54,65649.0,9,7,4.0,Home,Debit Card,Regular,Mumbai,1
+ORD100987,40,62299.0,11,7,5.0,Fashion,Credit Card,Premium,Bangalore,1
+ORD100988,47,56363.0,12,9,4.0,Electronics,Cash on Delivery,Premium,Mumbai,1
+ORD100989,53,58480.0,13,3,5.0,Fashion,UPI,Premium,Delhi,0
+ORD100990,43,11849.0,4,1,2.0,Home,Debit Card,Regular,Delhi,0
+ORD100991,48,89962.0,11,4,2.0,Beauty,UPI,Premium,Hyderabad,1
+ORD100992,57,20083.0,14,7,3.0,Fashion,Debit Card,Premium,Bangalore,1
+ORD100993,40,20020.0,7,9,1.0,Sports,Cash on Delivery,Premium,Mumbai,1
+ORD100994,59,41685.0,9,5,5.0,Sports,Debit Card,New,Hyderabad,0
+ORD100995,42,33955.0,2,2,4.0,Fashion,Debit Card,New,Delhi,0
+ORD100996,57,74116.0,10,6,5.0,Fashion,Debit Card,Premium,Hyderabad,1
+ORD100997,34,86555.0,4,9,3.0,Fashion,Debit Card,Premium,Chennai,1
+ORD100998,38,54853.0,13,8,4.0,Fashion,Debit Card,New,Mumbai,1
+ORD100999,55,18118.0,12,6,1.0,Beauty,Debit Card,Regular,Mumbai,1
+ORD101000,52,21027.0,2,6,4.0,Sports,Debit Card,Regular,Chennai,0
+ORD101001,42,35803.0,13,0,1.0,Beauty,UPI,Premium,Hyderabad,1
+ORD101002,54,71545.0,3,8,,Sports,UPI,Regular,Bangalore,1
+ORD101003,43,33537.0,6,3,4.0,Sports,UPI,Premium,Delhi,0
+ORD101004,56,46651.0,9,5,4.0,Sports,Debit Card,Regular,Chennai,1
+ORD101005,47,55222.0,12,2,5.0,Fashion,Credit Card,New,Mumbai,0
+ORD101006,51,99523.0,6,5,1.0,Beauty,Cash on Delivery,New,Mumbai,1
+ORD101007,23,26305.0,3,9,3.0,Fashion,UPI,Regular,Mumbai,1
+ORD101008,29,95908.0,11,4,4.0,Fashion,Debit Card,Premium,Chennai,1
+ORD101009,42,63900.0,14,4,2.0,Electronics,Cash on Delivery,Regular,Bangalore,1
+ORD101010,37,20442.0,6,3,5.0,Fashion,Credit Card,Regular,Chennai,0
+ORD101011,59,98405.0,1,3,4.0,Fashion,Cash on Delivery,Premium,Delhi,0
+ORD101012,30,836.0,6,3,1.0,Beauty,Cash on Delivery,Regular,Delhi,1
+ORD101013,18,99714.0,13,0,2.0,Electronics,UPI,Premium,Bangalore,1
+ORD101014,25,71886.0,13,6,3.0,Home,UPI,Regular,Hyderabad,1
+ORD101015,43,67170.0,11,6,5.0,Fashion,UPI,Premium,Chennai,1
+ORD101016,45,71628.0,13,6,2.0,Fashion,Credit Card,Premium,Mumbai,1
+ORD101017,35,57330.0,1,6,5.0,Home,Credit Card,New,Delhi,0
+ORD101018,49,,13,1,5.0,Sports,Debit Card,New,Chennai,0
+ORD101019,38,64593.0,5,6,,Electronics,Debit Card,Regular,Delhi,1
+ORD101020,57,72807.0,9,3,2.0,Sports,Debit Card,Regular,Bangalore,1
+ORD101021,48,78888.0,7,3,1.0,Home,Cash on Delivery,Regular,Bangalore,1
+ORD101022,26,34985.0,1,2,3.0,Fashion,Cash on Delivery,New,Bangalore,0
+ORD101023,51,69827.0,9,0,5.0,Fashion,Credit Card,New,Chennai,0
+ORD101024,31,79340.0,9,7,3.0,Sports,Credit Card,New,Mumbai,1
+ORD101025,29,91956.0,11,7,2.0,Electronics,Cash on Delivery,Premium,Mumbai,1
+ORD101026,28,60506.0,11,0,1.0,Sports,UPI,Premium,Chennai,1
+ORD101027,49,75976.0,5,7,2.0,Electronics,UPI,New,Chennai,1
+ORD101028,55,90520.0,13,2,1.0,Beauty,Cash on Delivery,Regular,Chennai,1
+ORD101029,52,14182.0,11,7,1.0,Sports,Debit Card,Regular,Bangalore,1
+ORD101030,38,24166.0,2,7,3.0,Fashion,UPI,Regular,Delhi,1
+ORD101031,56,10734.0,1,5,3.0,Electronics,Debit Card,Premium,Hyderabad,0
+ORD101032,55,1551.0,2,5,5.0,Fashion,Cash on Delivery,New,Hyderabad,0
+ORD101033,21,45257.0,10,0,3.0,Sports,UPI,Regular,Chennai,0
+ORD101034,53,51757.0,13,3,2.0,Electronics,Cash on Delivery,New,Hyderabad,1
+ORD101035,49,95684.0,9,3,4.0,Fashion,Debit Card,Premium,Bangalore,0
+ORD101036,36,87725.0,12,2,3.0,Home,Cash on Delivery,Regular,Bangalore,1
+ORD101037,45,5492.0,10,1,1.0,Electronics,Cash on Delivery,New,Delhi,1
+ORD101038,29,13755.0,8,1,4.0,Home,Credit Card,New,Chennai,0
+ORD101039,55,45023.0,11,8,4.0,Electronics,UPI,Premium,Delhi,1
+ORD101040,48,89035.0,7,8,2.0,Fashion,UPI,Premium,Chennai,1
+ORD101041,20,67309.0,8,5,2.0,Electronics,Debit Card,Premium,Bangalore,1
+ORD101042,26,75533.0,4,7,2.0,Beauty,Debit Card,Regular,Delhi,1
+ORD101043,36,,8,4,,Electronics,UPI,New,Chennai,1
+ORD101044,44,11203.0,1,2,4.0,Home,Debit Card,Premium,Mumbai,0
+ORD101045,58,45224.0,12,9,2.0,Beauty,UPI,New,Chennai,1
+ORD101046,40,19282.0,2,3,4.0,Electronics,Credit Card,Premium,Bangalore,0
+ORD101047,40,21066.0,7,0,1.0,Home,Debit Card,Regular,Hyderabad,0
+ORD101048,19,5265.0,3,9,5.0,Home,UPI,Regular,Mumbai,1
+ORD101049,42,30023.0,1,3,5.0,Fashion,UPI,Regular,Delhi,0
+ORD101050,50,46439.0,6,9,2.0,Beauty,Debit Card,Regular,Delhi,1
+ORD101051,32,26401.0,9,4,1.0,Beauty,Credit Card,New,Bangalore,1
+ORD101052,22,35940.0,11,6,4.0,Electronics,Credit Card,New,Delhi,1
+ORD101053,44,25605.0,5,2,3.0,Sports,Cash on Delivery,Premium,Delhi,0
+ORD101054,57,57061.0,10,8,4.0,Fashion,Cash on Delivery,Regular,Hyderabad,1
+ORD101055,25,56298.0,11,4,2.0,Electronics,Credit Card,Regular,Delhi,1
+ORD101056,54,21422.0,13,5,,Electronics,Cash on Delivery,Regular,Chennai,1
+ORD101057,22,17468.0,11,1,1.0,Electronics,Debit Card,Premium,Mumbai,1
+ORD101058,57,14511.0,3,6,2.0,Electronics,Credit Card,Premium,Mumbai,1
+ORD101059,30,50542.0,8,5,4.0,Sports,UPI,Regular,Bangalore,1
+ORD101060,47,42074.0,10,4,2.0,Beauty,Debit Card,Premium,Delhi,1
+ORD101061,48,2087.0,9,0,5.0,Fashion,UPI,New,Bangalore,0
+ORD101062,18,86324.0,9,9,2.0,Sports,Cash on Delivery,Regular,Bangalore,1
+ORD101063,38,5954.0,1,5,3.0,Electronics,Cash on Delivery,Regular,Bangalore,0
+ORD101064,33,47611.0,14,0,1.0,Home,Debit Card,New,Hyderabad,1
+ORD101065,43,9348.0,6,0,5.0,Fashion,Cash on Delivery,Regular,Bangalore,0
+ORD101066,23,62102.0,14,7,5.0,Electronics,Cash on Delivery,Regular,Hyderabad,1
+ORD101067,32,65833.0,13,0,5.0,Beauty,UPI,Regular,Delhi,0
+ORD101068,52,9775.0,6,4,2.0,Home,UPI,Regular,Chennai,1
+ORD101069,40,73420.0,2,9,5.0,Electronics,Cash on Delivery,Regular,Chennai,1
+ORD101070,43,12295.0,6,5,3.0,Sports,UPI,New,Hyderabad,1
+ORD101071,35,75639.0,1,8,5.0,Sports,Debit Card,Premium,Hyderabad,0
+ORD101072,24,15219.0,12,6,3.0,Fashion,Cash on Delivery,Regular,Mumbai,1
+ORD101073,52,89924.0,3,2,4.0,Electronics,Credit Card,Regular,Mumbai,0
+ORD101074,53,75926.0,10,7,5.0,Sports,Cash on Delivery,Premium,Mumbai,1
+ORD101075,34,50725.0,1,2,4.0,Beauty,UPI,New,Bangalore,0
+ORD101076,30,61881.0,10,4,4.0,Electronics,Debit Card,Regular,Mumbai,1
+ORD101077,57,58030.0,12,3,5.0,Sports,Debit Card,Premium,Chennai,0
+ORD101078,43,91919.0,13,1,3.0,Electronics,Credit Card,Regular,Bangalore,1
+ORD101079,25,70923.0,11,8,5.0,Beauty,UPI,Regular,Hyderabad,1
+ORD101080,19,53499.0,7,7,4.0,Fashion,Credit Card,New,Delhi,1
+ORD101081,56,34269.0,13,8,3.0,Fashion,Cash on Delivery,New,Mumbai,1
+ORD101082,47,75709.0,6,1,2.0,Electronics,Cash on Delivery,New,Hyderabad,0
+ORD101083,22,82280.0,13,6,4.0,Electronics,Cash on Delivery,Regular,Hyderabad,1
+ORD101084,51,37534.0,14,6,5.0,Sports,Credit Card,Regular,Chennai,1
+ORD101085,47,57721.0,8,9,5.0,Sports,UPI,Premium,Delhi,1
+ORD101086,21,3664.0,7,5,2.0,Sports,Cash on Delivery,Premium,Bangalore,1
+ORD101087,35,94466.0,8,9,1.0,Sports,Credit Card,Premium,Bangalore,1
+ORD101088,54,9917.0,4,5,3.0,Electronics,Cash on Delivery,Premium,Hyderabad,1
+ORD101089,20,4222.0,11,0,4.0,Sports,Debit Card,Premium,Delhi,0
+ORD101090,21,44356.0,9,2,5.0,Beauty,Credit Card,Regular,Delhi,0
+ORD101091,49,50377.0,8,5,3.0,Home,Debit Card,Regular,Bangalore,1
+ORD101092,39,83636.0,4,5,3.0,Fashion,Cash on Delivery,Premium,Hyderabad,1
+ORD101093,30,27886.0,10,2,1.0,Home,Debit Card,Premium,Hyderabad,1
+ORD101094,29,91210.0,14,0,2.0,Fashion,Credit Card,New,Hyderabad,1
+ORD101095,58,25916.0,7,9,3.0,Home,Debit Card,Premium,Bangalore,1
+ORD101096,22,36199.0,7,8,4.0,Fashion,Debit Card,Premium,Chennai,1
+ORD101097,51,32480.0,8,8,2.0,Home,Cash on Delivery,Premium,Hyderabad,1
+ORD101098,31,85981.0,9,9,1.0,Beauty,Debit Card,Regular,Chennai,1
+ORD101099,42,26433.0,3,3,2.0,Sports,UPI,New,Delhi,0
+ORD101100,27,76374.0,11,4,5.0,Fashion,UPI,Premium,Chennai,0
+ORD101101,39,87200.0,7,6,1.0,Fashion,Debit Card,New,Mumbai,1
+ORD101102,19,48447.0,9,9,2.0,Home,Credit Card,New,Mumbai,1
+ORD101103,28,91395.0,1,2,2.0,Fashion,UPI,Regular,Delhi,0
+ORD101104,52,74414.0,10,5,1.0,Electronics,Credit Card,Premium,Hyderabad,1
+ORD101105,59,16959.0,12,3,2.0,Beauty,Credit Card,Premium,Mumbai,1
+ORD101106,43,5422.0,11,7,4.0,Electronics,Cash on Delivery,Regular,Delhi,1
+ORD101107,29,17024.0,14,0,5.0,Home,UPI,New,Mumbai,0
+ORD101108,34,21355.0,4,4,5.0,Fashion,Cash on Delivery,New,Mumbai,0
+ORD101109,43,52503.0,12,5,5.0,Sports,Credit Card,Premium,Bangalore,1
+ORD101110,29,16472.0,14,6,2.0,Home,Cash on Delivery,New,Chennai,1
+ORD101111,24,,13,4,5.0,Fashion,Credit Card,Premium,Hyderabad,1
+ORD101112,20,70018.0,4,3,3.0,Electronics,Cash on Delivery,New,Delhi,0
+ORD101113,30,21597.0,5,4,3.0,Home,Debit Card,New,Bangalore,0
+ORD101114,46,80007.0,9,5,4.0,Sports,Debit Card,New,Mumbai,1
+ORD101115,19,36233.0,2,4,4.0,Beauty,Credit Card,New,Bangalore,0
+ORD101116,47,16928.0,3,6,2.0,Home,UPI,Premium,Hyderabad,1
+ORD101117,30,84329.0,13,3,4.0,Home,Cash on Delivery,Premium,Hyderabad,1
+ORD101118,53,46396.0,7,2,3.0,Home,UPI,Premium,Mumbai,0
+ORD101119,55,97337.0,4,8,4.0,Sports,Credit Card,New,Hyderabad,1
+ORD101120,26,83731.0,4,1,2.0,Electronics,Credit Card,Regular,Hyderabad,0
+ORD101121,22,25991.0,7,4,2.0,Sports,Cash on Delivery,New,Mumbai,1
+ORD101122,21,60880.0,12,1,5.0,Fashion,Credit Card,Premium,Mumbai,0
+ORD101123,59,40060.0,10,6,4.0,Home,Debit Card,Regular,Bangalore,1
+ORD101124,36,78486.0,9,4,5.0,Sports,Cash on Delivery,Premium,Chennai,0
+ORD101125,48,46918.0,5,1,3.0,Electronics,Debit Card,Regular,Bangalore,0
+ORD101126,27,90571.0,1,6,5.0,Sports,Credit Card,New,Mumbai,0
+ORD101127,48,3678.0,8,0,3.0,Beauty,UPI,Regular,Mumbai,0
+ORD101128,38,27127.0,7,9,2.0,Sports,Debit Card,New,Hyderabad,1
+ORD101129,29,35922.0,1,0,3.0,Home,Cash on Delivery,Regular,Chennai,0
+ORD101130,45,7635.0,1,4,2.0,,Credit Card,Regular,Hyderabad,0
+ORD101131,24,22389.0,10,7,4.0,Electronics,UPI,New,Hyderabad,1
+ORD101132,36,39821.0,11,7,2.0,Sports,UPI,Premium,Chennai,1
+ORD101133,28,40630.0,12,2,2.0,Fashion,Credit Card,Premium,Delhi,1
+ORD101134,44,15716.0,6,1,1.0,Electronics,Credit Card,Premium,Delhi,0
+ORD101135,33,14709.0,12,5,4.0,Electronics,Credit Card,New,Delhi,1
+ORD101136,55,63059.0,13,9,4.0,Home,UPI,New,Chennai,1
+ORD101137,59,34283.0,9,5,2.0,Electronics,Credit Card,Regular,Hyderabad,1
+ORD101138,54,18153.0,13,5,1.0,Electronics,Credit Card,Regular,Delhi,1
+ORD101139,37,60254.0,11,8,2.0,Beauty,Cash on Delivery,Premium,Delhi,1
+ORD101140,49,55245.0,9,1,4.0,Beauty,Debit Card,New,Delhi,0
+ORD101141,57,56892.0,12,9,1.0,Electronics,UPI,Premium,Hyderabad,1
+ORD101142,27,69845.0,4,6,4.0,Electronics,UPI,Premium,Chennai,0
+ORD101143,19,29492.0,3,3,3.0,Home,UPI,Regular,Mumbai,0
+ORD101144,19,26770.0,9,1,5.0,Sports,UPI,Regular,Delhi,0
+ORD101145,32,15359.0,5,3,5.0,Beauty,Cash on Delivery,Premium,Chennai,0
+ORD101146,56,17163.0,5,9,5.0,Beauty,Credit Card,Premium,Bangalore,1
+ORD101147,35,59595.0,14,1,2.0,Fashion,Cash on Delivery,Premium,Mumbai,1
+ORD101148,29,95881.0,8,5,4.0,Fashion,Debit Card,Premium,Mumbai,1
+ORD101149,53,7689.0,14,3,1.0,Electronics,Credit Card,New,Chennai,1
+ORD101150,49,28064.0,4,3,2.0,Electronics,Cash on Delivery,Premium,Hyderabad,0
+ORD101151,55,74422.0,7,4,4.0,Electronics,Debit Card,New,Mumbai,0
+ORD101152,38,61019.0,3,6,4.0,Fashion,Cash on Delivery,Premium,Hyderabad,0
+ORD101153,33,73184.0,7,6,4.0,Fashion,Credit Card,New,Bangalore,1
+ORD101154,34,25756.0,6,1,5.0,Sports,Debit Card,New,Chennai,0
+ORD101155,44,82791.0,7,7,3.0,Fashion,UPI,Premium,Delhi,1
+ORD101156,31,1364.0,5,2,1.0,Sports,UPI,Regular,Chennai,0
+ORD101157,45,82345.0,14,6,5.0,Home,UPI,New,Hyderabad,1
+ORD101158,37,43798.0,5,8,5.0,Beauty,Debit Card,Regular,Bangalore,1
+ORD101159,23,10226.0,9,5,2.0,Fashion,UPI,Regular,Hyderabad,1
+ORD101160,22,85198.0,9,7,1.0,Electronics,Credit Card,Regular,Delhi,1
+ORD101161,37,64927.0,7,6,3.0,Beauty,Debit Card,Premium,Mumbai,1
+ORD101162,46,14889.0,10,2,4.0,Sports,Credit Card,Premium,Hyderabad,0
+ORD101163,20,19124.0,10,4,1.0,Home,Debit Card,Regular,Bangalore,1
+ORD101164,34,95413.0,13,3,5.0,Electronics,Debit Card,New,Bangalore,0
+ORD101165,50,47734.0,12,2,5.0,Beauty,Debit Card,Regular,Bangalore,0
+ORD101166,44,7871.0,4,3,1.0,Home,Cash on Delivery,Regular,Delhi,1
+ORD101167,56,17126.0,6,2,3.0,Home,Debit Card,Regular,Hyderabad,0
+ORD101168,30,53164.0,6,3,5.0,Electronics,Credit Card,Premium,Hyderabad,0
+ORD101169,39,76486.0,8,3,2.0,Electronics,Debit Card,New,Hyderabad,1
+ORD101170,43,53475.0,3,9,3.0,Fashion,Debit Card,Premium,Chennai,1
+ORD101171,30,99727.0,9,3,3.0,,UPI,Premium,Chennai,1
+ORD101172,56,39846.0,12,6,3.0,Sports,Cash on Delivery,Premium,Bangalore,1
+ORD101173,43,46621.0,11,5,2.0,Electronics,Debit Card,Premium,Hyderabad,1
+ORD101174,36,42931.0,6,3,1.0,Beauty,Credit Card,Regular,Delhi,1
+ORD101175,59,83663.0,1,2,3.0,Fashion,Debit Card,New,Delhi,0
+ORD101176,24,21246.0,7,3,1.0,Sports,UPI,Regular,Mumbai,1
+ORD101177,29,73869.0,6,2,5.0,Sports,UPI,Premium,Bangalore,0
+ORD101178,54,33867.0,9,8,5.0,Sports,Credit Card,Premium,Bangalore,1
+ORD101179,21,9790.0,1,6,2.0,Beauty,Credit Card,New,Hyderabad,1
+ORD101180,28,30633.0,9,6,5.0,Sports,Credit Card,Premium,Delhi,1
+ORD101181,40,85989.0,12,8,2.0,Home,UPI,New,Delhi,1
+ORD101182,42,98320.0,3,0,4.0,Fashion,UPI,Regular,Mumbai,0
+ORD101183,31,36886.0,14,0,3.0,Fashion,UPI,Premium,Bangalore,1
+ORD101184,33,18657.0,14,3,5.0,Sports,Debit Card,Regular,Delhi,1
+ORD101185,32,14827.0,9,2,2.0,Beauty,UPI,New,Mumbai,1
+ORD101186,55,11850.0,9,9,1.0,Electronics,Debit Card,Premium,Mumbai,1
+ORD101187,35,32228.0,9,9,2.0,Sports,Credit Card,Regular,Delhi,1
+ORD101188,24,88035.0,13,1,3.0,Home,UPI,Premium,Mumbai,1
+ORD101189,50,6367.0,5,1,4.0,Beauty,Credit Card,Premium,Delhi,0
+ORD101190,34,17527.0,11,5,2.0,Home,Debit Card,Regular,Delhi,1
+ORD101191,21,10810.0,14,1,1.0,Sports,UPI,Premium,Bangalore,1
+ORD101192,52,98299.0,13,7,3.0,Beauty,Credit Card,New,Chennai,1
+ORD101193,53,9447.0,11,8,2.0,Sports,Debit Card,New,Bangalore,1
+ORD101194,45,1007.0,13,2,3.0,Fashion,Credit Card,Regular,Hyderabad,1
+ORD101195,48,31479.0,5,0,2.0,Electronics,Credit Card,Regular,Mumbai,0
+ORD101196,56,81884.0,4,5,3.0,Electronics,Cash on Delivery,Premium,Delhi,1
+ORD101197,19,72447.0,14,3,2.0,Beauty,Credit Card,Premium,Bangalore,1
+ORD101198,43,1192.0,7,0,2.0,Beauty,UPI,New,Chennai,0
+ORD101199,43,5709.0,13,5,4.0,Fashion,Credit Card,New,Hyderabad,1
+ORD101200,25,77963.0,6,2,5.0,Electronics,Credit Card,New,Bangalore,0
+ORD101201,35,76882.0,14,4,1.0,Home,Credit Card,Premium,Delhi,1
+ORD101202,59,68116.0,10,4,4.0,Sports,UPI,Premium,Mumbai,1
+ORD101203,47,8846.0,7,8,5.0,Electronics,Credit Card,Regular,Hyderabad,1
+ORD101204,29,26640.0,1,4,,Beauty,Cash on Delivery,New,Bangalore,0
+ORD101205,56,4456.0,12,5,2.0,Beauty,Credit Card,Premium,Bangalore,1
+ORD101206,20,59002.0,11,1,4.0,Sports,Debit Card,New,Mumbai,0
+ORD101207,55,91821.0,1,9,3.0,Beauty,UPI,New,Delhi,1
+ORD101208,21,42350.0,2,3,1.0,Beauty,Credit Card,New,Chennai,0
+ORD101209,51,40016.0,8,5,2.0,Fashion,Cash on Delivery,New,Hyderabad,1
+ORD101210,23,92061.0,9,6,1.0,Electronics,Credit Card,Regular,Hyderabad,1
+ORD101211,38,75818.0,11,6,4.0,Sports,UPI,Premium,Hyderabad,1
+ORD101212,49,78502.0,7,0,1.0,Electronics,UPI,Regular,Bangalore,0
+ORD101213,39,72595.0,5,6,5.0,Sports,UPI,Premium,Delhi,0
+ORD101214,59,36392.0,11,9,3.0,Sports,Cash on Delivery,Regular,Chennai,1
+ORD101215,56,1424.0,11,2,3.0,Sports,Cash on Delivery,New,Delhi,1
+ORD101216,27,90640.0,3,5,4.0,Beauty,Debit Card,Premium,Hyderabad,0
+ORD101217,55,83008.0,13,2,3.0,Electronics,Cash on Delivery,New,Mumbai,1
+ORD101218,25,89083.0,7,9,4.0,Beauty,Credit Card,New,Mumbai,1
+ORD101219,21,43174.0,5,2,5.0,Sports,Cash on Delivery,Regular,Bangalore,0
+ORD101220,25,57674.0,13,2,1.0,Electronics,UPI,Premium,Hyderabad,1
+ORD101221,31,57152.0,5,8,2.0,Electronics,UPI,Regular,Bangalore,1
+ORD101222,58,44939.0,1,4,4.0,Home,Cash on Delivery,Regular,Chennai,0
+ORD101223,18,35581.0,11,7,1.0,Fashion,Cash on Delivery,Premium,Hyderabad,1
+ORD101224,42,33573.0,12,8,1.0,Home,Debit Card,Premium,Delhi,1
+ORD101225,43,59361.0,14,8,4.0,Sports,Debit Card,Premium,Mumbai,1
+ORD101226,40,15006.0,6,4,3.0,Beauty,Credit Card,Regular,Hyderabad,0
+ORD101227,42,38917.0,14,1,3.0,Sports,Cash on Delivery,New,Mumbai,1
+ORD101228,45,19110.0,8,8,4.0,Sports,Cash on Delivery,Regular,Mumbai,1
+ORD101229,45,60372.0,4,8,2.0,Sports,Debit Card,Premium,Delhi,1
+ORD101230,20,80323.0,8,6,5.0,Fashion,UPI,Premium,Bangalore,1
+ORD101231,30,41144.0,9,3,2.0,Beauty,Credit Card,New,Bangalore,1
+ORD101232,35,86461.0,7,1,4.0,Sports,Cash on Delivery,Regular,Hyderabad,0
+ORD101233,30,95845.0,9,6,3.0,Sports,UPI,New,Delhi,1
+ORD101234,36,94742.0,7,4,2.0,Electronics,UPI,New,Delhi,1
+ORD101235,31,80928.0,12,7,1.0,Sports,Cash on Delivery,New,Chennai,1
+ORD101236,18,21542.0,11,6,3.0,Home,Credit Card,Regular,Chennai,1
+ORD101237,35,55871.0,7,0,3.0,Sports,UPI,Premium,Delhi,0
+ORD101238,45,46247.0,13,0,5.0,Beauty,Debit Card,Premium,Hyderabad,0
+ORD101239,43,6230.0,2,2,5.0,Electronics,Credit Card,Premium,Delhi,0
+ORD101240,40,42479.0,6,5,4.0,Beauty,UPI,New,Hyderabad,0
+ORD101241,52,21423.0,13,7,4.0,Home,Credit Card,New,Hyderabad,1
+ORD101242,39,3341.0,8,4,1.0,Sports,Credit Card,Premium,Bangalore,1
+ORD101243,58,10804.0,6,6,3.0,Electronics,Debit Card,New,Chennai,1
+ORD101244,40,32158.0,11,6,5.0,Fashion,UPI,Regular,Delhi,1
+ORD101245,35,6474.0,1,4,1.0,,Cash on Delivery,Regular,Hyderabad,1
+ORD101246,56,21898.0,11,1,3.0,Fashion,UPI,Premium,Chennai,0
+ORD101247,57,17565.0,7,1,4.0,Electronics,Debit Card,Premium,Hyderabad,0
+ORD101248,44,29820.0,5,8,5.0,Sports,Debit Card,Regular,Mumbai,1
+ORD101249,43,95003.0,13,0,4.0,Fashion,Credit Card,Regular,Delhi,0
+ORD101250,54,12521.0,5,0,4.0,Sports,UPI,Regular,Bangalore,0
+ORD101251,58,51637.0,9,9,2.0,Beauty,UPI,Premium,Chennai,1
+ORD101252,58,51948.0,13,5,5.0,Sports,Debit Card,Regular,Chennai,1
+ORD101253,28,84097.0,2,7,3.0,Sports,Debit Card,Premium,Hyderabad,1
+ORD101254,52,83668.0,8,2,2.0,Home,Cash on Delivery,Regular,Hyderabad,1
+ORD101255,41,63712.0,3,0,4.0,Beauty,Credit Card,Regular,Delhi,0
+ORD101256,42,52128.0,1,1,1.0,Beauty,UPI,Regular,Chennai,0
+ORD101257,33,92373.0,13,2,3.0,Home,UPI,Regular,Bangalore,1
+ORD101258,42,54275.0,6,2,1.0,Fashion,Debit Card,Regular,Mumbai,1
+ORD101259,18,37844.0,2,7,2.0,Sports,UPI,Premium,Mumbai,1
+ORD101260,51,90956.0,13,5,5.0,Fashion,Debit Card,New,Delhi,1
+ORD101261,23,14675.0,9,6,2.0,Home,UPI,Premium,Bangalore,1
+ORD101262,27,48145.0,9,3,2.0,Beauty,Debit Card,Regular,Bangalore,1
+ORD101263,41,59623.0,13,8,4.0,Sports,Debit Card,New,Bangalore,1
+ORD101264,57,98300.0,13,8,2.0,Beauty,Credit Card,New,Bangalore,1
+ORD101265,21,28356.0,3,8,4.0,Home,Credit Card,New,Bangalore,1
+ORD101266,22,97002.0,5,3,,Fashion,Debit Card,New,Chennai,0
+ORD101267,19,36944.0,13,3,2.0,Electronics,UPI,Premium,Delhi,1
+ORD101268,27,87634.0,9,7,3.0,Sports,UPI,Premium,Chennai,1
+ORD101269,26,60158.0,3,4,5.0,Beauty,Debit Card,Premium,Mumbai,0
+ORD101270,59,49536.0,4,7,5.0,Beauty,Debit Card,Regular,Bangalore,0
+ORD101271,29,17432.0,10,7,1.0,Sports,Debit Card,Regular,Bangalore,1
+ORD101272,24,28277.0,6,7,4.0,Sports,Credit Card,New,Hyderabad,1
+ORD101273,40,43098.0,8,6,5.0,Beauty,Cash on Delivery,Premium,Chennai,1
+ORD101274,40,61584.0,14,9,3.0,Sports,Debit Card,Regular,Bangalore,1
+ORD101275,22,86506.0,9,1,4.0,Beauty,UPI,Premium,Hyderabad,0
+ORD101276,34,73333.0,9,9,4.0,Beauty,Debit Card,Premium,Chennai,1
+ORD101277,59,28522.0,6,2,2.0,Electronics,Credit Card,Regular,Hyderabad,0
+ORD101278,52,29765.0,11,5,4.0,Electronics,Debit Card,Regular,Hyderabad,1
+ORD101279,22,71110.0,6,2,1.0,Home,Credit Card,Premium,Mumbai,1
+ORD101280,21,60930.0,9,6,3.0,Fashion,Debit Card,Regular,Hyderabad,1
+ORD101281,31,56740.0,3,5,4.0,Home,Debit Card,New,Delhi,0
+ORD101282,24,31686.0,1,8,3.0,Beauty,Credit Card,Regular,Mumbai,1
+ORD101283,25,37061.0,12,3,3.0,Home,Cash on Delivery,Regular,Delhi,1
+ORD101284,59,28850.0,13,6,3.0,Fashion,Credit Card,Premium,Bangalore,1
+ORD101285,27,11285.0,4,8,2.0,Electronics,Debit Card,New,Hyderabad,1
+ORD101286,40,64272.0,14,8,1.0,Beauty,Cash on Delivery,New,Bangalore,1
+ORD101287,41,76606.0,10,2,2.0,Fashion,Cash on Delivery,New,Bangalore,1
+ORD101288,45,13886.0,6,2,2.0,Beauty,Cash on Delivery,New,Hyderabad,0
+ORD101289,38,21545.0,8,6,3.0,Sports,Debit Card,Regular,Mumbai,1
+ORD101290,25,23206.0,4,5,3.0,Home,UPI,Regular,Chennai,0
+ORD101291,24,15740.0,13,0,5.0,Fashion,UPI,New,Mumbai,0
+ORD101292,25,83755.0,6,3,3.0,Beauty,UPI,Regular,Mumbai,0
+ORD101293,20,20713.0,13,7,3.0,Home,Debit Card,Regular,Hyderabad,1
+ORD101294,18,51406.0,6,6,4.0,Sports,Debit Card,Regular,Chennai,1
+ORD101295,40,20508.0,11,9,5.0,Beauty,UPI,Regular,Hyderabad,1
+ORD101296,50,74917.0,4,4,1.0,Fashion,Credit Card,Regular,Mumbai,1
+ORD101297,34,94422.0,5,2,4.0,Home,Cash on Delivery,Premium,Delhi,0
+ORD101298,52,74343.0,14,0,4.0,Electronics,Cash on Delivery,Premium,Mumbai,0
+ORD101299,41,48266.0,2,1,2.0,Beauty,Credit Card,New,Mumbai,0
+ORD101300,32,92217.0,11,1,4.0,Beauty,Cash on Delivery,New,Chennai,0
+ORD101301,25,54134.0,14,8,2.0,Fashion,Debit Card,New,Mumbai,1
+ORD101302,41,88027.0,13,3,1.0,Home,Debit Card,Premium,Mumbai,1
+ORD101303,30,42484.0,2,8,5.0,Sports,Cash on Delivery,Regular,Delhi,0
+ORD101304,51,42565.0,6,6,5.0,Home,Cash on Delivery,Regular,Bangalore,0
+ORD101305,48,4275.0,13,8,3.0,Fashion,UPI,New,Bangalore,1
+ORD101306,19,14168.0,14,8,5.0,Home,UPI,New,Bangalore,1
+ORD101307,37,52296.0,13,4,3.0,Beauty,UPI,New,Chennai,1
+ORD101308,54,8451.0,2,9,1.0,Beauty,UPI,New,Delhi,1
+ORD101309,34,62787.0,10,6,2.0,Sports,UPI,New,Mumbai,1
+ORD101310,21,6554.0,2,5,1.0,Sports,Credit Card,New,Delhi,1
+ORD101311,56,49612.0,5,4,4.0,Home,Credit Card,New,Mumbai,0
+ORD101312,33,48422.0,9,4,1.0,Beauty,Credit Card,New,Hyderabad,1
+ORD101313,22,67485.0,9,1,1.0,Fashion,UPI,New,Mumbai,1
+ORD101314,53,40777.0,6,5,2.0,Home,Cash on Delivery,Regular,Hyderabad,1
+ORD101315,46,10137.0,11,0,2.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD101316,24,23988.0,1,0,4.0,Fashion,Cash on Delivery,Premium,Hyderabad,0
+ORD101317,21,76400.0,2,0,4.0,Beauty,Debit Card,Regular,Delhi,0
+ORD101318,59,34396.0,7,3,4.0,Sports,Credit Card,New,Delhi,0
+ORD101319,23,6083.0,2,6,2.0,Home,Debit Card,Regular,Mumbai,1
+ORD101320,59,5067.0,8,0,5.0,Fashion,Debit Card,New,Chennai,0
+ORD101321,35,72292.0,5,6,5.0,Sports,Credit Card,Regular,Mumbai,0
+ORD101322,59,46532.0,2,6,3.0,Beauty,UPI,Premium,Delhi,0
+ORD101323,47,3309.0,2,9,4.0,Beauty,Debit Card,New,Delhi,1
+ORD101324,20,72427.0,2,9,2.0,Home,Credit Card,New,Hyderabad,1
+ORD101325,18,39905.0,1,3,2.0,Home,Credit Card,Regular,Hyderabad,0
+ORD101326,46,52616.0,10,8,,Beauty,Cash on Delivery,New,Bangalore,1
+ORD101327,29,7965.0,3,7,3.0,Beauty,Cash on Delivery,New,Mumbai,1
+ORD101328,23,85619.0,4,7,3.0,Electronics,Cash on Delivery,Premium,Bangalore,1
+ORD101329,55,30011.0,1,5,1.0,Sports,Debit Card,Regular,Hyderabad,1
+ORD101330,41,75635.0,7,2,1.0,Home,Cash on Delivery,New,Chennai,1
+ORD101331,52,95281.0,14,5,3.0,Fashion,Credit Card,Regular,Chennai,1
+ORD101332,37,19057.0,13,2,1.0,Beauty,Cash on Delivery,Regular,Hyderabad,1
+ORD101333,59,85077.0,1,1,2.0,Beauty,Credit Card,Regular,Chennai,0
+ORD101334,34,27594.0,9,7,3.0,Fashion,UPI,Premium,Chennai,1
+ORD101335,36,80940.0,12,1,3.0,Fashion,UPI,Regular,Mumbai,1
+ORD101336,18,95527.0,5,5,5.0,Fashion,Cash on Delivery,Premium,Chennai,0
+ORD101337,18,17062.0,1,4,5.0,Fashion,UPI,New,Chennai,0
+ORD101338,33,74719.0,11,5,2.0,Beauty,Credit Card,Regular,Delhi,1
+ORD101339,33,81359.0,1,3,2.0,Home,Cash on Delivery,Regular,Delhi,0
+ORD101340,34,61804.0,11,6,4.0,Electronics,Debit Card,New,Bangalore,1
+ORD101341,24,68191.0,2,3,3.0,Electronics,Debit Card,Regular,Chennai,0
+ORD101342,19,25200.0,1,4,4.0,Sports,Cash on Delivery,New,Bangalore,0
+ORD101343,23,5769.0,9,3,1.0,Home,Cash on Delivery,New,Chennai,1
+ORD101344,23,31430.0,2,5,,Fashion,Cash on Delivery,Regular,Bangalore,0
+ORD101345,50,71434.0,7,9,5.0,Electronics,Credit Card,Regular,Chennai,1
+ORD101346,24,83487.0,11,9,1.0,Sports,Credit Card,Regular,Delhi,1
+ORD101347,32,50199.0,13,6,3.0,Home,Debit Card,New,Chennai,1
+ORD101348,22,80237.0,1,6,5.0,Sports,UPI,Regular,Delhi,0
+ORD101349,43,59970.0,3,6,5.0,Home,Credit Card,Regular,Chennai,0
+ORD101350,51,64156.0,9,6,3.0,Fashion,UPI,New,Delhi,1
+ORD101351,49,44101.0,11,6,1.0,Home,UPI,New,Mumbai,1
+ORD101352,18,20528.0,14,3,2.0,Sports,UPI,Regular,Bangalore,1
+ORD101353,24,36429.0,2,3,5.0,Electronics,UPI,Premium,Delhi,0
+ORD101354,34,11860.0,10,2,2.0,Sports,Credit Card,Regular,Chennai,1
+ORD101355,29,19484.0,14,0,3.0,Fashion,Credit Card,Regular,Chennai,1
+ORD101356,19,87154.0,4,1,5.0,Sports,Debit Card,Premium,Chennai,0
+ORD101357,32,20556.0,7,5,2.0,Electronics,Debit Card,Premium,Bangalore,1
+ORD101358,50,699279.0,10,8,5.0,Sports,UPI,New,Delhi,1
+ORD101359,55,4636.0,13,7,1.0,Fashion,Debit Card,Premium,Mumbai,1
+ORD101360,34,5323.0,5,8,2.0,Beauty,Credit Card,New,Delhi,1
+ORD101361,49,17772.0,12,7,1.0,Home,Credit Card,Regular,Chennai,1
+ORD101362,21,16196.0,1,4,2.0,Beauty,Cash on Delivery,Premium,Mumbai,0
+ORD101363,47,62107.0,10,4,5.0,Sports,Cash on Delivery,New,Hyderabad,0
+ORD101364,35,79018.0,13,7,2.0,,Debit Card,Regular,Delhi,1
+ORD101365,34,79901.0,4,4,5.0,Home,Credit Card,New,Hyderabad,0
+ORD101366,35,2052.0,9,0,5.0,Fashion,Cash on Delivery,Regular,Mumbai,0
+ORD101367,48,96887.0,2,3,3.0,Sports,Debit Card,Regular,Chennai,0
+ORD101368,26,77504.0,11,4,3.0,Sports,Cash on Delivery,Premium,Bangalore,1
+ORD101369,43,80295.0,10,8,2.0,Electronics,Debit Card,Premium,Bangalore,1
+ORD101370,43,8353.0,12,0,2.0,Home,UPI,Premium,Hyderabad,1
+ORD101371,49,18600.0,3,1,1.0,Beauty,Credit Card,Premium,Delhi,0
+ORD101372,59,1286.0,1,0,4.0,Sports,Credit Card,Premium,Mumbai,0
+ORD101373,20,39262.0,1,6,2.0,Home,Cash on Delivery,Premium,Mumbai,1
+ORD101374,52,86203.0,4,3,5.0,Electronics,UPI,Premium,Chennai,0
+ORD101375,24,75297.0,14,3,5.0,Electronics,Credit Card,New,Chennai,1
+ORD101376,18,16396.0,10,5,2.0,Fashion,UPI,Regular,Bangalore,1
+ORD101377,25,3728.0,7,5,4.0,Electronics,UPI,Premium,Delhi,1
+ORD101378,33,93754.0,9,9,2.0,Beauty,Debit Card,New,Mumbai,1
+ORD101379,31,45754.0,1,9,1.0,Fashion,UPI,New,Bangalore,1
+ORD101380,37,69046.0,4,3,5.0,Beauty,UPI,Regular,Chennai,0
+ORD101381,43,52158.0,2,0,4.0,Home,Cash on Delivery,Regular,Chennai,0
+ORD101382,43,88468.0,13,7,2.0,Sports,Debit Card,Premium,Chennai,1
+ORD101383,43,64648.0,12,3,2.0,Electronics,Debit Card,New,Bangalore,1
+ORD101384,59,83900.0,7,6,1.0,Sports,UPI,New,Bangalore,1
+ORD101385,19,31815.0,4,2,4.0,Sports,Cash on Delivery,New,Bangalore,0
+ORD101386,57,7989.0,4,2,2.0,Sports,Credit Card,Premium,Bangalore,0
+ORD101387,23,2496.0,4,5,2.0,Sports,Cash on Delivery,Premium,Chennai,1
+ORD101388,29,21159.0,11,5,5.0,Sports,Debit Card,Premium,Delhi,1
+ORD101389,57,71226.0,3,5,4.0,Beauty,UPI,New,Bangalore,0
+ORD101390,44,23384.0,7,4,3.0,Sports,Cash on Delivery,Premium,Mumbai,1
+ORD101391,32,78515.0,3,9,5.0,Fashion,Cash on Delivery,Regular,Mumbai,1
+ORD101392,40,92328.0,5,8,3.0,Sports,Debit Card,Regular,Delhi,1
+ORD101393,46,22969.0,1,9,5.0,Beauty,Debit Card,Premium,Bangalore,0
+ORD101394,25,67208.0,9,5,2.0,Sports,Credit Card,Regular,Hyderabad,1
+ORD101395,41,19824.0,3,6,2.0,Home,Debit Card,Regular,Delhi,1
+ORD101396,29,863.0,7,1,1.0,Beauty,UPI,Premium,Chennai,1
+ORD101397,27,46189.0,1,0,3.0,Home,UPI,Premium,Bangalore,0
+ORD101398,48,1382.0,1,6,4.0,Home,UPI,Regular,Bangalore,0
+ORD101399,59,31325.0,5,5,1.0,Fashion,Debit Card,New,Mumbai,1
+ORD101400,21,60741.0,5,2,2.0,Sports,Credit Card,New,Chennai,0
+ORD101401,29,22084.0,10,1,5.0,Beauty,Debit Card,New,Bangalore,0
+ORD101402,28,65452.0,12,8,2.0,Home,Debit Card,Premium,Bangalore,1
+ORD101403,25,16621.0,11,4,4.0,Fashion,Debit Card,Regular,Chennai,1
+ORD101404,27,29640.0,4,7,4.0,Sports,Cash on Delivery,Premium,Bangalore,1
+ORD101405,46,10992.0,14,5,2.0,Electronics,Debit Card,Regular,Bangalore,1
+ORD101406,38,9545.0,5,1,4.0,Beauty,UPI,Premium,Mumbai,0
+ORD101407,41,73034.0,7,8,1.0,Electronics,Cash on Delivery,New,Chennai,1
+ORD101408,43,47001.0,6,5,5.0,Home,Debit Card,Regular,Delhi,0
+ORD101409,39,85023.0,10,6,2.0,Electronics,Credit Card,Premium,Hyderabad,1
+ORD101410,23,84100.0,3,1,3.0,Electronics,Cash on Delivery,New,Mumbai,0
+ORD101411,27,81083.0,5,7,5.0,Sports,UPI,Regular,Hyderabad,0
+ORD101412,56,35275.0,1,1,4.0,Sports,Credit Card,Regular,Hyderabad,0
+ORD101413,49,55587.0,10,9,1.0,Fashion,Credit Card,New,Delhi,1
+ORD101414,59,47325.0,10,8,3.0,Beauty,UPI,New,Delhi,1
+ORD101415,40,99541.0,9,3,5.0,Home,Cash on Delivery,New,Bangalore,0
+ORD101416,48,68659.0,7,7,1.0,Home,UPI,Regular,Hyderabad,1
+ORD101417,38,23285.0,2,0,5.0,Electronics,Cash on Delivery,Regular,Chennai,0
+ORD101418,51,58439.0,3,2,2.0,Beauty,Cash on Delivery,Premium,Bangalore,0
+ORD101419,35,41201.0,8,7,5.0,Fashion,Cash on Delivery,Premium,Bangalore,1
+ORD101420,47,32927.0,5,9,4.0,Beauty,Cash on Delivery,Premium,Hyderabad,1
+ORD101421,28,52909.0,10,3,1.0,Fashion,Credit Card,New,Chennai,1
+ORD101422,30,82231.0,10,2,2.0,Home,Cash on Delivery,Regular,Hyderabad,1
+ORD101423,54,21841.0,3,9,3.0,Electronics,UPI,Premium,Delhi,1
+ORD101424,33,68916.0,12,7,2.0,Beauty,Debit Card,Regular,Bangalore,1
+ORD101425,25,30725.0,9,4,2.0,Home,Debit Card,Premium,Chennai,1
+ORD101426,47,28329.0,13,2,5.0,,Credit Card,Regular,Hyderabad,0
+ORD101427,20,68699.0,11,9,2.0,Beauty,Credit Card,Regular,Chennai,1
+ORD101428,29,60789.0,11,1,5.0,Fashion,Credit Card,Premium,Mumbai,0
+ORD101429,54,11721.0,12,1,5.0,Fashion,UPI,New,Chennai,0
+ORD101430,24,45837.0,10,7,4.0,Fashion,Credit Card,Regular,Chennai,1
+ORD101431,33,87727.0,9,4,5.0,Home,UPI,Regular,Delhi,0
+ORD101432,22,77629.0,4,8,5.0,Beauty,UPI,Regular,Bangalore,1
+ORD101433,32,55133.0,8,6,4.0,Sports,Credit Card,New,Hyderabad,1
+ORD101434,49,12118.0,4,4,1.0,Sports,Debit Card,Premium,Delhi,1
+ORD101435,21,88574.0,12,9,5.0,Sports,Credit Card,Premium,Chennai,1
+ORD101436,54,88392.0,13,0,3.0,Beauty,UPI,Regular,Bangalore,0
+ORD101437,56,92571.0,13,6,3.0,Electronics,Debit Card,New,Hyderabad,1
+ORD101438,33,34257.0,13,3,5.0,Home,UPI,Regular,Chennai,0
+ORD101439,59,32652.0,12,9,5.0,Electronics,Cash on Delivery,Premium,Mumbai,1
+ORD101440,50,26831.0,9,4,4.0,Home,UPI,New,Mumbai,1
+ORD101441,45,28459.0,3,4,2.0,Beauty,Credit Card,Regular,Hyderabad,0
+ORD101442,51,84288.0,7,9,5.0,Electronics,Debit Card,Regular,Hyderabad,1
+ORD101443,31,73278.0,10,5,4.0,Sports,UPI,New,Bangalore,1
+ORD101444,50,29242.0,8,8,5.0,Sports,Cash on Delivery,Premium,Chennai,1
+ORD101445,27,699279.0,9,5,5.0,Electronics,Credit Card,Premium,Mumbai,0
+ORD101446,46,69702.0,6,2,2.0,Home,Cash on Delivery,Regular,Bangalore,0
+ORD101447,29,27127.0,2,7,4.0,Electronics,Debit Card,Premium,Mumbai,0
+ORD101448,42,19903.0,2,3,5.0,Home,Debit Card,New,Hyderabad,0
+ORD101449,20,,2,2,1.0,Home,UPI,Premium,Mumbai,0
+ORD101450,51,35265.0,4,8,5.0,Beauty,UPI,Premium,Mumbai,1
+ORD101451,32,28175.0,10,3,5.0,Fashion,Credit Card,Regular,Delhi,0
+ORD101452,51,19677.0,1,6,2.0,Fashion,UPI,Premium,Delhi,1
+ORD101453,34,84835.0,11,7,3.0,Sports,Credit Card,Regular,Bangalore,1
+ORD101454,59,41370.0,10,0,4.0,Sports,Credit Card,Regular,Mumbai,0
+ORD101455,26,1335.0,7,6,2.0,Sports,Debit Card,Regular,Hyderabad,1
+ORD101456,41,69851.0,7,7,3.0,Fashion,Credit Card,Premium,Bangalore,1
+ORD101457,51,78027.0,1,9,1.0,Sports,Credit Card,New,Mumbai,1
+ORD101458,30,73090.0,11,3,4.0,Sports,Credit Card,Regular,Bangalore,1
+ORD101459,47,3991.0,3,5,1.0,Sports,Credit Card,Regular,Chennai,1
+ORD101460,39,60908.0,2,6,4.0,Sports,UPI,New,Mumbai,0
+ORD101461,29,18218.0,5,7,4.0,Fashion,UPI,Regular,Delhi,1
+ORD101462,48,89631.0,10,6,5.0,Beauty,Debit Card,Regular,Mumbai,1
+ORD101463,37,62146.0,7,4,5.0,Fashion,Credit Card,New,Bangalore,0
+ORD101464,32,16004.0,2,4,5.0,Fashion,UPI,Premium,Hyderabad,0
+ORD101465,36,9105.0,13,1,4.0,Home,Credit Card,Premium,Bangalore,0
+ORD101466,53,79815.0,4,2,5.0,Fashion,UPI,Regular,Chennai,0
+ORD101467,24,94444.0,12,4,4.0,Beauty,Credit Card,Premium,Hyderabad,1
+ORD101468,51,80053.0,5,6,2.0,Beauty,Debit Card,New,Delhi,1
+ORD101469,49,4637.0,9,6,5.0,Beauty,Cash on Delivery,New,Bangalore,1
+ORD101470,27,79869.0,6,2,5.0,Fashion,Credit Card,New,Delhi,0
+ORD101471,25,59060.0,12,0,5.0,,Debit Card,Regular,Bangalore,0
+ORD101472,47,86564.0,9,0,5.0,Fashion,Credit Card,New,Bangalore,0
+ORD101473,48,44327.0,13,7,3.0,Beauty,Cash on Delivery,Premium,Mumbai,1
+ORD101474,36,,1,7,1.0,Beauty,Credit Card,Regular,Delhi,1
+ORD101475,46,4126.0,1,3,2.0,Electronics,Cash on Delivery,Premium,Mumbai,0
+ORD101476,27,55890.0,6,8,1.0,Beauty,UPI,Premium,Chennai,1
+ORD101477,24,4525.0,11,4,4.0,Beauty,Cash on Delivery,New,Bangalore,1
+ORD101478,33,699279.0,14,6,4.0,Sports,Cash on Delivery,Premium,Chennai,1
+ORD101479,37,11225.0,6,8,4.0,Sports,Cash on Delivery,Premium,Chennai,1
+ORD101480,22,97387.0,5,1,1.0,Fashion,Debit Card,Regular,Delhi,0
+ORD101481,46,29190.0,1,0,5.0,Home,Debit Card,Regular,Bangalore,0
+ORD101482,20,20381.0,5,2,1.0,Beauty,Debit Card,Premium,Chennai,0
+ORD101483,57,44854.0,9,5,5.0,Sports,Credit Card,Regular,Delhi,0
+ORD101484,37,87975.0,12,1,5.0,Electronics,UPI,New,Hyderabad,0
+ORD101485,40,38758.0,5,0,1.0,Sports,Credit Card,Regular,Delhi,0
+ORD101486,34,11248.0,2,2,3.0,Home,Cash on Delivery,New,Bangalore,0
+ORD101487,24,93801.0,10,9,3.0,Beauty,Credit Card,Regular,Chennai,1
+ORD101488,37,26116.0,11,1,4.0,Home,Debit Card,Premium,Bangalore,0
+ORD101489,36,26628.0,5,6,2.0,Electronics,UPI,New,Delhi,1
+ORD101490,24,71706.0,4,7,5.0,Home,UPI,Premium,Delhi,0
+ORD101491,21,39385.0,9,4,4.0,Sports,Credit Card,Regular,Hyderabad,1
+ORD101492,21,19659.0,13,8,4.0,Beauty,UPI,New,Mumbai,1
+ORD101493,41,51512.0,2,9,1.0,Sports,Credit Card,New,Bangalore,1
+ORD101494,36,58623.0,2,0,3.0,Fashion,UPI,Regular,Mumbai,0
+ORD101495,52,87818.0,1,0,4.0,Home,Cash on Delivery,Regular,Bangalore,0
+ORD101496,26,47874.0,12,7,4.0,Electronics,Credit Card,New,Chennai,1
+ORD101497,52,51401.0,11,2,5.0,Sports,Debit Card,New,Delhi,0
+ORD101498,29,65671.0,1,4,1.0,Beauty,Cash on Delivery,Premium,Chennai,1
+ORD101499,18,18429.0,11,6,4.0,Sports,Cash on Delivery,New,Bangalore,1
+ORD101500,39,95877.0,14,1,3.0,Sports,Cash on Delivery,Regular,Delhi,1
+ORD101501,56,96676.0,13,1,4.0,Beauty,UPI,Premium,Hyderabad,0
+ORD101502,25,27945.0,14,1,4.0,Electronics,Credit Card,Premium,Mumbai,0
+ORD101503,35,16367.0,6,8,3.0,Sports,Credit Card,New,Bangalore,1
+ORD101504,26,31713.0,8,2,3.0,Fashion,UPI,Premium,Mumbai,0
+ORD101505,35,52088.0,14,3,4.0,Electronics,Credit Card,New,Hyderabad,1
+ORD101506,42,20367.0,12,1,3.0,Sports,Debit Card,Regular,Chennai,1
+ORD101507,31,77458.0,7,3,5.0,Electronics,UPI,Regular,Bangalore,0
+ORD101508,55,37431.0,8,8,1.0,Fashion,Debit Card,Premium,Hyderabad,1
+ORD101509,24,88236.0,12,9,5.0,Sports,Credit Card,Regular,Hyderabad,1
+ORD101510,59,91993.0,12,6,2.0,Home,UPI,New,Mumbai,1
+ORD101511,19,46141.0,14,9,1.0,Home,Debit Card,Regular,Chennai,1
+ORD101512,21,76602.0,14,8,3.0,Beauty,UPI,Regular,Delhi,1
+ORD101513,56,98922.0,2,5,2.0,Fashion,UPI,Premium,Mumbai,1
+ORD101514,55,29216.0,10,2,2.0,Home,Cash on Delivery,Premium,Bangalore,1
+ORD101515,32,83521.0,6,1,5.0,Fashion,UPI,New,Hyderabad,0
+ORD101516,49,89078.0,6,5,2.0,Sports,UPI,Regular,Hyderabad,1
+ORD101517,20,82928.0,12,0,5.0,Home,Cash on Delivery,Premium,Mumbai,0
+ORD101518,19,11767.0,10,6,1.0,Home,Debit Card,New,Hyderabad,1
+ORD101519,23,57542.0,5,9,1.0,Sports,Cash on Delivery,Premium,Delhi,1
+ORD101520,44,46272.0,3,4,4.0,Beauty,Credit Card,Premium,Bangalore,0
+ORD101521,41,66990.0,3,2,4.0,Home,Credit Card,New,Chennai,0
+ORD101522,54,59035.0,6,2,4.0,Electronics,Cash on Delivery,Premium,Chennai,0
+ORD101523,42,77595.0,13,3,5.0,Fashion,Cash on Delivery,Regular,Chennai,1
+ORD101524,44,64249.0,1,3,1.0,Home,Debit Card,Premium,Bangalore,0
+ORD101525,52,51524.0,9,1,1.0,Electronics,Credit Card,Premium,Mumbai,1
+ORD101526,30,12967.0,2,3,4.0,Home,UPI,Regular,Mumbai,0
+ORD101527,43,3081.0,11,6,3.0,Sports,Debit Card,New,Chennai,1
+ORD101528,52,94127.0,10,7,5.0,Home,Debit Card,Regular,Hyderabad,1
+ORD101529,37,61530.0,7,8,1.0,Sports,UPI,New,Bangalore,1
+ORD101530,29,67584.0,8,9,1.0,Home,Debit Card,Premium,Delhi,1
+ORD101531,57,3907.0,13,2,3.0,Beauty,UPI,Premium,Bangalore,1
+ORD101532,22,76145.0,7,4,2.0,Beauty,Credit Card,Premium,Delhi,1
+ORD101533,59,54887.0,2,2,3.0,Sports,Debit Card,Regular,Delhi,0
+ORD101534,24,99897.0,9,3,1.0,Electronics,Debit Card,Premium,Mumbai,1
+ORD101535,51,88485.0,9,6,1.0,Sports,UPI,New,Hyderabad,1
+ORD101536,28,43833.0,13,6,3.0,Home,Debit Card,New,Bangalore,1
+ORD101537,23,50841.0,2,5,4.0,Home,UPI,Regular,Delhi,0
+ORD101538,42,85826.0,12,0,5.0,Sports,Credit Card,Premium,Hyderabad,0
+ORD101539,25,94360.0,1,3,1.0,Beauty,Credit Card,Premium,Chennai,0
+ORD101540,39,47205.0,5,6,2.0,Home,Debit Card,Premium,Chennai,1
+ORD101541,55,10089.0,5,4,3.0,Home,Cash on Delivery,New,Delhi,0
+ORD101542,48,76925.0,10,1,1.0,Fashion,Debit Card,Regular,Mumbai,1
+ORD101543,33,17705.0,6,2,2.0,Fashion,Debit Card,New,Chennai,0
+ORD101544,45,93009.0,13,8,3.0,Home,UPI,New,Chennai,1
+ORD101545,22,85866.0,12,4,5.0,Beauty,UPI,Regular,Hyderabad,1
+ORD101546,37,73995.0,13,9,5.0,Fashion,Credit Card,Regular,Delhi,1
+ORD101547,44,57741.0,7,9,5.0,Sports,Debit Card,Regular,Bangalore,1
+ORD101548,55,35768.0,7,1,5.0,Electronics,Credit Card,New,Chennai,0
+ORD101549,32,699279.0,10,2,1.0,Beauty,Cash on Delivery,Premium,Hyderabad,1
+ORD101550,46,94889.0,13,9,3.0,Electronics,UPI,Regular,Chennai,1
+ORD101551,56,95479.0,14,2,5.0,Sports,UPI,Regular,Delhi,0
+ORD101552,28,72276.0,6,9,3.0,Electronics,UPI,Premium,Mumbai,1
+ORD101553,44,77268.0,5,6,2.0,Electronics,Debit Card,Premium,Bangalore,1
+ORD101554,44,,11,1,3.0,Home,Credit Card,New,Mumbai,0
+ORD101555,18,25522.0,3,2,4.0,Home,Debit Card,Regular,Chennai,0
+ORD101556,56,62220.0,11,5,4.0,Home,Credit Card,New,Mumbai,1
+ORD101557,20,76978.0,3,1,2.0,Electronics,UPI,Premium,Hyderabad,0
+ORD101558,27,74808.0,9,1,2.0,Sports,UPI,New,Hyderabad,0
+ORD101559,55,49042.0,10,1,4.0,Home,Debit Card,Regular,Bangalore,0
+ORD101560,53,82921.0,5,0,1.0,Home,Credit Card,New,Chennai,0
+ORD101561,20,99773.0,5,9,5.0,,Debit Card,Premium,Delhi,1
+ORD101562,38,3552.0,10,5,4.0,Electronics,Credit Card,New,Delhi,1
+ORD101563,43,16120.0,14,0,5.0,Electronics,UPI,Regular,Chennai,0
+ORD101564,20,26023.0,13,7,3.0,Electronics,Cash on Delivery,Regular,Bangalore,1
+ORD101565,38,82857.0,11,5,2.0,Sports,Cash on Delivery,Premium,Mumbai,1
+ORD101566,55,11937.0,9,7,1.0,Home,Debit Card,New,Hyderabad,1
+ORD101567,24,81203.0,6,4,3.0,Electronics,Cash on Delivery,Premium,Bangalore,1
+ORD101568,38,94955.0,4,7,2.0,Electronics,Cash on Delivery,New,Delhi,1
+ORD101569,48,59365.0,9,8,,Home,Cash on Delivery,Regular,Bangalore,1
+ORD101570,27,30992.0,6,3,4.0,Fashion,Credit Card,Premium,Mumbai,0
+ORD101571,54,50490.0,7,8,5.0,Home,Cash on Delivery,New,Mumbai,1
+ORD101572,33,70809.0,14,4,1.0,Home,Cash on Delivery,Regular,Chennai,1
+ORD101573,26,3820.0,11,7,5.0,Electronics,Cash on Delivery,New,Mumbai,1
+ORD101574,43,18448.0,3,0,3.0,Beauty,Cash on Delivery,New,Mumbai,0
+ORD101575,45,28367.0,8,6,5.0,Home,Credit Card,Premium,Chennai,1
+ORD101576,22,72733.0,7,9,4.0,Beauty,UPI,Regular,Hyderabad,1
+ORD101577,58,49934.0,10,1,1.0,Electronics,Debit Card,Premium,Delhi,1
+ORD101578,26,80232.0,11,0,2.0,Beauty,Cash on Delivery,New,Hyderabad,1
+ORD101579,59,83367.0,9,5,5.0,Fashion,Credit Card,Regular,Delhi,0
+ORD101580,20,96761.0,13,9,5.0,Electronics,Debit Card,New,Hyderabad,1
+ORD101581,19,91437.0,10,1,2.0,Beauty,Cash on Delivery,Premium,Mumbai,1
+ORD101582,29,46217.0,5,3,4.0,Sports,Credit Card,New,Chennai,0
+ORD101583,18,12724.0,1,0,5.0,Sports,Cash on Delivery,New,Hyderabad,0
+ORD101584,47,78428.0,3,6,3.0,Sports,Cash on Delivery,Regular,Hyderabad,1
+ORD101585,41,5577.0,12,9,5.0,Electronics,Cash on Delivery,New,Mumbai,1
+ORD101586,18,60402.0,10,2,4.0,Beauty,UPI,Premium,Chennai,0
+ORD101587,53,49603.0,8,0,,Sports,Cash on Delivery,Regular,Delhi,0
+ORD101588,32,95619.0,9,1,3.0,Electronics,UPI,New,Bangalore,0
+ORD101589,18,24898.0,10,2,4.0,Sports,UPI,New,Bangalore,0
+ORD101590,22,65494.0,13,9,3.0,Beauty,Debit Card,Regular,Hyderabad,1
+ORD101591,35,59349.0,7,8,2.0,Sports,Cash on Delivery,New,Bangalore,1
+ORD101592,40,15150.0,7,2,4.0,Home,Debit Card,Premium,Mumbai,0
+ORD101593,24,12301.0,1,4,2.0,Beauty,Debit Card,New,Hyderabad,0
+ORD101594,58,22898.0,7,3,4.0,Electronics,Cash on Delivery,New,Mumbai,0
+ORD101595,53,51475.0,12,0,4.0,Electronics,Debit Card,Premium,Chennai,0
+ORD101596,52,41233.0,6,3,1.0,Electronics,Debit Card,New,Mumbai,1
+ORD101597,42,59459.0,10,2,1.0,Electronics,Credit Card,Regular,Hyderabad,1
+ORD101598,22,86822.0,6,7,3.0,Beauty,Debit Card,Premium,Delhi,1
+ORD101599,54,64168.0,4,3,4.0,Beauty,Cash on Delivery,Regular,Hyderabad,0
+ORD101600,53,11431.0,5,1,2.0,Fashion,Credit Card,Regular,Bangalore,0
+ORD101601,33,59401.0,2,4,4.0,Fashion,Cash on Delivery,Regular,Delhi,0
+ORD101602,56,2082.0,7,5,2.0,Fashion,Debit Card,Premium,Bangalore,1
+ORD101603,38,62724.0,12,2,1.0,Fashion,UPI,New,Chennai,1
+ORD101604,48,72129.0,1,4,2.0,Fashion,Cash on Delivery,Premium,Delhi,0
+ORD101605,31,24110.0,1,2,2.0,Fashion,UPI,New,Delhi,0
+ORD101606,56,6573.0,3,3,,Beauty,Cash on Delivery,Premium,Bangalore,0
+ORD101607,58,46702.0,5,1,4.0,Beauty,Cash on Delivery,Premium,Delhi,0
+ORD101608,29,50192.0,7,6,4.0,Beauty,Debit Card,New,Bangalore,1
+ORD101609,52,28536.0,1,9,2.0,Beauty,UPI,Premium,Delhi,1
+ORD101610,49,69181.0,11,0,5.0,Fashion,Debit Card,Regular,Hyderabad,0
+ORD101611,59,20604.0,1,0,4.0,Sports,Debit Card,New,Chennai,0
+ORD101612,53,59525.0,9,8,5.0,Sports,Cash on Delivery,Premium,Mumbai,1
+ORD101613,31,21900.0,6,7,2.0,Electronics,Cash on Delivery,Premium,Chennai,1
+ORD101614,46,80706.0,13,3,2.0,Fashion,Debit Card,Regular,Hyderabad,1
+ORD101615,56,66755.0,11,2,3.0,Electronics,UPI,New,Delhi,1
+ORD101616,59,26528.0,10,1,2.0,Electronics,Debit Card,Premium,Chennai,1
+ORD101617,37,23597.0,9,8,5.0,Home,UPI,Regular,Delhi,1
+ORD101618,21,42346.0,14,0,4.0,Sports,Cash on Delivery,Premium,Mumbai,0
+ORD101619,54,37883.0,12,1,4.0,Beauty,Debit Card,Regular,Mumbai,0
+ORD101620,22,16233.0,5,8,2.0,Fashion,UPI,Premium,Hyderabad,1
+ORD101621,49,24340.0,14,2,2.0,Home,Debit Card,New,Delhi,1
+ORD101622,29,91664.0,3,9,1.0,Sports,Credit Card,Premium,Chennai,1
+ORD101623,47,6541.0,2,2,4.0,Home,UPI,Regular,Delhi,0
+ORD101624,42,45222.0,13,6,4.0,Electronics,Credit Card,Premium,Chennai,1
+ORD101625,52,76586.0,7,8,2.0,Home,Debit Card,New,Hyderabad,1
+ORD101626,58,90783.0,12,1,2.0,Home,Debit Card,Regular,Chennai,1
+ORD101627,30,84065.0,5,9,2.0,Electronics,Credit Card,Premium,Bangalore,1
+ORD101628,27,1267.0,8,8,2.0,Beauty,Debit Card,New,Mumbai,1
+ORD101629,54,15121.0,7,5,3.0,Fashion,Cash on Delivery,New,Hyderabad,1
+ORD101630,30,42998.0,10,8,5.0,Electronics,Debit Card,New,Bangalore,1
+ORD101631,23,17694.0,12,9,1.0,Sports,Credit Card,Regular,Delhi,1
+ORD101632,59,44223.0,1,3,2.0,Beauty,Credit Card,Premium,Delhi,0
+ORD101633,28,59738.0,2,9,2.0,Fashion,Credit Card,Premium,Mumbai,1
+ORD101634,38,2647.0,8,3,4.0,Electronics,Debit Card,New,Chennai,0
+ORD101635,39,61608.0,11,1,3.0,Fashion,Cash on Delivery,Regular,Delhi,1
+ORD101636,47,9979.0,2,8,1.0,Home,Cash on Delivery,Premium,Hyderabad,1
+ORD101637,37,86796.0,3,4,,Fashion,Cash on Delivery,Premium,Delhi,0
+ORD101638,32,70459.0,3,6,3.0,Beauty,Debit Card,New,Hyderabad,1
+ORD101639,57,41427.0,10,2,2.0,Beauty,UPI,Regular,Delhi,1
+ORD101640,59,78490.0,12,8,1.0,Beauty,Debit Card,Premium,Chennai,1
+ORD101641,36,78552.0,3,0,2.0,Electronics,Debit Card,Regular,Hyderabad,0
+ORD101642,49,37887.0,8,4,2.0,Home,Debit Card,Regular,Mumbai,1
+ORD101643,45,10600.0,5,0,2.0,Electronics,Debit Card,Premium,Hyderabad,0
+ORD101644,22,36290.0,13,0,3.0,Beauty,Cash on Delivery,Premium,Bangalore,1
+ORD101645,40,88404.0,11,1,2.0,Sports,Credit Card,Premium,Mumbai,1
+ORD101646,47,65805.0,13,6,1.0,Fashion,Debit Card,Premium,Chennai,1
+ORD101647,43,26787.0,1,0,2.0,Electronics,UPI,New,Delhi,0
+ORD101648,23,27681.0,2,5,2.0,Electronics,UPI,Premium,Delhi,1
+ORD101649,41,87173.0,11,8,4.0,Home,Credit Card,Premium,Mumbai,1
+ORD101650,27,63748.0,7,9,2.0,Home,Credit Card,New,Chennai,1
+ORD101651,56,75903.0,3,5,3.0,Sports,UPI,New,Hyderabad,0
+ORD101652,40,95835.0,2,8,5.0,Fashion,UPI,Premium,Chennai,0
+ORD101653,38,23260.0,10,4,3.0,Electronics,Credit Card,Regular,Hyderabad,1
+ORD101654,26,66114.0,4,1,1.0,Fashion,UPI,Premium,Bangalore,0
+ORD101655,30,74453.0,3,9,2.0,Home,Debit Card,Regular,Chennai,1
+ORD101656,52,19062.0,10,7,3.0,Beauty,Debit Card,Regular,Mumbai,1
+ORD101657,23,93418.0,1,2,3.0,Home,Credit Card,New,Mumbai,0
+ORD101658,35,70746.0,9,3,4.0,Electronics,Cash on Delivery,Regular,Mumbai,0
+ORD101659,22,46390.0,11,8,4.0,Electronics,Debit Card,Regular,Bangalore,1
+ORD101660,22,21108.0,11,1,4.0,Beauty,UPI,Regular,Bangalore,0
+ORD101661,30,699279.0,2,4,5.0,Sports,Cash on Delivery,New,Delhi,0
+ORD101662,33,32163.0,8,2,4.0,Electronics,Credit Card,Premium,Delhi,0
+ORD101663,28,10218.0,10,2,4.0,Fashion,UPI,Regular,Mumbai,0
+ORD101664,48,48157.0,9,9,1.0,Electronics,UPI,New,Chennai,1
+ORD101665,49,76339.0,3,1,2.0,Sports,Debit Card,Regular,Chennai,0
+ORD101666,55,65554.0,3,7,2.0,Beauty,Credit Card,Premium,Chennai,1
+ORD101667,46,59201.0,9,0,5.0,Electronics,Cash on Delivery,Regular,Bangalore,0
+ORD101668,20,81229.0,2,8,5.0,Home,Cash on Delivery,Premium,Chennai,0
+ORD101669,18,37646.0,10,5,4.0,Sports,Cash on Delivery,Regular,Delhi,1
+ORD101670,53,51215.0,13,0,3.0,Beauty,UPI,Premium,Bangalore,0
+ORD101671,57,35821.0,4,2,4.0,Electronics,Cash on Delivery,Premium,Delhi,0
+ORD101672,56,88255.0,2,7,5.0,Electronics,Debit Card,Regular,Mumbai,0
+ORD101673,26,83528.0,11,4,3.0,Beauty,UPI,Premium,Chennai,1
+ORD101674,44,30180.0,2,7,1.0,Home,Debit Card,New,Delhi,1
+ORD101675,56,36945.0,14,4,3.0,Home,Credit Card,New,Hyderabad,1
+ORD101676,45,8623.0,11,6,1.0,Electronics,Cash on Delivery,Premium,Bangalore,1
+ORD101677,19,37339.0,9,2,2.0,Home,Cash on Delivery,New,Mumbai,1
+ORD101678,56,26488.0,4,4,5.0,Beauty,UPI,Premium,Delhi,0
+ORD101679,37,24306.0,13,5,4.0,Fashion,Credit Card,New,Bangalore,1
+ORD101680,42,69493.0,9,9,1.0,Electronics,Credit Card,Regular,Delhi,1
+ORD101681,20,11476.0,1,2,5.0,Electronics,Debit Card,Regular,Hyderabad,0
+ORD101682,30,97670.0,12,8,1.0,Beauty,UPI,New,Mumbai,1
+ORD101683,52,94289.0,5,1,5.0,Electronics,Debit Card,Premium,Chennai,0
+ORD101684,20,82287.0,5,3,5.0,Beauty,UPI,New,Hyderabad,0
+ORD101685,41,44635.0,6,0,2.0,Beauty,Credit Card,Premium,Hyderabad,0
+ORD101686,37,58351.0,2,3,4.0,Fashion,UPI,New,Bangalore,0
+ORD101687,30,57696.0,10,6,1.0,Beauty,UPI,Regular,Hyderabad,1
+ORD101688,49,49393.0,8,8,2.0,Electronics,Credit Card,Premium,Bangalore,1
+ORD101689,40,11429.0,13,1,4.0,Electronics,Credit Card,Premium,Chennai,0
+ORD101690,22,81603.0,9,9,2.0,Home,UPI,Regular,Hyderabad,1
+ORD101691,35,80122.0,4,9,5.0,Fashion,UPI,New,Chennai,1
+ORD101692,33,93910.0,10,1,5.0,Beauty,Credit Card,New,Bangalore,0
+ORD101693,40,97537.0,1,0,1.0,Beauty,Debit Card,Premium,Delhi,0
+ORD101694,38,25476.0,7,8,3.0,Home,UPI,Premium,Hyderabad,1
+ORD101695,34,60289.0,13,3,3.0,Sports,Credit Card,Regular,Bangalore,1
+ORD101696,56,40000.0,2,6,1.0,Electronics,Credit Card,Regular,Chennai,1
+ORD101697,56,,2,8,1.0,Electronics,Debit Card,New,Delhi,1
+ORD101698,49,65712.0,6,0,3.0,Fashion,Debit Card,Premium,Bangalore,0
+ORD101699,44,95033.0,3,7,5.0,Beauty,Credit Card,Premium,Chennai,0
+ORD101700,51,1095.0,9,3,2.0,Fashion,UPI,Premium,Hyderabad,1
+ORD101701,27,21323.0,5,9,5.0,Beauty,Credit Card,New,Delhi,1
+ORD101702,47,85874.0,1,6,3.0,Electronics,UPI,New,Bangalore,0
+ORD101703,33,67483.0,14,2,1.0,Electronics,Debit Card,Regular,Delhi,1
+ORD101704,38,12453.0,11,3,1.0,Fashion,Credit Card,New,Mumbai,1
+ORD101705,49,81529.0,8,3,1.0,Sports,Cash on Delivery,Regular,Bangalore,1
+ORD101706,19,28751.0,5,5,3.0,Fashion,UPI,Premium,Bangalore,1
+ORD101707,37,72121.0,7,0,1.0,Beauty,UPI,Premium,Mumbai,0
+ORD101708,54,92885.0,13,9,1.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD101709,31,31725.0,6,6,2.0,Fashion,Credit Card,New,Hyderabad,1
+ORD101710,48,49611.0,11,9,1.0,Electronics,Debit Card,Premium,Hyderabad,1
+ORD101711,31,80603.0,4,9,5.0,Fashion,Cash on Delivery,Premium,Bangalore,1
+ORD101712,44,35340.0,11,3,2.0,Home,UPI,New,Chennai,1
+ORD101713,35,93720.0,10,8,4.0,Fashion,Cash on Delivery,Regular,Bangalore,1
+ORD101714,52,86835.0,8,3,2.0,Fashion,UPI,New,Mumbai,1
+ORD101715,39,94150.0,14,4,4.0,Home,Credit Card,Regular,Mumbai,1
+ORD101716,52,43442.0,11,0,4.0,Home,Cash on Delivery,New,Chennai,0
+ORD101717,47,78922.0,3,4,5.0,Electronics,Credit Card,New,Chennai,0
+ORD101718,32,84069.0,11,9,4.0,Beauty,UPI,New,Bangalore,1
+ORD101719,19,53831.0,4,3,2.0,Beauty,Debit Card,Regular,Bangalore,0
+ORD101720,55,53514.0,11,9,3.0,Home,Credit Card,New,Mumbai,1
+ORD101721,28,36239.0,8,1,3.0,Fashion,UPI,New,Delhi,0
+ORD101722,25,75664.0,11,4,2.0,Fashion,Cash on Delivery,New,Chennai,1
+ORD101723,31,,10,2,1.0,Beauty,Cash on Delivery,New,Delhi,1
+ORD101724,52,78718.0,12,2,5.0,Fashion,Credit Card,Premium,Delhi,0
+ORD101725,56,46657.0,8,6,1.0,Fashion,Cash on Delivery,Regular,Bangalore,1
+ORD101726,38,98685.0,11,2,5.0,Beauty,Credit Card,Premium,Mumbai,0
+ORD101727,49,62757.0,7,4,4.0,Home,Credit Card,Regular,Bangalore,0
+ORD101728,45,92603.0,9,8,3.0,Electronics,UPI,Regular,Bangalore,1
+ORD101729,52,78424.0,5,9,2.0,Electronics,Cash on Delivery,Regular,Delhi,1
+ORD101730,50,89531.0,3,0,1.0,Fashion,Debit Card,New,Mumbai,0
+ORD101731,48,27349.0,6,5,3.0,Sports,Credit Card,Premium,Hyderabad,1
+ORD101732,29,29783.0,12,1,2.0,Fashion,Credit Card,New,Delhi,1
+ORD101733,32,91018.0,13,0,4.0,Sports,Cash on Delivery,New,Hyderabad,0
+ORD101734,31,39839.0,14,0,3.0,Beauty,Cash on Delivery,Regular,Chennai,1
+ORD101735,41,28409.0,11,1,5.0,Beauty,Credit Card,New,Mumbai,0
+ORD101736,41,26969.0,2,7,3.0,Beauty,Credit Card,Premium,Bangalore,1
+ORD101737,39,36363.0,1,1,4.0,Sports,UPI,Regular,Chennai,0
+ORD101738,29,71468.0,11,7,4.0,Electronics,Cash on Delivery,Premium,Hyderabad,1
+ORD101739,24,59774.0,6,9,3.0,Electronics,Cash on Delivery,Premium,Delhi,1
+ORD101740,46,53519.0,11,1,2.0,Beauty,UPI,Regular,Delhi,1
+ORD101741,45,68363.0,8,9,5.0,Fashion,UPI,Premium,Chennai,1
+ORD101742,25,8142.0,4,4,1.0,Beauty,Credit Card,New,Mumbai,1
+ORD101743,51,4881.0,8,6,2.0,Home,Credit Card,Premium,Chennai,1
+ORD101744,54,95445.0,7,7,4.0,Electronics,Cash on Delivery,Premium,Mumbai,1
+ORD101745,56,97969.0,7,4,2.0,Fashion,Cash on Delivery,Premium,Hyderabad,1
+ORD101746,55,12407.0,10,1,4.0,Electronics,Cash on Delivery,Regular,Bangalore,0
+ORD101747,42,50682.0,6,4,3.0,Beauty,Credit Card,Regular,Delhi,0
+ORD101748,48,60258.0,10,9,4.0,Electronics,UPI,Regular,Mumbai,1
+ORD101749,36,75491.0,12,7,3.0,Sports,UPI,Regular,Delhi,1
+ORD101750,40,93434.0,7,6,2.0,Home,Credit Card,Premium,Chennai,1
+ORD101751,59,2605.0,9,2,2.0,Sports,Debit Card,Premium,Chennai,1
+ORD101752,58,38179.0,13,9,1.0,Sports,Debit Card,New,Chennai,1
+ORD101753,31,65631.0,9,2,3.0,Beauty,Debit Card,Regular,Hyderabad,0
+ORD101754,57,22077.0,4,2,3.0,Electronics,Debit Card,Regular,Bangalore,0
+ORD101755,45,33480.0,11,0,2.0,Sports,UPI,Premium,Bangalore,0
+ORD101756,36,22801.0,6,2,5.0,Fashion,Debit Card,New,Hyderabad,0
+ORD101757,58,14277.0,11,1,4.0,Electronics,Cash on Delivery,Premium,Hyderabad,0
+ORD101758,23,23790.0,8,1,1.0,Fashion,Credit Card,Regular,Mumbai,1
+ORD101759,19,17108.0,10,1,4.0,Home,Cash on Delivery,Regular,Chennai,0
+ORD101760,25,88408.0,6,0,4.0,Electronics,Debit Card,Regular,Delhi,0
+ORD101761,57,12678.0,11,0,3.0,Beauty,UPI,Regular,Hyderabad,0
+ORD101762,50,58353.0,8,4,1.0,Sports,Debit Card,Regular,Hyderabad,1
+ORD101763,25,32812.0,10,1,1.0,Home,UPI,New,Delhi,1
+ORD101764,40,67813.0,7,4,4.0,Electronics,UPI,Regular,Bangalore,0
+ORD101765,42,7990.0,12,6,2.0,Home,UPI,New,Bangalore,1
+ORD101766,39,59555.0,8,6,3.0,Home,UPI,Premium,Bangalore,1
+ORD101767,52,70692.0,14,5,5.0,Beauty,Credit Card,New,Hyderabad,1
+ORD101768,44,2331.0,2,0,1.0,Electronics,Debit Card,Regular,Hyderabad,0
+ORD101769,33,77008.0,9,0,4.0,Fashion,Cash on Delivery,Regular,Delhi,0
+ORD101770,46,33672.0,10,4,5.0,Beauty,UPI,Regular,Bangalore,0
+ORD101771,27,37113.0,8,2,1.0,Electronics,UPI,New,Hyderabad,1
+ORD101772,30,16948.0,4,8,2.0,Home,Cash on Delivery,Premium,Mumbai,1
+ORD101773,26,868.0,9,2,3.0,Home,Cash on Delivery,Premium,Hyderabad,1
+ORD101774,29,25996.0,1,0,1.0,,Cash on Delivery,Regular,Mumbai,0
+ORD101775,28,67505.0,6,3,5.0,Sports,Credit Card,Regular,Bangalore,0
+ORD101776,43,28865.0,7,7,1.0,Home,Credit Card,Regular,Mumbai,1
+ORD101777,21,57072.0,14,7,3.0,,UPI,New,Mumbai,1
+ORD101778,30,97959.0,6,6,4.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD101779,33,36986.0,6,7,1.0,Fashion,Debit Card,New,Bangalore,1
+ORD101780,46,33459.0,11,6,4.0,Fashion,Credit Card,New,Chennai,1
+ORD101781,24,97395.0,11,6,2.0,Electronics,Debit Card,Premium,Bangalore,1
+ORD101782,43,25532.0,9,1,5.0,Beauty,Debit Card,Regular,Bangalore,0
+ORD101783,30,55146.0,4,8,4.0,Fashion,UPI,Premium,Mumbai,1
+ORD101784,34,6773.0,13,1,4.0,Home,Credit Card,Regular,Delhi,0
+ORD101785,44,51330.0,8,0,4.0,Sports,Credit Card,Premium,Mumbai,0
+ORD101786,59,46719.0,5,8,3.0,Electronics,UPI,Regular,Delhi,1
+ORD101787,42,83776.0,7,4,5.0,Fashion,Cash on Delivery,Regular,Bangalore,0
+ORD101788,48,67800.0,10,5,5.0,Electronics,Debit Card,Premium,Mumbai,1
+ORD101789,30,99471.0,11,8,3.0,Beauty,Debit Card,Premium,Bangalore,1
+ORD101790,52,86490.0,7,5,3.0,Sports,Cash on Delivery,Regular,Chennai,1
+ORD101791,56,53272.0,7,1,1.0,Beauty,UPI,New,Hyderabad,1
+ORD101792,44,47585.0,1,9,4.0,Electronics,Debit Card,New,Delhi,1
+ORD101793,44,7395.0,8,6,4.0,Sports,Credit Card,Regular,Mumbai,1
+ORD101794,59,24432.0,1,1,4.0,Electronics,Debit Card,New,Hyderabad,0
+ORD101795,33,38532.0,3,7,5.0,Fashion,Credit Card,Regular,Bangalore,0
+ORD101796,46,70748.0,4,9,4.0,Electronics,UPI,Premium,Delhi,1
+ORD101797,29,21482.0,1,8,2.0,Electronics,Cash on Delivery,New,Delhi,1
+ORD101798,29,47436.0,7,1,2.0,Home,UPI,Premium,Mumbai,0
+ORD101799,52,49877.0,6,7,1.0,Beauty,Credit Card,Premium,Delhi,1
+ORD101800,22,36995.0,8,8,2.0,Home,Cash on Delivery,Regular,Chennai,1
+ORD101801,39,88978.0,11,9,1.0,Home,Debit Card,Regular,Mumbai,1
+ORD101802,29,10216.0,12,5,3.0,Beauty,UPI,New,Delhi,1
+ORD101803,37,632.0,7,8,2.0,Beauty,Cash on Delivery,Regular,Bangalore,1
+ORD101804,46,99779.0,6,5,,Beauty,Cash on Delivery,New,Hyderabad,1
+ORD101805,37,68774.0,14,6,5.0,Sports,UPI,New,Bangalore,1
+ORD101806,51,16190.0,6,7,1.0,Home,Cash on Delivery,Premium,Mumbai,1
+ORD101807,48,75886.0,6,1,2.0,Electronics,Cash on Delivery,New,Chennai,0
+ORD101808,24,66925.0,1,5,1.0,Beauty,Debit Card,Regular,Bangalore,1
+ORD101809,20,77294.0,6,3,2.0,Sports,Cash on Delivery,Premium,Hyderabad,1
+ORD101810,47,75054.0,10,2,4.0,Fashion,Credit Card,New,Delhi,0
+ORD101811,35,43552.0,12,0,4.0,Home,Cash on Delivery,New,Mumbai,0
+ORD101812,40,71827.0,10,5,3.0,Sports,Debit Card,Regular,Hyderabad,1
+ORD101813,58,83106.0,2,3,5.0,Beauty,Credit Card,New,Chennai,0
+ORD101814,34,42331.0,6,4,3.0,Fashion,Debit Card,Regular,Delhi,0
+ORD101815,20,44101.0,5,2,3.0,Electronics,Debit Card,Regular,Bangalore,0
+ORD101816,23,87299.0,8,1,4.0,Beauty,Credit Card,New,Chennai,0
+ORD101817,56,42995.0,1,0,4.0,Home,Cash on Delivery,New,Hyderabad,0
+ORD101818,27,95546.0,14,6,1.0,Home,Cash on Delivery,Premium,Delhi,1
+ORD101819,53,27912.0,5,3,1.0,Home,Cash on Delivery,Premium,Chennai,1
+ORD101820,24,35954.0,10,0,5.0,Home,UPI,Regular,Bangalore,0
+ORD101821,47,84794.0,1,6,2.0,Sports,UPI,New,Mumbai,1
+ORD101822,41,88574.0,9,2,4.0,Beauty,Credit Card,Regular,Bangalore,0
+ORD101823,53,69327.0,9,6,3.0,Electronics,Debit Card,Regular,Delhi,1
+ORD101824,59,51928.0,7,7,1.0,Home,UPI,Regular,Mumbai,1
+ORD101825,29,5909.0,7,1,1.0,Sports,UPI,Premium,Bangalore,1
+ORD101826,28,26645.0,7,3,3.0,Fashion,UPI,Premium,Bangalore,0
+ORD101827,46,26096.0,7,4,1.0,Sports,Debit Card,Regular,Mumbai,1
+ORD101828,38,28063.0,12,2,5.0,Home,Debit Card,New,Hyderabad,0
+ORD101829,54,86001.0,11,7,5.0,Sports,Debit Card,New,Chennai,1
+ORD101830,43,14394.0,9,6,3.0,Fashion,Debit Card,Regular,Delhi,1
+ORD101831,23,81758.0,13,6,2.0,Beauty,Debit Card,New,Chennai,1
+ORD101832,36,18233.0,1,8,5.0,Fashion,Credit Card,Premium,Bangalore,0
+ORD101833,45,40209.0,7,8,1.0,Fashion,UPI,Regular,Delhi,1
+ORD101834,50,41652.0,3,5,2.0,Electronics,UPI,New,Chennai,1
+ORD101835,27,82511.0,11,0,1.0,Beauty,Debit Card,Regular,Mumbai,1
+ORD101836,30,44376.0,4,0,4.0,Fashion,Cash on Delivery,Premium,Hyderabad,0
+ORD101837,20,84933.0,9,0,5.0,Home,Credit Card,Premium,Mumbai,0
+ORD101838,53,24024.0,10,4,1.0,Electronics,UPI,New,Bangalore,1
+ORD101839,39,59376.0,9,1,5.0,Fashion,Credit Card,Regular,Bangalore,0
+ORD101840,21,91641.0,4,4,5.0,Fashion,Credit Card,New,Delhi,0
+ORD101841,54,97356.0,10,6,4.0,Electronics,UPI,New,Delhi,1
+ORD101842,50,80641.0,8,3,1.0,Beauty,UPI,New,Chennai,1
+ORD101843,38,34337.0,14,7,4.0,Electronics,UPI,Regular,Chennai,1
+ORD101844,46,35023.0,8,7,,Home,UPI,New,Mumbai,1
+ORD101845,42,11014.0,1,1,4.0,Electronics,UPI,New,Hyderabad,0
+ORD101846,27,6756.0,11,0,5.0,Fashion,Credit Card,New,Mumbai,0
+ORD101847,43,42048.0,11,8,3.0,Electronics,UPI,New,Mumbai,1
+ORD101848,47,26070.0,14,0,1.0,Sports,Debit Card,Regular,Bangalore,1
+ORD101849,38,82476.0,7,3,3.0,Sports,Credit Card,Premium,Hyderabad,0
+ORD101850,51,78525.0,10,5,4.0,Electronics,UPI,Premium,Chennai,1
+ORD101851,41,48575.0,11,6,3.0,Sports,Credit Card,Premium,Bangalore,1
+ORD101852,54,21300.0,6,1,1.0,Home,Credit Card,Premium,Chennai,0
+ORD101853,41,94348.0,13,9,3.0,Electronics,Credit Card,Premium,Delhi,1
+ORD101854,41,47779.0,6,5,3.0,Home,Credit Card,Regular,Chennai,1
+ORD101855,59,85684.0,12,3,2.0,Fashion,Debit Card,Regular,Delhi,1
+ORD101856,29,20889.0,11,9,2.0,Fashion,Credit Card,Regular,Chennai,1
+ORD101857,56,6074.0,11,3,4.0,Home,UPI,Regular,Chennai,1
+ORD101858,48,54912.0,2,8,2.0,Sports,Credit Card,Regular,Mumbai,1
+ORD101859,41,99516.0,7,8,2.0,Home,UPI,New,Mumbai,1
+ORD101860,19,36569.0,3,5,3.0,Beauty,UPI,Regular,Mumbai,0
+ORD101861,28,65794.0,13,3,4.0,Beauty,Debit Card,Premium,Delhi,1
+ORD101862,27,699279.0,9,1,2.0,Fashion,Cash on Delivery,Regular,Delhi,1
+ORD101863,24,21890.0,2,1,4.0,Fashion,UPI,Regular,Mumbai,0
+ORD101864,58,74827.0,2,7,4.0,Fashion,UPI,Premium,Delhi,0
+ORD101865,51,8333.0,7,5,2.0,Electronics,Cash on Delivery,Regular,Hyderabad,1
+ORD101866,22,16254.0,1,1,1.0,Electronics,UPI,New,Delhi,0
+ORD101867,36,37237.0,5,3,5.0,Beauty,UPI,Premium,Bangalore,0
+ORD101868,40,2696.0,8,3,4.0,Electronics,Debit Card,New,Mumbai,0
+ORD101869,39,85895.0,2,0,1.0,Fashion,Cash on Delivery,New,Bangalore,0
+ORD101870,41,85783.0,5,7,4.0,Beauty,Cash on Delivery,Regular,Hyderabad,1
+ORD101871,48,58154.0,13,7,5.0,Sports,Debit Card,Premium,Delhi,1
+ORD101872,41,29877.0,6,0,1.0,Home,Cash on Delivery,Premium,Hyderabad,0
+ORD101873,28,99750.0,3,4,1.0,Beauty,Cash on Delivery,Premium,Mumbai,1
+ORD101874,56,55783.0,10,9,4.0,Fashion,Cash on Delivery,New,Chennai,1
+ORD101875,59,86353.0,10,9,3.0,Home,Cash on Delivery,Regular,Bangalore,1
+ORD101876,18,555.0,13,9,2.0,Fashion,UPI,New,Chennai,1
+ORD101877,19,81220.0,14,7,4.0,Electronics,Cash on Delivery,Premium,Chennai,1
+ORD101878,44,12156.0,6,1,1.0,Fashion,Cash on Delivery,Premium,Mumbai,1
+ORD101879,18,699279.0,4,4,3.0,Fashion,Debit Card,Premium,Hyderabad,0
+ORD101880,53,,13,3,1.0,Electronics,UPI,Premium,Hyderabad,1
+ORD101881,58,35315.0,6,1,4.0,Beauty,Cash on Delivery,New,Mumbai,0
+ORD101882,59,17182.0,7,8,3.0,Beauty,Cash on Delivery,Premium,Mumbai,1
+ORD101883,24,19395.0,5,0,3.0,Sports,Debit Card,Premium,Hyderabad,0
+ORD101884,54,986.0,3,5,5.0,Electronics,UPI,Regular,Chennai,0
+ORD101885,34,95437.0,6,7,5.0,Beauty,Cash on Delivery,Regular,Delhi,1
+ORD101886,50,28725.0,14,3,4.0,Beauty,Cash on Delivery,New,Chennai,1
+ORD101887,35,60396.0,10,7,4.0,Fashion,Debit Card,Premium,Bangalore,1
+ORD101888,54,77900.0,13,1,5.0,Beauty,Cash on Delivery,New,Mumbai,0
+ORD101889,41,7349.0,1,9,3.0,Beauty,Cash on Delivery,New,Hyderabad,1
+ORD101890,26,57366.0,9,6,5.0,Beauty,Cash on Delivery,Regular,Hyderabad,1
+ORD101891,27,15901.0,5,8,4.0,Fashion,UPI,Regular,Mumbai,1
+ORD101892,32,71992.0,9,9,1.0,Beauty,Cash on Delivery,Premium,Mumbai,1
+ORD101893,40,5690.0,8,6,4.0,Home,Debit Card,New,Chennai,1
+ORD101894,42,52686.0,9,5,2.0,Sports,UPI,New,Mumbai,1
+ORD101895,26,51759.0,13,0,1.0,Home,UPI,Premium,Mumbai,1
+ORD101896,23,74008.0,2,8,5.0,Beauty,UPI,Regular,Mumbai,0
+ORD101897,31,19095.0,4,4,2.0,Home,Cash on Delivery,Regular,Chennai,1
+ORD101898,53,73763.0,5,3,4.0,Fashion,Credit Card,New,Mumbai,0
+ORD101899,33,66854.0,8,5,2.0,Sports,UPI,Premium,Chennai,1
+ORD101900,54,71696.0,2,9,,Home,UPI,Regular,Bangalore,1
+ORD101901,56,18885.0,1,6,5.0,Electronics,Debit Card,New,Delhi,0
+ORD101902,18,26882.0,4,3,2.0,Beauty,Cash on Delivery,Regular,Chennai,0
+ORD101903,40,95253.0,12,0,2.0,Beauty,UPI,Regular,Delhi,1
+ORD101904,56,92976.0,10,5,4.0,,Cash on Delivery,Regular,Hyderabad,1
+ORD101905,18,62272.0,1,4,1.0,Electronics,Cash on Delivery,New,Bangalore,1
+ORD101906,45,11474.0,7,0,1.0,Home,Cash on Delivery,Premium,Mumbai,0
+ORD101907,51,3456.0,14,9,3.0,Fashion,Debit Card,Regular,Delhi,1
+ORD101908,48,84036.0,9,9,5.0,Fashion,Cash on Delivery,Premium,Chennai,1
+ORD101909,30,6958.0,2,4,1.0,Sports,Credit Card,Regular,Mumbai,1
+ORD101910,28,52743.0,9,1,5.0,Electronics,Debit Card,Premium,Delhi,0
+ORD101911,18,3703.0,4,5,2.0,Fashion,UPI,Premium,Hyderabad,1
+ORD101912,42,77686.0,9,5,4.0,Electronics,Debit Card,Regular,Chennai,1
+ORD101913,27,1301.0,11,9,2.0,Sports,Cash on Delivery,Regular,Bangalore,1
+ORD101914,19,82769.0,2,9,4.0,Home,UPI,Premium,Mumbai,1
+ORD101915,18,10472.0,8,1,5.0,Sports,Debit Card,Regular,Hyderabad,0
+ORD101916,32,88616.0,12,7,2.0,Home,Credit Card,Regular,Delhi,1
+ORD101917,22,20069.0,3,5,3.0,Home,Cash on Delivery,Premium,Hyderabad,0
+ORD101918,28,7272.0,11,3,4.0,Fashion,UPI,Premium,Hyderabad,1
+ORD101919,38,54597.0,9,1,2.0,Fashion,Cash on Delivery,New,Delhi,1
+ORD101920,51,87693.0,14,8,3.0,Home,Cash on Delivery,Premium,Chennai,1
+ORD101921,48,89322.0,4,5,4.0,Sports,Credit Card,Regular,Delhi,0
+ORD101922,43,14434.0,7,0,3.0,Fashion,Credit Card,New,Mumbai,0
+ORD101923,23,47410.0,13,8,3.0,Beauty,Cash on Delivery,Regular,Chennai,1
+ORD101924,24,31885.0,8,5,1.0,Fashion,Cash on Delivery,Regular,Mumbai,1
+ORD101925,36,88722.0,10,9,1.0,Fashion,Debit Card,Premium,Hyderabad,1
+ORD101926,53,84490.0,13,8,2.0,Fashion,Cash on Delivery,New,Chennai,1
+ORD101927,19,35459.0,9,2,1.0,Fashion,Credit Card,New,Bangalore,1
+ORD101928,30,85266.0,5,5,2.0,Home,Cash on Delivery,Regular,Hyderabad,1
+ORD101929,25,5422.0,9,1,2.0,Beauty,Cash on Delivery,Premium,Chennai,1
+ORD101930,45,23448.0,9,0,1.0,Fashion,Credit Card,Regular,Bangalore,1
+ORD101931,27,2986.0,4,2,2.0,Electronics,Debit Card,Regular,Hyderabad,0
+ORD101932,28,68353.0,6,0,3.0,Fashion,UPI,Premium,Delhi,0
+ORD101933,19,48880.0,9,2,5.0,Electronics,UPI,New,Mumbai,0
+ORD101934,35,96994.0,14,1,1.0,Sports,Debit Card,New,Delhi,1
+ORD101935,48,26925.0,8,9,2.0,Home,UPI,Regular,Bangalore,1
+ORD101936,35,92049.0,9,2,4.0,Fashion,UPI,Premium,Hyderabad,0
+ORD101937,25,502.0,3,5,1.0,Electronics,Debit Card,Regular,Chennai,1
+ORD101938,53,15748.0,14,2,1.0,Fashion,UPI,Regular,Mumbai,1
+ORD101939,47,82367.0,5,3,3.0,Sports,Cash on Delivery,Premium,Bangalore,0
+ORD101940,28,7291.0,4,7,4.0,Beauty,Credit Card,New,Chennai,1
+ORD101941,44,43720.0,4,3,4.0,Fashion,Credit Card,Regular,Delhi,0
+ORD101942,21,89214.0,13,8,4.0,Beauty,Debit Card,Premium,Chennai,1
+ORD101943,29,98620.0,13,9,2.0,Beauty,Debit Card,Premium,Chennai,1
+ORD101944,30,81871.0,10,2,3.0,Home,Cash on Delivery,Regular,Bangalore,1
+ORD101945,30,11840.0,10,4,2.0,Home,Credit Card,Regular,Delhi,1
+ORD101946,27,75633.0,6,9,1.0,Home,Debit Card,New,Hyderabad,1
+ORD101947,50,17776.0,4,0,1.0,Electronics,UPI,Premium,Bangalore,0
+ORD101948,41,51121.0,13,1,1.0,Home,Cash on Delivery,Regular,Mumbai,1
+ORD101949,49,41502.0,8,3,3.0,Electronics,Credit Card,Regular,Delhi,0
+ORD101950,29,97795.0,14,4,1.0,Electronics,Cash on Delivery,Regular,Mumbai,1
+ORD101951,50,18705.0,11,1,4.0,Electronics,Credit Card,Regular,Bangalore,0
+ORD101952,40,36145.0,7,3,2.0,Fashion,Cash on Delivery,Premium,Mumbai,1
+ORD101953,55,83361.0,8,8,4.0,Beauty,UPI,Regular,Chennai,1
+ORD101954,28,88720.0,14,8,4.0,Beauty,Cash on Delivery,Premium,Delhi,1
+ORD101955,41,47430.0,2,5,4.0,Home,Cash on Delivery,New,Bangalore,0
+ORD101956,50,33083.0,9,8,2.0,Home,UPI,Regular,Delhi,1
+ORD101957,40,20010.0,13,8,5.0,Sports,Debit Card,Regular,Chennai,1
+ORD101958,32,27828.0,6,2,4.0,Electronics,Credit Card,Premium,Delhi,0
+ORD101959,35,48098.0,9,1,3.0,Fashion,UPI,Regular,Bangalore,0
+ORD101960,27,37412.0,7,0,3.0,Home,Debit Card,Premium,Chennai,0
+ORD101961,44,34916.0,5,6,,Electronics,Credit Card,New,Hyderabad,1
+ORD101962,46,37634.0,3,4,4.0,Fashion,Cash on Delivery,Regular,Delhi,0
+ORD101963,47,45063.0,5,2,1.0,Beauty,Credit Card,Regular,Bangalore,0
+ORD101964,58,46746.0,10,1,3.0,Sports,Debit Card,Regular,Bangalore,0
+ORD101965,38,77699.0,9,2,4.0,Electronics,Cash on Delivery,Regular,Bangalore,0
+ORD101966,34,4121.0,4,0,2.0,Beauty,Cash on Delivery,Premium,Bangalore,0
+ORD101967,26,66688.0,8,6,5.0,Electronics,UPI,Premium,Hyderabad,1
+ORD101968,32,16159.0,14,3,1.0,Fashion,UPI,Regular,Bangalore,1
+ORD101969,41,28567.0,3,8,2.0,Home,Credit Card,New,Delhi,1
+ORD101970,53,28124.0,13,1,4.0,Sports,Cash on Delivery,Premium,Mumbai,0
+ORD101971,54,79922.0,4,8,4.0,Fashion,UPI,Regular,Bangalore,1
+ORD101972,38,6412.0,11,8,2.0,Sports,UPI,New,Hyderabad,1
+ORD101973,42,73558.0,4,0,1.0,Beauty,Cash on Delivery,Premium,Delhi,0
+ORD101974,34,94988.0,11,7,5.0,Electronics,Credit Card,Premium,Bangalore,1
+ORD101975,22,25692.0,3,2,1.0,Fashion,Debit Card,Regular,Delhi,0
+ORD101976,47,88707.0,1,1,1.0,Beauty,Credit Card,Regular,Bangalore,0
+ORD101977,43,16204.0,10,7,3.0,Sports,Credit Card,Regular,Bangalore,1
+ORD101978,25,32661.0,2,9,3.0,Beauty,Credit Card,Regular,Bangalore,1
+ORD101979,40,53051.0,12,6,4.0,Electronics,Debit Card,Regular,Bangalore,1
+ORD101980,31,66408.0,10,0,4.0,Sports,Cash on Delivery,New,Mumbai,0
+ORD101981,49,33124.0,10,0,4.0,Sports,Cash on Delivery,New,Chennai,0
+ORD101982,32,50432.0,12,1,4.0,Beauty,Credit Card,Regular,Delhi,0
+ORD101983,36,74891.0,13,7,,Fashion,Cash on Delivery,Premium,Delhi,1
+ORD101984,39,9730.0,10,8,3.0,Sports,Debit Card,New,Chennai,1
+ORD101985,26,26151.0,12,0,1.0,Sports,UPI,New,Mumbai,1
+ORD101986,48,14239.0,10,4,5.0,Fashion,Cash on Delivery,Regular,Hyderabad,0
+ORD101987,35,38106.0,1,5,4.0,Sports,UPI,New,Mumbai,0
+ORD101988,31,40351.0,7,9,4.0,Sports,Cash on Delivery,Regular,Delhi,1
+ORD101989,32,22034.0,7,9,1.0,Home,Credit Card,Premium,Chennai,1
+ORD101990,27,8189.0,13,6,4.0,Sports,Credit Card,Regular,Bangalore,1
+ORD101991,47,699279.0,7,2,2.0,Sports,Cash on Delivery,Regular,Delhi,1
+ORD101992,32,22728.0,4,4,4.0,Fashion,UPI,Regular,Hyderabad,0
+ORD101993,21,84194.0,9,6,2.0,Beauty,Credit Card,Regular,Chennai,1
+ORD101994,45,82186.0,13,7,4.0,Home,UPI,New,Delhi,1
+ORD101995,39,31115.0,3,9,2.0,Home,Debit Card,Regular,Mumbai,1
+ORD101996,47,25353.0,1,8,2.0,Home,Debit Card,Premium,Mumbai,1
+ORD101997,35,58682.0,2,9,2.0,Beauty,Credit Card,Regular,Delhi,1
+ORD101998,26,,7,8,5.0,Fashion,Cash on Delivery,New,Bangalore,1
+ORD101999,20,60694.0,1,4,4.0,Fashion,UPI,New,Bangalore,0
+ORD102000,51,83606.0,8,5,5.0,Electronics,Cash on Delivery,Regular,Bangalore,0
+ORD102001,38,66388.0,4,2,1.0,Beauty,Cash on Delivery,New,Delhi,1
+ORD102002,45,44488.0,6,1,3.0,Electronics,Cash on Delivery,Regular,Hyderabad,0
+ORD102003,32,7033.0,4,8,5.0,Beauty,Cash on Delivery,Regular,Chennai,1
+ORD102004,37,1365.0,6,9,2.0,Fashion,UPI,Regular,Chennai,1
+ORD102005,45,11754.0,3,8,3.0,Fashion,Debit Card,New,Bangalore,1
+ORD102006,23,34881.0,12,9,5.0,Sports,Debit Card,Premium,Hyderabad,1
+ORD102007,30,43806.0,12,2,3.0,Fashion,UPI,Premium,Hyderabad,1
+ORD102008,38,2254.0,10,2,2.0,Fashion,Cash on Delivery,New,Bangalore,1
+ORD102009,45,61153.0,8,1,4.0,Beauty,UPI,Regular,Chennai,0
+ORD102010,53,31197.0,13,0,4.0,Home,UPI,Regular,Mumbai,0
+ORD102011,46,52029.0,9,2,2.0,Sports,UPI,Regular,Bangalore,1
+ORD102012,42,56228.0,6,9,3.0,Electronics,UPI,Regular,Delhi,1
+ORD102013,44,68684.0,2,5,1.0,Beauty,Debit Card,Premium,Chennai,1
+ORD102014,56,81270.0,7,3,1.0,Home,UPI,Premium,Hyderabad,1
+ORD102015,54,57638.0,8,5,2.0,Beauty,Debit Card,Premium,Hyderabad,1
+ORD102016,36,61858.0,10,6,2.0,Fashion,Credit Card,New,Mumbai,1
+ORD102017,55,59556.0,9,2,5.0,Home,UPI,Premium,Chennai,0
+ORD102018,48,87738.0,3,3,2.0,Sports,Cash on Delivery,New,Delhi,0
+ORD102019,56,77771.0,2,8,5.0,Home,Credit Card,New,Delhi,0
+ORD102020,57,43513.0,6,8,4.0,Electronics,UPI,New,Bangalore,1
+ORD102021,44,53950.0,5,8,1.0,Beauty,Cash on Delivery,Regular,Bangalore,1
+ORD102022,24,99790.0,9,9,4.0,Electronics,Debit Card,Regular,Delhi,1
+ORD102023,41,46800.0,9,9,,Home,Credit Card,Regular,Chennai,1
+ORD102024,35,10947.0,1,6,4.0,Home,Credit Card,Regular,Delhi,0
+ORD102025,27,20142.0,12,8,3.0,Beauty,Cash on Delivery,Regular,Hyderabad,1
+ORD102026,31,25517.0,9,1,4.0,Sports,Cash on Delivery,New,Delhi,0
+ORD102027,41,81560.0,6,6,2.0,Home,Credit Card,Regular,Delhi,1
+ORD102028,18,22891.0,4,8,1.0,Electronics,UPI,Premium,Mumbai,1
+ORD102029,39,21374.0,10,0,4.0,Beauty,Credit Card,Premium,Bangalore,0
+ORD102030,43,25315.0,5,8,3.0,Beauty,UPI,Regular,Delhi,1
+ORD102031,28,62009.0,1,5,5.0,Beauty,UPI,Regular,Mumbai,0
+ORD102032,39,58411.0,6,4,3.0,Fashion,Credit Card,Premium,Mumbai,0
+ORD102033,31,91251.0,10,4,2.0,Fashion,Cash on Delivery,Regular,Hyderabad,1
+ORD102034,53,37589.0,7,9,2.0,Electronics,UPI,New,Hyderabad,1
+ORD102035,34,15761.0,5,0,1.0,Electronics,Cash on Delivery,Regular,Chennai,0
+ORD102036,50,537.0,9,9,5.0,Beauty,Debit Card,Regular,Mumbai,1
+ORD102037,45,92052.0,5,8,1.0,Sports,UPI,Premium,Chennai,1
+ORD102038,25,932.0,8,0,4.0,Electronics,Cash on Delivery,New,Bangalore,0
+ORD102039,22,51403.0,6,8,1.0,Beauty,UPI,New,Delhi,1
+ORD102040,42,66292.0,10,9,3.0,Home,Debit Card,Premium,Delhi,1
+ORD102041,36,45871.0,11,1,2.0,Beauty,Debit Card,Regular,Bangalore,1
+ORD102042,26,35243.0,1,3,5.0,Fashion,Credit Card,New,Hyderabad,0
+ORD102043,34,75812.0,12,3,2.0,Home,UPI,Regular,Hyderabad,1
+ORD102044,20,14366.0,9,1,4.0,Electronics,UPI,Regular,Chennai,0
+ORD102045,34,33313.0,10,0,3.0,Electronics,Credit Card,Premium,Delhi,0
+ORD102046,37,75019.0,13,5,2.0,Beauty,Cash on Delivery,Premium,Hyderabad,1
+ORD102047,18,11851.0,9,5,4.0,Beauty,Debit Card,Premium,Hyderabad,1
+ORD102048,34,96207.0,13,2,3.0,Home,Cash on Delivery,Regular,Chennai,1
+ORD102049,39,2608.0,10,8,,Fashion,Credit Card,New,Bangalore,1
+ORD102050,52,86320.0,14,4,2.0,Electronics,UPI,Premium,Bangalore,1
+ORD102051,33,29818.0,4,3,1.0,Electronics,Credit Card,Regular,Bangalore,1
+ORD102052,48,65726.0,4,3,1.0,Fashion,Cash on Delivery,Premium,Hyderabad,1
+ORD102053,28,56721.0,3,8,5.0,Fashion,UPI,Regular,Delhi,0
+ORD102054,44,26648.0,14,0,3.0,Fashion,Cash on Delivery,Regular,Chennai,1
+ORD102055,21,1859.0,5,9,1.0,Electronics,Credit Card,New,Delhi,1
+ORD102056,53,70278.0,10,0,5.0,Beauty,Cash on Delivery,New,Delhi,0
+ORD102057,43,31282.0,8,0,4.0,Sports,Credit Card,New,Mumbai,0
+ORD102058,53,44958.0,5,1,1.0,Sports,Cash on Delivery,New,Mumbai,0
+ORD102059,57,34457.0,5,8,5.0,Electronics,UPI,Premium,Delhi,1
+ORD102060,28,91824.0,11,1,2.0,Beauty,Cash on Delivery,Premium,Hyderabad,1
+ORD102061,25,38814.0,14,9,5.0,Sports,Debit Card,New,Delhi,1
+ORD102062,34,16331.0,3,3,5.0,Beauty,Cash on Delivery,Premium,Hyderabad,0
+ORD102063,36,83324.0,3,5,2.0,Sports,Cash on Delivery,New,Chennai,1
+ORD102064,40,35557.0,11,0,3.0,Sports,UPI,Regular,Hyderabad,0
+ORD102065,50,1265.0,7,4,3.0,Home,UPI,Regular,Delhi,1
+ORD102066,33,98566.0,1,9,3.0,Beauty,UPI,Regular,Hyderabad,1
+ORD102067,26,79909.0,1,6,5.0,,Cash on Delivery,Premium,Delhi,0
+ORD102068,53,73262.0,4,2,2.0,Electronics,Credit Card,Regular,Bangalore,0
+ORD102069,41,57388.0,1,6,2.0,Beauty,Debit Card,Regular,Bangalore,1
+ORD102070,21,,13,0,5.0,Sports,Credit Card,Premium,Mumbai,0
+ORD102071,36,57895.0,2,3,3.0,Sports,Cash on Delivery,New,Mumbai,0
+ORD102072,49,34045.0,8,4,4.0,Beauty,Cash on Delivery,Premium,Mumbai,1
+ORD102073,45,14760.0,4,2,5.0,Beauty,Credit Card,Premium,Bangalore,0
+ORD102074,21,78914.0,1,2,2.0,Home,UPI,Premium,Delhi,0
+ORD102075,59,55979.0,7,1,1.0,Fashion,Credit Card,New,Bangalore,1
+ORD102076,52,84653.0,11,0,3.0,Sports,Cash on Delivery,New,Delhi,0
+ORD102077,20,57624.0,3,8,,Beauty,Debit Card,New,Bangalore,1
+ORD102078,53,75216.0,10,9,4.0,Sports,UPI,New,Mumbai,1
+ORD102079,31,39397.0,11,0,3.0,Home,Debit Card,Premium,Bangalore,0
+ORD102080,40,91464.0,9,6,4.0,Fashion,UPI,New,Mumbai,1
+ORD102081,38,73432.0,11,4,2.0,Beauty,UPI,Premium,Bangalore,1
+ORD102082,58,5741.0,3,5,3.0,Electronics,Credit Card,Regular,Mumbai,0
+ORD102083,58,14818.0,7,2,1.0,Home,Debit Card,New,Hyderabad,1
+ORD102084,36,86177.0,1,5,1.0,,Credit Card,Premium,Hyderabad,1
+ORD102085,31,80415.0,1,5,1.0,Sports,UPI,Premium,Chennai,1
+ORD102086,29,4650.0,3,5,1.0,Beauty,Cash on Delivery,New,Chennai,1
+ORD102087,50,11536.0,5,5,,Sports,UPI,Premium,Chennai,1
+ORD102088,50,23744.0,4,9,2.0,Sports,UPI,New,Chennai,1
+ORD102089,58,2002.0,13,2,3.0,Fashion,Debit Card,New,Mumbai,1
+ORD102090,51,61348.0,12,2,5.0,Beauty,Cash on Delivery,Premium,Chennai,0
+ORD102091,49,92544.0,1,1,1.0,Fashion,Debit Card,Regular,Bangalore,0
+ORD102092,22,24171.0,3,6,5.0,Electronics,Credit Card,Regular,Delhi,0
+ORD102093,40,41391.0,2,7,5.0,Electronics,Credit Card,Regular,Mumbai,0
+ORD102094,24,81492.0,5,0,4.0,Home,Credit Card,New,Mumbai,0
+ORD102095,25,59330.0,4,3,2.0,Home,Cash on Delivery,Regular,Bangalore,0
+ORD102096,22,95928.0,6,1,2.0,Fashion,Cash on Delivery,New,Bangalore,0
+ORD102097,43,11636.0,4,6,2.0,Beauty,Cash on Delivery,Regular,Delhi,1
+ORD102098,50,88763.0,4,4,5.0,Sports,Debit Card,New,Delhi,0
+ORD102099,43,5706.0,2,3,2.0,Fashion,UPI,Premium,Hyderabad,0
+ORD102100,29,38196.0,10,8,3.0,Electronics,UPI,Regular,Mumbai,1
+ORD102101,43,47228.0,10,2,2.0,Beauty,Credit Card,Regular,Chennai,1
+ORD102102,31,50544.0,3,1,1.0,Beauty,UPI,Premium,Bangalore,0
+ORD102103,41,77756.0,13,1,5.0,Sports,UPI,Premium,Hyderabad,0
+ORD102104,36,15650.0,6,0,5.0,Home,Cash on Delivery,Regular,Hyderabad,0
+ORD102105,56,27507.0,4,7,2.0,Home,Debit Card,Regular,Chennai,1
+ORD102106,54,22524.0,9,8,1.0,Home,Credit Card,Premium,Delhi,1
+ORD102107,19,18657.0,4,9,1.0,Beauty,Credit Card,Premium,Hyderabad,1
+ORD102108,59,2256.0,6,0,4.0,Sports,Cash on Delivery,Premium,Mumbai,0
+ORD102109,42,97241.0,4,3,3.0,Beauty,Credit Card,Regular,Chennai,0
+ORD102110,40,88389.0,10,7,4.0,Electronics,Debit Card,Regular,Bangalore,1
+ORD102111,25,17618.0,5,8,1.0,Sports,Debit Card,New,Chennai,1
+ORD102112,44,53751.0,6,9,3.0,Sports,Debit Card,Premium,Mumbai,1
+ORD102113,54,61907.0,7,0,5.0,Fashion,UPI,New,Hyderabad,0
+ORD102114,29,52734.0,8,7,1.0,Sports,Debit Card,New,Mumbai,1
+ORD102115,55,35657.0,2,2,4.0,Beauty,UPI,Premium,Chennai,0
+ORD102116,37,9899.0,14,0,2.0,Home,Debit Card,Premium,Hyderabad,1
+ORD102117,33,,14,3,3.0,Home,UPI,New,Chennai,1
+ORD102118,45,7280.0,11,3,1.0,Beauty,Debit Card,Premium,Chennai,1
+ORD102119,36,38665.0,9,8,1.0,Beauty,Debit Card,New,Hyderabad,1
+ORD102120,44,37636.0,12,8,5.0,Sports,Credit Card,Regular,Mumbai,1
+ORD102121,25,25283.0,2,0,1.0,Home,Credit Card,Premium,Delhi,0
+ORD102122,29,8618.0,5,1,1.0,Sports,Credit Card,New,Mumbai,0
+ORD102123,35,42292.0,3,5,5.0,Sports,Credit Card,Regular,Delhi,0
+ORD102124,25,886.0,10,8,2.0,Electronics,Credit Card,Premium,Delhi,1
+ORD102125,22,43178.0,8,2,2.0,Beauty,UPI,New,Chennai,1
+ORD102126,48,55316.0,2,8,1.0,Beauty,Credit Card,Regular,Bangalore,1
+ORD102127,24,12609.0,11,4,1.0,Beauty,UPI,Regular,Hyderabad,1
+ORD102128,49,3097.0,6,3,5.0,Beauty,Cash on Delivery,Regular,Hyderabad,0
+ORD102129,33,17540.0,5,8,5.0,Beauty,Cash on Delivery,Regular,Delhi,1
+ORD102130,25,26872.0,12,8,3.0,Beauty,Credit Card,New,Hyderabad,1
+ORD102131,52,29548.0,6,1,4.0,Fashion,Cash on Delivery,Premium,Delhi,0
+ORD102132,26,21468.0,2,1,5.0,Fashion,UPI,Premium,Bangalore,0
+ORD102133,56,,4,0,2.0,Beauty,Cash on Delivery,New,Bangalore,0
+ORD102134,20,57016.0,14,2,2.0,Sports,Debit Card,New,Hyderabad,1
+ORD102135,40,84009.0,10,8,5.0,Beauty,UPI,New,Mumbai,1
+ORD102136,33,22613.0,7,4,5.0,Sports,Debit Card,New,Hyderabad,0
+ORD102137,39,61642.0,6,3,1.0,Fashion,UPI,Regular,Mumbai,1
+ORD102138,26,68007.0,2,7,2.0,Home,Debit Card,Regular,Delhi,1
+ORD102139,39,28318.0,13,7,3.0,Electronics,Credit Card,New,Hyderabad,1
+ORD102140,18,73668.0,12,3,5.0,Beauty,UPI,Regular,Mumbai,0
+ORD102141,30,19026.0,13,8,3.0,Fashion,Credit Card,Premium,Delhi,1
+ORD102142,24,19659.0,5,4,1.0,Electronics,UPI,Premium,Mumbai,1
+ORD102143,47,77561.0,9,2,5.0,Electronics,UPI,Regular,Delhi,0
+ORD102144,19,11032.0,13,7,3.0,Sports,Debit Card,Premium,Delhi,1
+ORD102145,35,91499.0,4,9,2.0,Home,Cash on Delivery,Regular,Hyderabad,1
+ORD102146,48,69184.0,1,6,3.0,Fashion,Credit Card,Premium,Delhi,0
+ORD102147,20,52439.0,3,7,3.0,Beauty,Cash on Delivery,New,Mumbai,1
+ORD102148,46,25617.0,7,1,3.0,Electronics,Cash on Delivery,Regular,Bangalore,0
+ORD102149,55,51124.0,13,9,4.0,Beauty,Debit Card,Premium,Chennai,1
+ORD102150,48,38534.0,3,3,3.0,Beauty,Debit Card,Premium,Chennai,0
+ORD102151,32,55764.0,9,2,5.0,Fashion,UPI,Premium,Mumbai,0
+ORD102152,43,42179.0,4,0,4.0,Sports,UPI,Premium,Hyderabad,0
+ORD102153,30,42132.0,5,4,3.0,Electronics,Credit Card,Premium,Hyderabad,0
+ORD102154,40,17665.0,8,3,4.0,Sports,UPI,Premium,Hyderabad,0
+ORD102155,36,54434.0,6,3,3.0,Fashion,Cash on Delivery,Premium,Chennai,0
+ORD102156,48,19964.0,5,6,4.0,Electronics,Credit Card,New,Mumbai,0
+ORD102157,27,83043.0,5,6,3.0,Fashion,Credit Card,Premium,Hyderabad,1
+ORD102158,23,24269.0,2,2,2.0,Beauty,UPI,Premium,Hyderabad,0
+ORD102159,36,46836.0,8,5,5.0,Home,Cash on Delivery,Premium,Chennai,0
+ORD102160,19,699279.0,6,6,3.0,Beauty,UPI,Regular,Delhi,1
+ORD102161,34,47014.0,11,7,4.0,Fashion,Cash on Delivery,New,Hyderabad,1
+ORD102162,28,1660.0,10,1,5.0,Home,Cash on Delivery,Regular,Chennai,0
+ORD102163,38,14382.0,3,7,4.0,Electronics,UPI,Premium,Bangalore,0
+ORD102164,54,67115.0,10,7,3.0,Home,Credit Card,New,Mumbai,1
+ORD102165,49,,9,1,1.0,Electronics,Credit Card,Regular,Delhi,1
+ORD102166,19,9501.0,1,3,1.0,Fashion,UPI,Premium,Mumbai,0
+ORD102167,29,31868.0,4,8,4.0,,UPI,Premium,Chennai,1
+ORD102168,55,59284.0,10,5,1.0,Home,Cash on Delivery,New,Mumbai,1
+ORD102169,35,22073.0,2,3,5.0,Fashion,Cash on Delivery,Regular,Mumbai,0
+ORD102170,24,,2,5,3.0,Beauty,UPI,New,Bangalore,0
+ORD102171,30,21066.0,14,5,5.0,Fashion,Credit Card,Regular,Hyderabad,1
+ORD102172,39,50484.0,13,4,2.0,Sports,Cash on Delivery,New,Mumbai,1
+ORD102173,52,69610.0,10,2,5.0,Electronics,Debit Card,Regular,Hyderabad,0
+ORD102174,24,89238.0,13,9,2.0,Beauty,UPI,Regular,Chennai,1
+ORD102175,23,8507.0,4,8,4.0,Beauty,Credit Card,New,Mumbai,1
+ORD102176,57,98298.0,14,6,3.0,Sports,UPI,New,Hyderabad,1
+ORD102177,39,32496.0,5,0,3.0,Fashion,Debit Card,Premium,Delhi,0
+ORD102178,36,91055.0,1,3,2.0,Beauty,UPI,Premium,Hyderabad,0
+ORD102179,20,94542.0,4,8,3.0,Fashion,Credit Card,Regular,Hyderabad,1
+ORD102180,45,79801.0,7,8,4.0,Fashion,Credit Card,Premium,Delhi,1
+ORD102181,40,65777.0,1,7,5.0,Sports,Cash on Delivery,New,Chennai,0
+ORD102182,58,36061.0,13,4,5.0,Beauty,Debit Card,Premium,Bangalore,1
+ORD102183,48,35151.0,12,1,4.0,Electronics,UPI,Regular,Mumbai,0
+ORD102184,44,21846.0,10,8,1.0,Sports,Debit Card,Premium,Delhi,1
+ORD102185,35,86740.0,9,7,5.0,Home,Credit Card,Premium,Hyderabad,1
+ORD102186,19,69460.0,7,1,1.0,Home,UPI,New,Hyderabad,1
+ORD102187,51,75930.0,7,9,5.0,Sports,UPI,Regular,Chennai,1
+ORD102188,52,43345.0,12,2,3.0,,UPI,New,Hyderabad,1
+ORD102189,21,12195.0,4,1,4.0,Home,Cash on Delivery,New,Hyderabad,0
+ORD102190,55,95410.0,1,2,5.0,Sports,Debit Card,Premium,Mumbai,0
+ORD102191,39,76595.0,1,8,3.0,Home,Cash on Delivery,Regular,Bangalore,1
+ORD102192,30,45206.0,11,1,5.0,Home,Debit Card,New,Delhi,0
+ORD102193,33,99194.0,13,3,1.0,Sports,Debit Card,New,Bangalore,1
+ORD102194,47,31517.0,9,6,4.0,Electronics,Cash on Delivery,New,Chennai,1
+ORD102195,57,8134.0,11,4,2.0,Fashion,Cash on Delivery,Premium,Delhi,1
+ORD102196,59,1891.0,7,7,1.0,Beauty,UPI,Premium,Chennai,1
+ORD102197,48,46147.0,10,7,4.0,Sports,UPI,Premium,Delhi,1
+ORD102198,23,66767.0,12,9,2.0,Electronics,Debit Card,Regular,Hyderabad,1
+ORD102199,35,25911.0,9,6,2.0,Home,Cash on Delivery,New,Chennai,1
+ORD102200,25,52190.0,7,8,3.0,Electronics,Cash on Delivery,Regular,Bangalore,1
+ORD102201,34,79298.0,14,1,4.0,Beauty,UPI,New,Chennai,0
+ORD102202,39,24055.0,9,3,2.0,Home,Debit Card,New,Chennai,1
+ORD102203,28,47053.0,1,7,4.0,Sports,Debit Card,Premium,Bangalore,0
+ORD102204,52,68626.0,13,5,3.0,Fashion,Cash on Delivery,Regular,Chennai,1
+ORD102205,33,9922.0,11,1,5.0,Home,Cash on Delivery,Premium,Hyderabad,0
+ORD102206,58,29930.0,3,3,5.0,Fashion,UPI,New,Delhi,0
+ORD102207,52,55055.0,7,5,1.0,Electronics,Debit Card,Premium,Hyderabad,1
+ORD102208,29,22914.0,5,3,3.0,Beauty,Credit Card,Premium,Bangalore,0
+ORD102209,59,74534.0,3,6,5.0,Sports,Credit Card,New,Hyderabad,0
+ORD102210,18,84304.0,8,8,4.0,Fashion,UPI,New,Mumbai,1
+ORD102211,33,699279.0,8,5,3.0,Sports,Credit Card,Premium,Mumbai,1
+ORD102212,20,59636.0,7,0,1.0,Fashion,UPI,Premium,Hyderabad,0
+ORD102213,49,45968.0,10,6,5.0,Sports,Debit Card,Premium,Hyderabad,1
+ORD102214,46,47335.0,6,0,4.0,Beauty,UPI,Regular,Chennai,0
+ORD102215,48,62355.0,6,3,3.0,Home,Cash on Delivery,Regular,Mumbai,0
+ORD102216,34,68119.0,3,0,2.0,Electronics,Cash on Delivery,Regular,Mumbai,0
+ORD102217,44,17640.0,8,0,4.0,Sports,UPI,Premium,Bangalore,0
+ORD102218,31,15191.0,5,6,5.0,Electronics,Debit Card,Regular,Hyderabad,0
+ORD102219,32,33940.0,7,2,5.0,Beauty,Debit Card,New,Delhi,0
+ORD102220,46,99248.0,6,7,2.0,Fashion,Debit Card,New,Hyderabad,1
+ORD102221,58,4508.0,1,0,1.0,Electronics,Credit Card,Premium,Delhi,0
+ORD102222,47,45727.0,14,9,3.0,Electronics,Credit Card,New,Bangalore,1
+ORD102223,46,68759.0,3,6,2.0,Home,Debit Card,New,Chennai,1
+ORD102224,32,16875.0,6,2,2.0,Electronics,Cash on Delivery,Regular,Chennai,0
+ORD102225,48,2383.0,7,9,4.0,Sports,Debit Card,Regular,Bangalore,1
+ORD102226,46,63499.0,4,6,4.0,Electronics,Cash on Delivery,New,Mumbai,1
+ORD102227,46,26911.0,5,6,5.0,Electronics,Debit Card,Premium,Bangalore,0
+ORD102228,47,20496.0,10,2,2.0,Electronics,Cash on Delivery,New,Delhi,1
+ORD102229,54,73166.0,14,2,5.0,Sports,UPI,New,Chennai,0
+ORD102230,47,29430.0,11,9,3.0,Electronics,Cash on Delivery,Regular,Chennai,1
+ORD102231,24,8048.0,1,8,1.0,Fashion,UPI,Regular,Chennai,1
+ORD102232,58,68445.0,13,5,5.0,Home,Cash on Delivery,New,Chennai,1
+ORD102233,46,39822.0,8,3,2.0,Electronics,UPI,Regular,Delhi,1
+ORD102234,30,73394.0,13,2,5.0,Beauty,UPI,Premium,Delhi,0
+ORD102235,25,83538.0,9,5,5.0,Fashion,UPI,Regular,Delhi,0
+ORD102236,29,7422.0,2,1,1.0,Beauty,Cash on Delivery,Premium,Hyderabad,0
+ORD102237,19,70006.0,3,3,1.0,Electronics,Debit Card,Premium,Chennai,0
+ORD102238,37,97425.0,2,9,3.0,Beauty,Debit Card,Premium,Bangalore,1
+ORD102239,46,91884.0,7,7,4.0,Electronics,UPI,New,Hyderabad,1
+ORD102240,37,46560.0,2,7,3.0,Electronics,Credit Card,Premium,Bangalore,1
+ORD102241,19,95212.0,14,3,1.0,Sports,Debit Card,Regular,Delhi,1
+ORD102242,30,77015.0,3,5,2.0,Beauty,Cash on Delivery,New,Bangalore,1
+ORD102243,23,89106.0,6,9,4.0,Fashion,UPI,New,Bangalore,1
+ORD102244,38,87773.0,10,6,3.0,Home,Cash on Delivery,Premium,Mumbai,1
+ORD102245,49,92807.0,10,8,4.0,Home,Credit Card,New,Delhi,1
+ORD102246,51,64856.0,4,7,3.0,Home,Debit Card,Regular,Mumbai,1
+ORD102247,35,10982.0,10,8,5.0,Electronics,Credit Card,New,Bangalore,1
+ORD102248,42,50610.0,5,2,2.0,Sports,UPI,Regular,Mumbai,0
+ORD102249,41,30050.0,6,9,3.0,Fashion,Credit Card,Premium,Bangalore,1
+ORD102250,29,95994.0,1,0,2.0,Electronics,Debit Card,New,Delhi,0
+ORD102251,43,67842.0,3,0,5.0,Beauty,Debit Card,Premium,Hyderabad,0
+ORD102252,48,71190.0,1,7,4.0,Home,Debit Card,Regular,Mumbai,0
+ORD102253,36,56844.0,9,0,3.0,Fashion,UPI,Regular,Chennai,0
+ORD102254,23,5755.0,4,4,1.0,Beauty,Credit Card,New,Bangalore,1
+ORD102255,39,42959.0,7,6,4.0,Fashion,Cash on Delivery,Premium,Bangalore,1
+ORD102256,21,65649.0,11,4,5.0,Fashion,Cash on Delivery,Premium,Mumbai,1
+ORD102257,58,87093.0,11,6,1.0,Beauty,Credit Card,Regular,Bangalore,1
+ORD102258,33,8007.0,10,6,2.0,Electronics,Debit Card,New,Chennai,1
+ORD102259,28,92437.0,1,9,2.0,Home,UPI,Premium,Chennai,1
+ORD102260,40,86473.0,10,1,4.0,Fashion,Debit Card,Regular,Bangalore,0
+ORD102261,32,39165.0,10,8,3.0,Sports,Debit Card,New,Chennai,1
+ORD102262,34,4527.0,9,1,4.0,Fashion,Credit Card,Regular,Bangalore,0
+ORD102263,26,28951.0,3,0,2.0,Fashion,Debit Card,Premium,Bangalore,0
+ORD102264,33,18825.0,13,3,5.0,Home,Credit Card,New,Bangalore,0
+ORD102265,23,72510.0,8,2,4.0,Electronics,Credit Card,Regular,Chennai,0
+ORD102266,27,51312.0,12,0,4.0,,Credit Card,Regular,Chennai,0
+ORD102267,43,49389.0,12,8,3.0,Home,Credit Card,Regular,Delhi,1
+ORD102268,21,46010.0,10,2,1.0,Fashion,Debit Card,Regular,Bangalore,1
+ORD102269,53,3381.0,10,4,2.0,Sports,Cash on Delivery,Premium,Chennai,1
+ORD102270,31,62957.0,6,9,1.0,Electronics,Credit Card,New,Bangalore,1
+ORD102271,39,97591.0,3,1,1.0,Fashion,Cash on Delivery,Premium,Mumbai,0
+ORD102272,36,78211.0,6,8,2.0,Home,Cash on Delivery,Premium,Bangalore,1
+ORD102273,40,87112.0,11,6,1.0,Electronics,Credit Card,Premium,Mumbai,1
+ORD102274,21,8460.0,14,9,1.0,Fashion,Debit Card,New,Chennai,1
+ORD102275,53,46933.0,9,1,5.0,,Credit Card,Premium,Hyderabad,0
+ORD102276,22,63143.0,6,4,3.0,Beauty,Credit Card,Premium,Chennai,0
+ORD102277,21,15088.0,9,5,3.0,Beauty,UPI,New,Hyderabad,1
+ORD102278,27,22211.0,10,9,5.0,Beauty,Debit Card,Regular,Hyderabad,1
+ORD102279,27,29817.0,14,0,5.0,Beauty,Credit Card,Regular,Mumbai,0
+ORD102280,23,55986.0,11,7,3.0,Sports,Cash on Delivery,Premium,Delhi,1
+ORD102281,42,44326.0,2,3,3.0,Beauty,Debit Card,Premium,Delhi,0
+ORD102282,49,29862.0,4,2,2.0,Sports,UPI,New,Bangalore,0
+ORD102283,51,43415.0,6,4,3.0,Fashion,Cash on Delivery,New,Delhi,1
+ORD102284,51,57292.0,1,8,1.0,Fashion,Debit Card,Regular,Delhi,1
+ORD102285,47,8745.0,7,2,3.0,Sports,Credit Card,Regular,Mumbai,0
+ORD102286,46,942.0,1,3,4.0,Sports,UPI,New,Chennai,0
+ORD102287,35,37645.0,8,2,4.0,Home,Cash on Delivery,Premium,Mumbai,0
+ORD102288,23,67067.0,1,2,3.0,Fashion,UPI,Regular,Hyderabad,0
+ORD102289,38,21451.0,9,6,1.0,Sports,Debit Card,Regular,Delhi,1
+ORD102290,36,9808.0,5,9,4.0,Beauty,Cash on Delivery,Regular,Mumbai,1
+ORD102291,50,54379.0,7,0,5.0,Beauty,Debit Card,Regular,Delhi,0
+ORD102292,27,49426.0,12,5,1.0,Electronics,Credit Card,Regular,Bangalore,1
+ORD102293,54,50885.0,14,9,1.0,Home,UPI,Regular,Chennai,1
+ORD102294,33,60603.0,8,7,3.0,Home,UPI,Regular,Bangalore,1
+ORD102295,49,21881.0,11,2,1.0,Electronics,UPI,New,Mumbai,1
+ORD102296,35,83608.0,13,9,5.0,Electronics,Credit Card,Regular,Bangalore,1
+ORD102297,43,92001.0,1,0,1.0,Home,Debit Card,Regular,Mumbai,0
+ORD102298,51,2394.0,10,3,5.0,Fashion,Credit Card,Premium,Hyderabad,0
+ORD102299,46,42735.0,12,0,4.0,Home,UPI,Regular,Mumbai,0
+ORD102300,43,68806.0,10,4,2.0,Home,Cash on Delivery,Regular,Hyderabad,1
+ORD102301,51,33538.0,1,9,3.0,Electronics,Cash on Delivery,Premium,Hyderabad,1
+ORD102302,42,,11,5,3.0,Fashion,Cash on Delivery,New,Bangalore,1
+ORD102303,23,79527.0,8,4,1.0,Fashion,Cash on Delivery,New,Hyderabad,1
+ORD102304,46,51955.0,14,4,3.0,Sports,Cash on Delivery,Premium,Delhi,1
+ORD102305,22,38833.0,4,5,2.0,Home,UPI,Regular,Bangalore,1
+ORD102306,52,25061.0,2,7,2.0,Beauty,Cash on Delivery,New,Delhi,1
+ORD102307,30,63281.0,6,4,3.0,Beauty,UPI,Regular,Bangalore,0
+ORD102308,54,88856.0,5,2,3.0,Sports,Credit Card,Regular,Chennai,0
+ORD102309,40,43375.0,12,1,2.0,Beauty,Debit Card,Regular,Bangalore,1
+ORD102310,53,93837.0,8,0,1.0,Beauty,Cash on Delivery,Premium,Delhi,1
+ORD102311,25,83571.0,5,7,3.0,Sports,Debit Card,Regular,Hyderabad,1
+ORD102312,29,60067.0,12,2,2.0,,UPI,New,Bangalore,1
+ORD102313,56,19391.0,4,4,1.0,Home,Cash on Delivery,Regular,Bangalore,1
+ORD102314,24,37223.0,6,9,3.0,Beauty,UPI,Premium,Delhi,1
+ORD102315,24,9744.0,10,8,4.0,Fashion,Cash on Delivery,New,Mumbai,1
+ORD102316,27,2246.0,8,0,1.0,Sports,Cash on Delivery,Premium,Mumbai,1
+ORD102317,50,23957.0,13,7,1.0,Electronics,Credit Card,New,Hyderabad,1
+ORD102318,24,88195.0,3,6,2.0,Fashion,UPI,Premium,Hyderabad,1
+ORD102319,28,20592.0,12,9,2.0,Beauty,UPI,New,Bangalore,1
+ORD102320,30,699279.0,5,9,4.0,Electronics,Cash on Delivery,Regular,Bangalore,1
+ORD102321,53,24651.0,5,4,5.0,Fashion,Debit Card,Premium,Hyderabad,0
+ORD102322,29,98797.0,3,7,2.0,Electronics,Cash on Delivery,New,Mumbai,1
+ORD102323,58,71968.0,7,9,1.0,Sports,UPI,New,Mumbai,1
+ORD102324,39,47138.0,5,0,4.0,Beauty,Cash on Delivery,New,Chennai,0
+ORD102325,39,41241.0,3,2,3.0,Fashion,Cash on Delivery,Regular,Chennai,0
+ORD102326,20,25418.0,10,1,2.0,Beauty,Credit Card,New,Bangalore,1
+ORD102327,30,62262.0,10,6,3.0,Home,Cash on Delivery,Premium,Delhi,1
+ORD102328,42,37838.0,10,3,1.0,Fashion,Debit Card,Premium,Bangalore,1
+ORD102329,41,82491.0,9,4,5.0,Sports,Cash on Delivery,Regular,Bangalore,0
+ORD102330,36,28584.0,8,4,4.0,Electronics,Credit Card,Regular,Chennai,0
+ORD102331,57,59226.0,14,5,5.0,Beauty,Credit Card,Premium,Mumbai,1
+ORD102332,31,16616.0,13,9,2.0,Sports,Cash on Delivery,Regular,Delhi,1
+ORD102333,21,74811.0,8,0,2.0,Sports,UPI,Premium,Chennai,0
+ORD102334,38,31276.0,10,6,2.0,Home,Cash on Delivery,Regular,Mumbai,1
+ORD102335,50,62307.0,6,7,2.0,Beauty,Credit Card,Regular,Bangalore,1
+ORD102336,31,98051.0,11,3,1.0,Fashion,Cash on Delivery,Regular,Delhi,1
+ORD102337,27,755.0,1,5,3.0,Fashion,UPI,Regular,Chennai,0
+ORD102338,58,25256.0,13,5,3.0,Fashion,Credit Card,Regular,Hyderabad,1
+ORD102339,42,55532.0,8,8,4.0,Home,UPI,Premium,Bangalore,1
+ORD102340,33,6777.0,5,4,4.0,Beauty,Cash on Delivery,Premium,Chennai,0
+ORD102341,51,66383.0,6,8,4.0,Home,UPI,New,Hyderabad,1
+ORD102342,34,42042.0,6,2,1.0,Home,Cash on Delivery,Regular,Bangalore,1
+ORD102343,46,95015.0,14,8,2.0,Home,Credit Card,Premium,Chennai,1
+ORD102344,52,34533.0,14,1,2.0,Beauty,UPI,New,Delhi,1
+ORD102345,28,77195.0,3,6,3.0,,Debit Card,Premium,Delhi,1
+ORD102346,35,20544.0,13,7,3.0,Fashion,Cash on Delivery,New,Chennai,1
+ORD102347,40,76964.0,14,5,4.0,Home,UPI,Premium,Bangalore,1
+ORD102348,45,87731.0,13,8,4.0,Home,Cash on Delivery,Regular,Delhi,1
+ORD102349,24,52576.0,6,7,3.0,Electronics,UPI,Premium,Bangalore,1
+ORD102350,36,9062.0,9,3,3.0,Beauty,Credit Card,Regular,Mumbai,1
+ORD102351,46,23947.0,5,4,2.0,Fashion,Credit Card,New,Hyderabad,1
+ORD102352,43,55809.0,7,3,5.0,Electronics,Credit Card,Regular,Chennai,0
+ORD102353,35,80330.0,12,5,3.0,Sports,Cash on Delivery,New,Chennai,1
+ORD102354,18,87735.0,3,2,3.0,Electronics,Debit Card,New,Delhi,0
+ORD102355,43,63271.0,12,7,3.0,Home,Credit Card,New,Chennai,1
+ORD102356,33,52636.0,3,4,4.0,Sports,Credit Card,Regular,Chennai,0
+ORD102357,31,17491.0,10,5,3.0,Sports,UPI,Regular,Mumbai,1
+ORD102358,53,18798.0,5,0,5.0,Beauty,UPI,Premium,Chennai,0
+ORD102359,28,76283.0,9,7,4.0,Electronics,Cash on Delivery,New,Bangalore,1
+ORD102360,31,11744.0,3,3,3.0,Home,Credit Card,New,Chennai,0
+ORD102361,37,69858.0,14,4,5.0,Electronics,Cash on Delivery,New,Chennai,1
+ORD102362,58,80719.0,9,9,5.0,Home,Credit Card,Premium,Chennai,1
+ORD102363,50,38305.0,14,7,1.0,Fashion,UPI,Premium,Bangalore,1
+ORD102364,33,98885.0,7,7,1.0,Fashion,UPI,Regular,Hyderabad,1
+ORD102365,30,,8,7,1.0,Electronics,Debit Card,Regular,Hyderabad,1
+ORD102366,52,86603.0,1,7,5.0,Fashion,Credit Card,Premium,Delhi,0
+ORD102367,40,35867.0,1,5,3.0,Beauty,UPI,New,Bangalore,0
+ORD102368,47,62248.0,7,2,1.0,Electronics,Debit Card,Regular,Bangalore,1
+ORD102369,35,30599.0,13,7,3.0,,Cash on Delivery,Premium,Mumbai,1
+ORD102370,46,55761.0,10,5,1.0,Electronics,Cash on Delivery,New,Delhi,1
+ORD102371,56,60194.0,13,5,5.0,Fashion,UPI,Premium,Mumbai,1
+ORD102372,30,82443.0,4,4,5.0,Sports,Debit Card,New,Chennai,0
+ORD102373,58,67521.0,10,3,4.0,,Cash on Delivery,Regular,Hyderabad,1
+ORD102374,57,17640.0,13,0,4.0,Beauty,UPI,Premium,Hyderabad,0
+ORD102375,51,6987.0,5,0,1.0,Sports,Credit Card,Regular,Chennai,0
+ORD102376,58,49910.0,12,2,2.0,Sports,Debit Card,Premium,Delhi,1
+ORD102377,46,90798.0,6,0,5.0,Fashion,Debit Card,New,Mumbai,0
+ORD102378,39,31627.0,13,0,5.0,Beauty,UPI,Regular,Chennai,0
+ORD102379,28,69035.0,7,9,5.0,Sports,Cash on Delivery,Regular,Hyderabad,1
+ORD102380,38,89413.0,3,3,5.0,Fashion,UPI,New,Chennai,0
+ORD102381,30,96934.0,12,6,5.0,Sports,UPI,Regular,Bangalore,1
+ORD102382,54,62585.0,7,9,2.0,Beauty,Credit Card,Premium,Chennai,1
+ORD102383,25,91580.0,11,3,5.0,Electronics,Credit Card,Regular,Delhi,0
+ORD102384,48,46604.0,7,4,3.0,Home,Credit Card,New,Delhi,1
+ORD102385,58,8984.0,9,9,4.0,Fashion,UPI,New,Hyderabad,1
+ORD102386,31,87863.0,5,3,2.0,Beauty,Debit Card,New,Mumbai,0
+ORD102387,29,48468.0,8,3,5.0,Home,UPI,Premium,Delhi,0
+ORD102388,55,4369.0,8,7,4.0,Home,UPI,New,Mumbai,1
+ORD102389,55,26151.0,14,6,4.0,Home,Credit Card,New,Hyderabad,1
+ORD102390,46,75679.0,13,0,5.0,Electronics,Credit Card,Premium,Bangalore,0
+ORD102391,32,44545.0,10,9,4.0,Sports,Cash on Delivery,Premium,Mumbai,1
+ORD102392,44,14282.0,13,8,5.0,Fashion,Cash on Delivery,Premium,Chennai,1
+ORD102393,26,78504.0,9,7,4.0,Electronics,Cash on Delivery,New,Bangalore,1
+ORD102394,24,6557.0,4,4,5.0,Electronics,Credit Card,New,Bangalore,0
+ORD102395,28,23759.0,9,5,4.0,Electronics,Credit Card,Premium,Hyderabad,1
+ORD102396,19,39393.0,3,1,5.0,Fashion,Credit Card,Premium,Chennai,0
+ORD102397,23,23784.0,2,4,1.0,Beauty,Cash on Delivery,Regular,Bangalore,1
+ORD102398,37,62607.0,10,1,3.0,Fashion,Credit Card,Regular,Bangalore,0
+ORD102399,20,24380.0,4,0,1.0,Sports,Credit Card,Regular,Mumbai,0
+ORD102400,40,27925.0,9,8,5.0,Sports,Cash on Delivery,Premium,Bangalore,1
+ORD102401,32,6306.0,3,2,4.0,Home,Cash on Delivery,New,Mumbai,0
+ORD102402,20,83033.0,4,7,5.0,Beauty,Cash on Delivery,New,Delhi,0
+ORD102403,28,51864.0,1,8,1.0,Beauty,Cash on Delivery,Premium,Hyderabad,1
+ORD102404,18,78710.0,10,4,2.0,Beauty,Credit Card,Regular,Chennai,1
+ORD102405,40,93949.0,8,8,3.0,Beauty,Cash on Delivery,New,Mumbai,1
+ORD102406,58,5291.0,9,9,4.0,Sports,Credit Card,Premium,Bangalore,1
+ORD102407,58,44578.0,7,4,5.0,Home,Cash on Delivery,Regular,Mumbai,0
+ORD102408,18,51445.0,10,2,4.0,Beauty,Debit Card,Regular,Hyderabad,0
+ORD102409,43,88590.0,13,4,5.0,Sports,Cash on Delivery,New,Mumbai,1
+ORD102410,18,37423.0,11,8,3.0,Fashion,Cash on Delivery,New,Bangalore,1
+ORD102411,35,68647.0,12,1,5.0,Fashion,UPI,New,Hyderabad,0
+ORD102412,42,60122.0,8,2,2.0,Home,Cash on Delivery,Regular,Delhi,1
+ORD102413,39,24528.0,1,5,5.0,Beauty,Debit Card,Regular,Delhi,0
+ORD102414,52,76894.0,3,2,2.0,Home,UPI,Regular,Chennai,0
+ORD102415,44,25730.0,11,9,3.0,Electronics,Cash on Delivery,Premium,Bangalore,1
+ORD102416,41,63296.0,5,3,5.0,Fashion,Cash on Delivery,Regular,Mumbai,0
+ORD102417,26,90709.0,8,4,1.0,Sports,Cash on Delivery,Premium,Mumbai,1
+ORD102418,29,96799.0,3,9,4.0,Electronics,Cash on Delivery,Regular,Bangalore,1
+ORD102419,31,32469.0,2,8,5.0,Fashion,Cash on Delivery,New,Mumbai,0
+ORD102420,21,92519.0,7,9,2.0,Electronics,Credit Card,Regular,Hyderabad,1
+ORD102421,19,34326.0,3,5,3.0,Beauty,Credit Card,Regular,Bangalore,0
+ORD102422,25,96705.0,10,2,5.0,Sports,Credit Card,New,Chennai,0
+ORD102423,32,73290.0,7,1,3.0,Electronics,Cash on Delivery,Regular,Hyderabad,0
+ORD102424,45,41485.0,10,3,2.0,Electronics,Credit Card,Regular,Bangalore,1
+ORD102425,20,63098.0,7,9,3.0,Beauty,Debit Card,Premium,Mumbai,1
+ORD102426,45,15503.0,3,4,4.0,Sports,Cash on Delivery,Premium,Mumbai,0
+ORD102427,30,90944.0,11,0,2.0,Beauty,UPI,New,Hyderabad,0
+ORD102428,45,44791.0,6,5,5.0,Home,Credit Card,Regular,Bangalore,0
+ORD102429,56,40213.0,1,9,1.0,Beauty,Debit Card,New,Bangalore,1
+ORD102430,29,67054.0,12,9,1.0,Beauty,UPI,New,Chennai,1
+ORD102431,43,45110.0,7,7,4.0,Beauty,Cash on Delivery,Premium,Mumbai,1
+ORD102432,29,29910.0,1,8,2.0,Beauty,Credit Card,New,Mumbai,1
+ORD102433,39,48627.0,6,8,1.0,Fashion,Credit Card,New,Delhi,1
+ORD102434,39,33375.0,5,5,3.0,Fashion,UPI,Regular,Hyderabad,1
+ORD102435,57,32856.0,2,1,2.0,Fashion,Credit Card,New,Chennai,0
+ORD102436,52,87389.0,3,7,1.0,Fashion,Credit Card,Regular,Delhi,1
+ORD102437,45,79512.0,9,3,1.0,Beauty,UPI,Premium,Bangalore,1
+ORD102438,41,17800.0,2,0,4.0,Electronics,Debit Card,New,Delhi,0
+ORD102439,29,34086.0,9,0,4.0,Electronics,Debit Card,New,Mumbai,0
+ORD102440,41,49291.0,10,7,2.0,Electronics,Credit Card,Regular,Delhi,1
+ORD102441,25,21427.0,4,7,1.0,Electronics,UPI,New,Mumbai,1
+ORD102442,24,78913.0,12,1,,Electronics,UPI,New,Bangalore,1
+ORD102443,25,72802.0,12,2,2.0,Sports,UPI,Regular,Hyderabad,1
+ORD102444,29,40243.0,9,3,4.0,Sports,Debit Card,Regular,Delhi,0
+ORD102445,20,45880.0,3,8,3.0,Home,Cash on Delivery,Regular,Mumbai,1
+ORD102446,19,45528.0,6,0,4.0,Home,Debit Card,New,Mumbai,0
+ORD102447,44,14269.0,3,3,1.0,Beauty,Cash on Delivery,Premium,Chennai,1
+ORD102448,39,80282.0,14,4,4.0,Home,Debit Card,New,Chennai,1
+ORD102449,48,79212.0,4,9,3.0,Beauty,Cash on Delivery,Premium,Bangalore,1
+ORD102450,39,82824.0,1,4,5.0,Electronics,UPI,Premium,Mumbai,0
+ORD102451,38,52604.0,1,4,3.0,Fashion,Debit Card,Regular,Hyderabad,0
+ORD102452,39,15359.0,7,5,5.0,Beauty,Cash on Delivery,Premium,Bangalore,0
+ORD102453,33,42744.0,9,7,4.0,Electronics,Debit Card,New,Mumbai,1
+ORD102454,59,1745.0,4,3,2.0,Electronics,Debit Card,Premium,Delhi,0
+ORD102455,46,30214.0,8,6,5.0,Fashion,Cash on Delivery,Regular,Hyderabad,1
+ORD102456,59,86482.0,5,2,2.0,Electronics,Debit Card,Regular,Delhi,0
+ORD102457,22,79620.0,6,9,4.0,Electronics,Cash on Delivery,Regular,Hyderabad,1
+ORD102458,37,63587.0,8,1,4.0,Fashion,Credit Card,Premium,Hyderabad,0
+ORD102459,35,83956.0,10,2,4.0,Sports,UPI,New,Delhi,0
+ORD102460,57,20729.0,12,6,2.0,Electronics,Debit Card,Premium,Hyderabad,1
+ORD102461,25,76363.0,4,5,5.0,Beauty,Credit Card,Regular,Chennai,0
+ORD102462,58,53531.0,2,6,3.0,Beauty,Credit Card,New,Bangalore,0
+ORD102463,31,58945.0,12,0,1.0,Fashion,UPI,New,Delhi,1
+ORD102464,37,3560.0,4,6,3.0,Electronics,Credit Card,Regular,Delhi,1
+ORD102465,56,49616.0,8,5,2.0,Home,Credit Card,Premium,Mumbai,1
+ORD102466,33,63251.0,13,5,1.0,Beauty,UPI,Premium,Bangalore,1
+ORD102467,29,87211.0,11,5,2.0,Sports,Cash on Delivery,New,Mumbai,1
+ORD102468,56,38323.0,7,4,5.0,Fashion,UPI,Premium,Mumbai,0
+ORD102469,58,57447.0,13,1,4.0,Beauty,Cash on Delivery,Premium,Hyderabad,0
+ORD102470,47,17008.0,9,1,4.0,Beauty,Credit Card,New,Mumbai,0
+ORD102471,35,75768.0,3,9,2.0,Electronics,Debit Card,New,Chennai,1
+ORD102472,49,87176.0,10,4,1.0,Electronics,Debit Card,Premium,Hyderabad,1
+ORD102473,39,9728.0,7,0,1.0,Fashion,UPI,Premium,Mumbai,0
+ORD102474,41,72225.0,8,6,5.0,Fashion,Debit Card,Regular,Hyderabad,1
+ORD102475,36,73650.0,12,8,3.0,Electronics,Debit Card,New,Hyderabad,1
+ORD102476,43,70875.0,14,5,4.0,Sports,Credit Card,Regular,Delhi,1
+ORD102477,28,37889.0,5,7,3.0,Home,Debit Card,Premium,Bangalore,1
+ORD102478,45,10096.0,13,6,2.0,Sports,Credit Card,New,Delhi,1
+ORD102479,52,66546.0,13,1,5.0,Electronics,Cash on Delivery,Regular,Bangalore,0
+ORD102480,56,93933.0,11,9,5.0,Home,Credit Card,Regular,Delhi,1
+ORD102481,31,35428.0,13,9,1.0,Fashion,Debit Card,New,Chennai,1
+ORD102482,50,10836.0,14,9,4.0,Sports,Debit Card,Regular,Hyderabad,1
+ORD102483,42,16119.0,8,3,2.0,Electronics,Debit Card,Premium,Hyderabad,1
+ORD102484,44,9298.0,8,6,4.0,Beauty,Credit Card,Regular,Mumbai,1
+ORD102485,26,21682.0,9,7,1.0,Beauty,UPI,Regular,Bangalore,1
+ORD102486,40,18952.0,7,8,2.0,Fashion,Credit Card,Premium,Chennai,1
+ORD102487,30,18670.0,4,3,2.0,Fashion,Cash on Delivery,Premium,Delhi,0
+ORD102488,31,12305.0,13,7,4.0,Home,Credit Card,New,Hyderabad,1
+ORD102489,58,46553.0,10,1,2.0,Beauty,Debit Card,Regular,Delhi,1
+ORD102490,57,76715.0,14,5,2.0,Home,Cash on Delivery,Regular,Chennai,1
+ORD102491,57,5361.0,1,8,5.0,Sports,Debit Card,Regular,Bangalore,0
+ORD102492,49,97535.0,1,2,4.0,Sports,Cash on Delivery,New,Bangalore,0
+ORD102493,42,86318.0,5,8,1.0,Home,UPI,Premium,Mumbai,1
+ORD102494,55,99742.0,1,9,1.0,Beauty,Credit Card,Premium,Bangalore,1
+ORD102495,40,45359.0,11,3,2.0,Beauty,Cash on Delivery,Regular,Bangalore,1
+ORD102496,23,40307.0,2,3,5.0,Fashion,Credit Card,Premium,Bangalore,0
+ORD102497,25,63579.0,1,1,4.0,Electronics,Debit Card,Premium,Hyderabad,0
+ORD102498,32,90287.0,9,2,5.0,Electronics,Credit Card,Regular,Delhi,0
+ORD102499,39,93010.0,13,9,4.0,Fashion,UPI,New,Mumbai,1
+ORD102500,50,36803.0,14,6,2.0,Beauty,Credit Card,New,Chennai,1
+ORD102501,24,26265.0,5,3,2.0,Sports,Debit Card,Premium,Delhi,0
+ORD102502,59,1097.0,5,1,2.0,Fashion,Cash on Delivery,New,Chennai,0
+ORD102503,40,56297.0,12,8,3.0,Electronics,Credit Card,Regular,Delhi,1
+ORD102504,42,62540.0,13,0,5.0,Home,Credit Card,Premium,Delhi,0
+ORD102505,26,55530.0,6,5,3.0,Electronics,Cash on Delivery,Premium,Delhi,1
+ORD102506,40,90532.0,4,0,5.0,Home,Cash on Delivery,Regular,Chennai,0
+ORD102507,37,77588.0,9,3,4.0,Electronics,UPI,New,Chennai,0
+ORD102508,39,10362.0,8,8,1.0,Beauty,Credit Card,New,Hyderabad,1
+ORD102509,33,84029.0,11,2,4.0,Sports,Cash on Delivery,Regular,Chennai,0
+ORD102510,49,95525.0,5,0,3.0,Sports,Credit Card,Regular,Delhi,0
+ORD102511,18,70032.0,3,3,4.0,Beauty,Debit Card,Premium,Bangalore,0
+ORD102512,33,2866.0,12,4,5.0,Electronics,Debit Card,New,Hyderabad,1
+ORD102513,34,62336.0,4,9,5.0,Fashion,Cash on Delivery,Premium,Chennai,1
+ORD102514,32,21439.0,13,0,1.0,Beauty,Cash on Delivery,New,Hyderabad,1
+ORD102515,32,53305.0,1,0,1.0,Sports,UPI,New,Chennai,0
+ORD102516,37,32188.0,11,4,1.0,Fashion,Credit Card,New,Hyderabad,1
+ORD102517,55,699279.0,14,0,1.0,Beauty,Debit Card,New,Chennai,1
+ORD102518,36,37632.0,14,5,3.0,Fashion,Credit Card,Premium,Bangalore,1
+ORD102519,23,5460.0,14,2,2.0,Electronics,Debit Card,New,Chennai,1
+ORD102520,36,18383.0,7,3,4.0,Electronics,Debit Card,Regular,Hyderabad,0
+ORD102521,36,66766.0,9,1,4.0,Fashion,Cash on Delivery,Premium,Chennai,0
+ORD102522,55,56881.0,7,6,2.0,Fashion,Debit Card,New,Hyderabad,1
+ORD102523,43,7053.0,6,2,1.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD102524,37,7773.0,13,1,1.0,Beauty,Debit Card,Premium,Mumbai,1
+ORD102525,39,1408.0,12,9,1.0,Sports,Credit Card,Premium,Chennai,1
+ORD102526,49,89489.0,8,4,2.0,Electronics,Credit Card,New,Bangalore,1
+ORD102527,19,49823.0,9,2,2.0,,Debit Card,New,Bangalore,1
+ORD102528,38,2385.0,12,3,2.0,Sports,Credit Card,Premium,Mumbai,1
+ORD102529,51,43771.0,10,6,3.0,Home,Credit Card,Premium,Hyderabad,1
+ORD102530,31,36507.0,7,0,5.0,Beauty,UPI,Premium,Mumbai,0
+ORD102531,35,57683.0,6,6,3.0,Home,Cash on Delivery,Premium,Bangalore,1
+ORD102532,56,67970.0,5,7,4.0,Beauty,Cash on Delivery,New,Mumbai,1
+ORD102533,33,72195.0,8,6,2.0,Beauty,Credit Card,Premium,Bangalore,1
+ORD102534,30,33887.0,11,8,2.0,Electronics,Debit Card,Premium,Bangalore,1
+ORD102535,34,6094.0,13,4,3.0,Home,Credit Card,Regular,Bangalore,1
+ORD102536,39,16691.0,8,6,2.0,Home,Cash on Delivery,Regular,Chennai,1
+ORD102537,29,43658.0,1,8,5.0,Sports,Credit Card,New,Mumbai,0
+ORD102538,40,63321.0,13,1,3.0,Electronics,UPI,Premium,Hyderabad,1
+ORD102539,18,65314.0,10,4,1.0,Beauty,UPI,Regular,Chennai,1
+ORD102540,30,53865.0,5,2,5.0,Home,Debit Card,Regular,Bangalore,0
+ORD102541,41,87155.0,12,1,5.0,Fashion,Debit Card,New,Chennai,0
+ORD102542,27,68747.0,8,4,1.0,Beauty,Credit Card,Regular,Chennai,1
+ORD102543,40,63113.0,4,1,4.0,Electronics,Credit Card,Premium,Mumbai,0
+ORD102544,48,14934.0,7,9,2.0,Sports,Cash on Delivery,New,Hyderabad,1
+ORD102545,41,53300.0,6,4,1.0,Home,Debit Card,Premium,Mumbai,1
+ORD102546,46,3839.0,7,2,1.0,Sports,UPI,New,Bangalore,1
+ORD102547,44,35107.0,8,2,3.0,Home,Cash on Delivery,New,Mumbai,0
+ORD102548,25,65578.0,12,1,5.0,Sports,Cash on Delivery,Regular,Hyderabad,0
+ORD102549,47,56273.0,1,6,5.0,Fashion,Debit Card,New,Hyderabad,0
+ORD102550,49,28084.0,6,9,3.0,Fashion,Credit Card,New,Delhi,1
+ORD102551,43,96298.0,4,0,1.0,Sports,Debit Card,New,Mumbai,0
+ORD102552,21,29304.0,12,6,4.0,Fashion,Cash on Delivery,Premium,Delhi,1
+ORD102553,27,2959.0,1,9,2.0,Fashion,Cash on Delivery,Regular,Delhi,1
+ORD102554,46,83470.0,2,7,4.0,,Debit Card,Regular,Delhi,0
+ORD102555,27,36077.0,10,4,2.0,Sports,Credit Card,Regular,Chennai,1
+ORD102556,38,13963.0,6,2,1.0,Home,Cash on Delivery,Regular,Chennai,1
+ORD102557,54,73328.0,2,1,1.0,Electronics,UPI,Premium,Bangalore,0
+ORD102558,59,96991.0,2,9,4.0,Electronics,Credit Card,Premium,Chennai,1
+ORD102559,50,67127.0,13,9,5.0,Electronics,Debit Card,Premium,Delhi,1
+ORD102560,42,22820.0,12,4,2.0,Electronics,Cash on Delivery,Premium,Hyderabad,1
+ORD102561,26,49081.0,2,2,1.0,Fashion,Cash on Delivery,Regular,Hyderabad,0
+ORD102562,52,87581.0,1,7,1.0,Sports,UPI,Regular,Chennai,1
+ORD102563,53,20602.0,14,4,4.0,Sports,Credit Card,Premium,Chennai,1
+ORD102564,34,84696.0,4,2,5.0,Beauty,Debit Card,New,Hyderabad,0
+ORD102565,43,50562.0,3,7,,Sports,UPI,Premium,Delhi,0
+ORD102566,20,6836.0,9,8,2.0,Fashion,Credit Card,New,Chennai,1
+ORD102567,34,34219.0,2,8,3.0,Home,Credit Card,Premium,Mumbai,1
+ORD102568,30,96312.0,9,0,1.0,Electronics,Cash on Delivery,Regular,Delhi,1
+ORD102569,21,79063.0,4,9,4.0,Fashion,Debit Card,New,Mumbai,1
+ORD102570,23,62187.0,12,3,3.0,Fashion,UPI,Regular,Mumbai,1
+ORD102571,50,52050.0,7,3,3.0,Beauty,Debit Card,Regular,Bangalore,0
+ORD102572,20,8049.0,6,2,3.0,Electronics,Cash on Delivery,New,Mumbai,0
+ORD102573,29,34217.0,5,9,1.0,Sports,UPI,Regular,Hyderabad,1
+ORD102574,50,80768.0,3,2,3.0,Beauty,UPI,Regular,Chennai,0
+ORD102575,55,13323.0,3,2,5.0,Sports,Cash on Delivery,Regular,Mumbai,0
+ORD102576,59,15190.0,4,0,5.0,Home,UPI,New,Mumbai,0
+ORD102577,53,37033.0,11,2,3.0,Fashion,Cash on Delivery,Regular,Chennai,1
+ORD102578,29,68094.0,6,8,1.0,Electronics,Cash on Delivery,Regular,Bangalore,1
+ORD102579,59,70215.0,12,6,3.0,,Credit Card,Regular,Chennai,1
+ORD102580,59,7115.0,11,7,4.0,Beauty,UPI,New,Mumbai,1
+ORD102581,28,87379.0,12,4,4.0,Fashion,Cash on Delivery,Regular,Mumbai,1
+ORD102582,30,47945.0,3,5,4.0,Home,Debit Card,Regular,Bangalore,0
+ORD102583,38,49121.0,2,4,5.0,Sports,Debit Card,New,Delhi,0
+ORD102584,31,32204.0,11,7,4.0,Beauty,Credit Card,New,Mumbai,1
+ORD102585,40,3026.0,12,2,2.0,Beauty,UPI,Regular,Bangalore,1
+ORD102586,37,16409.0,3,8,4.0,Electronics,Credit Card,Regular,Chennai,1
+ORD102587,40,51408.0,11,2,2.0,,Cash on Delivery,Regular,Mumbai,1
+ORD102588,32,55915.0,1,2,3.0,Electronics,Credit Card,Premium,Bangalore,0
+ORD102589,22,33592.0,10,1,2.0,Beauty,Debit Card,New,Delhi,1
+ORD102590,25,14904.0,7,6,5.0,Beauty,Cash on Delivery,Premium,Bangalore,1
+ORD102591,58,2679.0,4,7,1.0,Home,Cash on Delivery,Premium,Delhi,1
+ORD102592,53,69945.0,13,3,5.0,Fashion,UPI,New,Chennai,0
+ORD102593,27,51932.0,4,3,4.0,Fashion,Credit Card,Regular,Hyderabad,0
+ORD102594,59,89842.0,4,1,5.0,Electronics,Credit Card,New,Mumbai,0
+ORD102595,30,59041.0,2,0,5.0,Beauty,UPI,Regular,Delhi,0
+ORD102596,33,21826.0,6,8,5.0,Home,Debit Card,Regular,Chennai,1
+ORD102597,23,33571.0,12,3,1.0,Beauty,Credit Card,Premium,Bangalore,1
+ORD102598,53,57992.0,11,7,5.0,Sports,Credit Card,New,Mumbai,1
+ORD102599,49,44915.0,10,1,4.0,Electronics,Debit Card,Premium,Bangalore,0
+ORD102600,39,1028.0,7,3,5.0,Beauty,Credit Card,Regular,Chennai,0
+ORD102601,55,14419.0,11,0,1.0,Sports,Credit Card,New,Hyderabad,1
+ORD102602,59,74920.0,11,7,1.0,Fashion,Credit Card,New,Bangalore,1
+ORD102603,25,22446.0,13,3,2.0,Beauty,UPI,Regular,Bangalore,1
+ORD102604,44,4425.0,2,4,2.0,Fashion,Cash on Delivery,New,Hyderabad,0
+ORD102605,20,91753.0,1,5,3.0,Fashion,UPI,New,Delhi,0
+ORD102606,24,14465.0,6,7,1.0,Beauty,Debit Card,Premium,Bangalore,1
+ORD102607,44,65296.0,9,4,5.0,Fashion,Debit Card,Regular,Delhi,0
+ORD102608,46,74067.0,12,4,2.0,Electronics,Cash on Delivery,Premium,Chennai,1
+ORD102609,23,7265.0,11,3,5.0,Home,UPI,Regular,Mumbai,0
+ORD102610,42,42620.0,8,2,2.0,Home,Debit Card,Premium,Delhi,1
+ORD102611,44,95319.0,1,8,5.0,Fashion,Debit Card,New,Bangalore,0
+ORD102612,33,40486.0,11,9,1.0,Electronics,UPI,New,Mumbai,1
+ORD102613,43,43048.0,10,8,4.0,Fashion,Debit Card,Regular,Mumbai,1
+ORD102614,39,27899.0,10,0,2.0,Sports,UPI,Regular,Bangalore,0
+ORD102615,44,40346.0,3,8,5.0,Home,Cash on Delivery,Regular,Mumbai,1
+ORD102616,41,75787.0,12,2,2.0,Home,UPI,New,Chennai,1
+ORD102617,19,36225.0,5,9,4.0,Sports,Credit Card,Regular,Mumbai,1
+ORD102618,56,4763.0,10,7,5.0,Home,Debit Card,New,Mumbai,1
+ORD102619,29,76226.0,10,2,3.0,Fashion,Cash on Delivery,New,Chennai,1
+ORD102620,35,79072.0,4,0,3.0,Fashion,UPI,New,Hyderabad,0
+ORD102621,44,48106.0,7,0,2.0,Fashion,Credit Card,Premium,Delhi,0
+ORD102622,24,48615.0,7,7,3.0,Electronics,UPI,Premium,Hyderabad,1
+ORD102623,27,84197.0,7,4,5.0,Home,Debit Card,Premium,Delhi,0
+ORD102624,54,9388.0,11,7,1.0,Fashion,Credit Card,New,Bangalore,1
+ORD102625,44,17833.0,1,3,3.0,Fashion,Cash on Delivery,Premium,Mumbai,0
+ORD102626,59,76175.0,1,9,1.0,Sports,Debit Card,Regular,Delhi,1
+ORD102627,39,18033.0,1,4,4.0,Electronics,Cash on Delivery,New,Delhi,0
+ORD102628,40,59097.0,12,8,1.0,Beauty,UPI,New,Hyderabad,1
+ORD102629,37,4452.0,1,9,5.0,Home,Credit Card,Regular,Chennai,0
+ORD102630,46,23296.0,3,1,5.0,Sports,UPI,Premium,Bangalore,0
+ORD102631,24,32376.0,8,6,2.0,Beauty,Cash on Delivery,Premium,Hyderabad,1
+ORD102632,49,48932.0,13,8,5.0,Sports,UPI,New,Delhi,1
+ORD102633,38,8335.0,10,3,2.0,Sports,Cash on Delivery,Premium,Delhi,1
+ORD102634,22,52421.0,12,6,3.0,Beauty,Debit Card,New,Bangalore,1
+ORD102635,28,65577.0,1,5,5.0,Electronics,Credit Card,Premium,Bangalore,0
+ORD102636,37,66799.0,6,5,2.0,Sports,UPI,Premium,Delhi,1
+ORD102637,31,87459.0,7,3,5.0,Sports,Debit Card,Regular,Bangalore,0
+ORD102638,58,45715.0,10,1,5.0,Home,Debit Card,Premium,Chennai,0
+ORD102639,31,9895.0,9,3,3.0,Fashion,Credit Card,New,Hyderabad,1
+ORD102640,27,30604.0,5,0,1.0,Fashion,Debit Card,New,Bangalore,0
+ORD102641,48,66533.0,10,9,5.0,Home,Credit Card,Regular,Chennai,1
+ORD102642,53,71092.0,4,3,2.0,Fashion,Credit Card,Premium,Chennai,0
+ORD102643,21,,9,2,5.0,Electronics,Debit Card,Premium,Hyderabad,0
+ORD102644,21,77624.0,13,6,5.0,Home,Debit Card,New,Hyderabad,1
+ORD102645,25,2516.0,7,5,3.0,Home,Credit Card,Regular,Hyderabad,1
+ORD102646,33,16248.0,7,2,1.0,Home,Debit Card,New,Chennai,1
+ORD102647,26,34629.0,13,9,3.0,Home,Credit Card,Premium,Mumbai,1
+ORD102648,41,41935.0,10,8,5.0,Fashion,Debit Card,New,Hyderabad,1
+ORD102649,52,62377.0,7,0,4.0,Sports,UPI,Premium,Delhi,0
+ORD102650,33,,4,3,5.0,Home,Credit Card,Regular,Bangalore,0
+ORD102651,23,85711.0,11,4,1.0,Home,Debit Card,New,Hyderabad,1
+ORD102652,56,79733.0,11,6,5.0,Beauty,Credit Card,Regular,Bangalore,1
+ORD102653,57,7640.0,11,1,4.0,Beauty,Debit Card,New,Delhi,0
+ORD102654,34,35480.0,14,5,2.0,Electronics,Cash on Delivery,New,Delhi,1
+ORD102655,18,17497.0,3,4,4.0,Fashion,Credit Card,New,Hyderabad,0
+ORD102656,48,82078.0,13,1,1.0,Beauty,Credit Card,Premium,Mumbai,1
+ORD102657,34,90032.0,11,3,2.0,Electronics,Debit Card,New,Bangalore,1
+ORD102658,46,,2,0,4.0,Beauty,Credit Card,New,Bangalore,0
+ORD102659,59,70912.0,12,6,3.0,Electronics,Cash on Delivery,New,Delhi,1
+ORD102660,43,95567.0,13,1,5.0,Beauty,UPI,Premium,Hyderabad,0
+ORD102661,51,67117.0,14,3,5.0,Fashion,UPI,Premium,Chennai,1
+ORD102662,46,56854.0,11,0,3.0,Beauty,Cash on Delivery,New,Chennai,0
+ORD102663,28,78913.0,9,6,3.0,Electronics,UPI,New,Bangalore,1
+ORD102664,46,10195.0,7,6,4.0,Electronics,Debit Card,New,Hyderabad,1
+ORD102665,35,1714.0,5,6,2.0,Electronics,UPI,New,Hyderabad,1
+ORD102666,59,45339.0,3,0,3.0,Home,UPI,New,Bangalore,0
+ORD102667,44,56741.0,14,1,5.0,Beauty,Cash on Delivery,New,Mumbai,0
+ORD102668,46,63828.0,10,3,2.0,Home,Cash on Delivery,New,Bangalore,1
+ORD102669,22,32677.0,5,9,4.0,Electronics,Debit Card,Premium,Hyderabad,1
+ORD102670,25,28415.0,5,9,1.0,Electronics,UPI,New,Chennai,1
+ORD102671,43,18381.0,4,7,1.0,Sports,Debit Card,New,Hyderabad,1
+ORD102672,32,9588.0,11,6,2.0,Beauty,Credit Card,New,Bangalore,1
+ORD102673,18,16850.0,12,5,2.0,Electronics,Credit Card,Regular,Delhi,1
+ORD102674,35,83362.0,1,9,3.0,Fashion,Debit Card,Premium,Mumbai,1
+ORD102675,38,36803.0,6,2,1.0,Fashion,Cash on Delivery,Premium,Chennai,1
+ORD102676,38,25024.0,2,9,4.0,Beauty,Credit Card,New,Bangalore,1
+ORD102677,41,54761.0,4,5,5.0,Electronics,Debit Card,Regular,Chennai,0
+ORD102678,27,699279.0,6,1,1.0,Sports,Debit Card,New,Mumbai,0
+ORD102679,55,66272.0,7,9,5.0,Electronics,UPI,Premium,Bangalore,1
+ORD102680,27,13406.0,13,8,4.0,Fashion,Cash on Delivery,Premium,Mumbai,1
+ORD102681,56,33035.0,13,5,2.0,Sports,Credit Card,Premium,Delhi,1
+ORD102682,56,52784.0,9,4,2.0,Fashion,Debit Card,Premium,Mumbai,1
+ORD102683,21,40998.0,4,9,2.0,Home,UPI,Regular,Delhi,1
+ORD102684,25,26468.0,13,7,5.0,Home,Debit Card,Premium,Chennai,1
+ORD102685,45,85866.0,11,0,2.0,Electronics,Credit Card,Premium,Bangalore,0
+ORD102686,34,38744.0,14,5,2.0,Home,Credit Card,Regular,Delhi,1
+ORD102687,41,44911.0,5,2,1.0,Beauty,UPI,New,Hyderabad,0
+ORD102688,30,55768.0,3,2,3.0,Beauty,Debit Card,New,Chennai,0
+ORD102689,31,37027.0,6,0,3.0,Home,Credit Card,New,Delhi,0
+ORD102690,21,12960.0,8,2,5.0,Home,Debit Card,Regular,Delhi,0
+ORD102691,19,50626.0,2,6,2.0,Beauty,Cash on Delivery,Premium,Mumbai,1
+ORD102692,20,52982.0,6,9,3.0,,Credit Card,Regular,Delhi,1
+ORD102693,57,88741.0,3,7,1.0,Sports,Cash on Delivery,Premium,Hyderabad,1
+ORD102694,57,31421.0,2,6,2.0,Beauty,Credit Card,Regular,Chennai,1
+ORD102695,38,72043.0,3,0,5.0,Sports,Cash on Delivery,Premium,Hyderabad,0
+ORD102696,24,16792.0,7,0,4.0,Fashion,UPI,New,Mumbai,0
+ORD102697,27,41410.0,5,7,2.0,Electronics,Credit Card,New,Mumbai,1
+ORD102698,59,97704.0,12,6,2.0,Sports,Cash on Delivery,New,Chennai,1
+ORD102699,20,17943.0,11,2,1.0,Electronics,Debit Card,Regular,Bangalore,1
+ORD102700,41,54244.0,14,9,5.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD102701,44,32710.0,3,5,5.0,Beauty,Credit Card,New,Bangalore,0
+ORD102702,36,55104.0,11,9,5.0,Electronics,Credit Card,New,Bangalore,1
+ORD102703,53,51051.0,2,6,4.0,Beauty,UPI,Premium,Delhi,0
+ORD102704,48,47370.0,13,0,4.0,Home,UPI,Premium,Chennai,0
+ORD102705,31,58119.0,12,2,2.0,Sports,UPI,Regular,Hyderabad,1
+ORD102706,43,11717.0,14,2,1.0,Fashion,UPI,New,Mumbai,1
+ORD102707,43,43403.0,1,2,3.0,Fashion,UPI,New,Chennai,0
+ORD102708,30,59298.0,2,4,2.0,,Cash on Delivery,New,Bangalore,0
+ORD102709,20,65563.0,4,3,3.0,Beauty,Credit Card,Premium,Hyderabad,0
+ORD102710,18,58715.0,1,6,5.0,Home,Cash on Delivery,Regular,Mumbai,0
+ORD102711,28,32240.0,14,5,4.0,Beauty,UPI,Regular,Chennai,1
+ORD102712,27,33931.0,13,1,1.0,,UPI,Premium,Chennai,1
+ORD102713,34,16601.0,8,9,5.0,Sports,Credit Card,Premium,Bangalore,1
+ORD102714,54,22009.0,5,2,4.0,Electronics,Cash on Delivery,Regular,Delhi,0
+ORD102715,24,66430.0,12,9,2.0,Sports,Debit Card,Premium,Hyderabad,1
+ORD102716,22,57787.0,14,4,2.0,Home,Credit Card,Regular,Bangalore,1
+ORD102717,41,50651.0,9,9,4.0,Home,UPI,Premium,Delhi,1
+ORD102718,53,51455.0,11,2,4.0,Fashion,Credit Card,Regular,Hyderabad,0
+ORD102719,54,37241.0,3,1,3.0,Electronics,Credit Card,Regular,Bangalore,0
+ORD102720,54,62268.0,3,7,4.0,Sports,UPI,Premium,Delhi,0
+ORD102721,29,,9,4,2.0,Beauty,Debit Card,Premium,Delhi,1
+ORD102722,31,5106.0,13,8,4.0,Beauty,Credit Card,New,Mumbai,1
+ORD102723,54,71397.0,4,1,3.0,Beauty,Credit Card,Regular,Chennai,0
+ORD102724,20,43353.0,12,2,2.0,Electronics,UPI,Regular,Hyderabad,1
+ORD102725,18,28676.0,9,8,5.0,Home,UPI,New,Mumbai,1
+ORD102726,26,40494.0,7,8,4.0,Fashion,UPI,New,Bangalore,1
+ORD102727,58,19330.0,2,7,5.0,Sports,UPI,Regular,Bangalore,0
+ORD102728,37,54682.0,3,7,2.0,Sports,Credit Card,Premium,Chennai,1
+ORD102729,51,699279.0,8,2,2.0,Fashion,Debit Card,New,Hyderabad,1
+ORD102730,57,50778.0,12,4,4.0,Sports,UPI,Premium,Delhi,1
+ORD102731,53,42692.0,5,8,2.0,Electronics,UPI,Regular,Chennai,1
+ORD102732,37,89696.0,9,1,4.0,Home,UPI,Regular,Mumbai,0
+ORD102733,58,16279.0,5,7,1.0,Beauty,Credit Card,Regular,Delhi,1
+ORD102734,34,93676.0,9,3,5.0,Home,Credit Card,Premium,Chennai,0
+ORD102735,49,33077.0,13,8,4.0,Home,Cash on Delivery,Premium,Hyderabad,1
+ORD102736,55,4596.0,12,8,5.0,Electronics,Credit Card,New,Hyderabad,1
+ORD102737,52,98455.0,1,8,4.0,Beauty,Cash on Delivery,Premium,Chennai,1
+ORD102738,31,33463.0,9,9,3.0,Home,Credit Card,New,Delhi,1
+ORD102739,24,3712.0,4,1,3.0,Electronics,UPI,Premium,Bangalore,0
+ORD102740,53,22507.0,14,1,3.0,Fashion,Credit Card,Premium,Bangalore,1
+ORD102741,59,78538.0,7,8,3.0,Sports,Debit Card,Regular,Bangalore,1
+ORD102742,43,34519.0,13,9,5.0,Home,Debit Card,Regular,Hyderabad,1
+ORD102743,33,18914.0,3,3,3.0,Beauty,UPI,Premium,Delhi,0
+ORD102744,35,42925.0,12,8,1.0,Fashion,Credit Card,Premium,Hyderabad,1
+ORD102745,19,54827.0,7,0,5.0,Electronics,Credit Card,Premium,Delhi,0
+ORD102746,59,42761.0,5,3,5.0,Electronics,UPI,New,Mumbai,0
+ORD102747,18,83946.0,9,5,3.0,Sports,UPI,Regular,Chennai,1
+ORD102748,32,73901.0,14,3,2.0,Beauty,Debit Card,New,Mumbai,1
+ORD102749,29,43316.0,5,0,1.0,Fashion,UPI,Regular,Hyderabad,0
+ORD102750,45,71226.0,9,5,2.0,Home,Debit Card,New,Chennai,1
+ORD102751,29,75322.0,14,5,5.0,Fashion,Cash on Delivery,Regular,Delhi,1
+ORD102752,31,20085.0,8,6,5.0,Home,Cash on Delivery,Premium,Bangalore,1
+ORD102753,54,34796.0,1,8,4.0,Electronics,Cash on Delivery,New,Mumbai,1
+ORD102754,43,39793.0,7,8,5.0,Home,Cash on Delivery,Regular,Hyderabad,1
+ORD102755,31,40984.0,8,6,5.0,,Cash on Delivery,Regular,Hyderabad,1
+ORD102756,30,66142.0,12,9,2.0,Sports,Debit Card,Regular,Chennai,1
+ORD102757,36,30105.0,6,1,4.0,Beauty,Cash on Delivery,Regular,Chennai,0
+ORD102758,30,5900.0,12,9,3.0,Sports,UPI,Premium,Bangalore,1
+ORD102759,50,86673.0,1,7,2.0,Sports,UPI,New,Chennai,1
+ORD102760,55,15474.0,6,4,3.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD102761,33,43648.0,10,3,5.0,Beauty,UPI,New,Delhi,0
+ORD102762,29,49985.0,8,1,3.0,Beauty,UPI,Regular,Delhi,0
+ORD102763,45,70597.0,4,9,5.0,Beauty,Cash on Delivery,New,Chennai,1
+ORD102764,26,88079.0,9,3,1.0,Fashion,UPI,Regular,Delhi,1
+ORD102765,31,65318.0,12,4,2.0,Fashion,Cash on Delivery,Regular,Chennai,1
+ORD102766,49,1497.0,3,9,1.0,Home,Debit Card,Premium,Delhi,1
+ORD102767,33,79153.0,4,7,1.0,Fashion,Cash on Delivery,New,Mumbai,1
+ORD102768,33,85947.0,3,8,2.0,Beauty,UPI,Premium,Bangalore,1
+ORD102769,51,62017.0,6,0,4.0,Beauty,Credit Card,Premium,Bangalore,0
+ORD102770,32,25445.0,13,4,1.0,Home,UPI,Premium,Delhi,1
+ORD102771,57,69360.0,9,9,3.0,Electronics,Debit Card,Regular,Delhi,1
+ORD102772,52,80899.0,12,1,1.0,Fashion,UPI,New,Chennai,1
+ORD102773,58,24611.0,4,0,1.0,Beauty,Debit Card,Regular,Bangalore,0
+ORD102774,56,3699.0,2,6,4.0,Electronics,Credit Card,New,Mumbai,0
+ORD102775,40,8397.0,14,8,5.0,Beauty,UPI,Regular,Delhi,1
+ORD102776,33,25315.0,13,0,4.0,Beauty,Credit Card,Premium,Mumbai,0
+ORD102777,46,14763.0,8,3,5.0,Fashion,UPI,New,Delhi,0
+ORD102778,37,95042.0,8,4,4.0,Home,Debit Card,New,Bangalore,0
+ORD102779,51,98575.0,2,1,1.0,Home,Cash on Delivery,Regular,Delhi,0
+ORD102780,47,63373.0,3,9,4.0,Sports,Credit Card,Premium,Delhi,1
+ORD102781,59,8271.0,8,3,3.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD102782,27,93104.0,7,4,1.0,Sports,Credit Card,New,Hyderabad,1
+ORD102783,36,54240.0,2,0,3.0,Sports,Credit Card,Regular,Mumbai,0
+ORD102784,23,10557.0,2,7,4.0,Electronics,Credit Card,Regular,Bangalore,0
+ORD102785,45,92128.0,2,6,2.0,Beauty,Debit Card,New,Delhi,1
+ORD102786,22,3173.0,11,9,3.0,Home,UPI,Regular,Bangalore,1
+ORD102787,19,50906.0,9,4,4.0,Beauty,UPI,New,Bangalore,1
+ORD102788,51,21141.0,5,5,3.0,Fashion,Cash on Delivery,Premium,Hyderabad,1
+ORD102789,21,10138.0,12,5,1.0,Fashion,Cash on Delivery,New,Mumbai,1
+ORD102790,36,18595.0,3,6,1.0,Fashion,Credit Card,Premium,Hyderabad,1
+ORD102791,52,45597.0,13,5,4.0,Electronics,Debit Card,Regular,Chennai,1
+ORD102792,34,88516.0,14,7,1.0,Home,Debit Card,Premium,Chennai,1
+ORD102793,54,9904.0,8,6,4.0,Beauty,Cash on Delivery,Regular,Delhi,1
+ORD102794,54,69091.0,14,2,1.0,Home,Debit Card,Premium,Delhi,1
+ORD102795,55,35140.0,3,3,1.0,Sports,Debit Card,New,Bangalore,0
+ORD102796,28,73225.0,4,0,3.0,Beauty,Cash on Delivery,Regular,Bangalore,0
+ORD102797,51,22270.0,11,7,5.0,Sports,Credit Card,Premium,Delhi,1
+ORD102798,38,95841.0,14,9,2.0,Beauty,Debit Card,Premium,Delhi,1
+ORD102799,44,71803.0,7,7,4.0,Home,UPI,New,Chennai,1
+ORD102800,25,35178.0,2,8,5.0,Electronics,UPI,Premium,Delhi,0
+ORD102801,40,15551.0,11,5,1.0,Electronics,Cash on Delivery,Premium,Hyderabad,1
+ORD102802,44,92403.0,1,9,,Sports,UPI,Premium,Delhi,1
+ORD102803,36,10846.0,5,0,4.0,Sports,UPI,Premium,Mumbai,0
+ORD102804,47,16608.0,8,5,5.0,Beauty,Credit Card,New,Delhi,0
+ORD102805,34,26420.0,3,9,3.0,Sports,Cash on Delivery,New,Bangalore,1
+ORD102806,25,85360.0,3,6,4.0,Beauty,UPI,Regular,Delhi,0
+ORD102807,21,51308.0,13,3,3.0,Beauty,Cash on Delivery,New,Mumbai,1
+ORD102808,22,47402.0,5,3,4.0,Fashion,Debit Card,Regular,Mumbai,0
+ORD102809,51,59245.0,13,5,2.0,Home,Cash on Delivery,Premium,Bangalore,1
+ORD102810,36,24964.0,5,8,2.0,Electronics,Cash on Delivery,New,Chennai,1
+ORD102811,25,7886.0,13,5,4.0,Electronics,Credit Card,Regular,Hyderabad,1
+ORD102812,30,83463.0,2,2,3.0,Sports,Debit Card,Regular,Bangalore,0
+ORD102813,54,15725.0,6,5,4.0,Sports,Cash on Delivery,New,Hyderabad,1
+ORD102814,39,27878.0,7,6,4.0,Beauty,Credit Card,Premium,Delhi,1
+ORD102815,51,66830.0,7,2,1.0,Electronics,Cash on Delivery,New,Delhi,1
+ORD102816,19,27532.0,12,7,1.0,Fashion,Cash on Delivery,Regular,Hyderabad,1
+ORD102817,35,64263.0,3,0,4.0,Fashion,Cash on Delivery,New,Chennai,0
+ORD102818,49,69231.0,12,8,3.0,Fashion,UPI,Premium,Hyderabad,1
+ORD102819,50,5810.0,10,0,1.0,Beauty,Debit Card,Premium,Bangalore,1
+ORD102820,53,85316.0,2,3,2.0,Home,Credit Card,New,Chennai,0
+ORD102821,25,4480.0,7,8,4.0,Electronics,Cash on Delivery,New,Hyderabad,1
+ORD102822,39,33762.0,4,6,1.0,Fashion,UPI,Premium,Hyderabad,1
+ORD102823,52,32822.0,2,0,1.0,Electronics,Cash on Delivery,New,Bangalore,0
+ORD102824,36,22225.0,7,8,2.0,Beauty,Debit Card,New,Bangalore,1
+ORD102825,56,36580.0,2,5,3.0,Fashion,Debit Card,New,Hyderabad,0
+ORD102826,49,42907.0,12,1,1.0,Fashion,Cash on Delivery,Regular,Chennai,1
+ORD102827,33,48410.0,6,7,3.0,Home,UPI,New,Chennai,1
+ORD102828,30,61297.0,8,1,1.0,Sports,UPI,New,Delhi,1
+ORD102829,45,76083.0,7,1,1.0,Sports,UPI,New,Bangalore,1
+ORD102830,53,64028.0,4,3,1.0,Home,Debit Card,New,Chennai,1
+ORD102831,47,95563.0,4,7,2.0,Electronics,Cash on Delivery,Regular,Bangalore,1
+ORD102832,30,16297.0,8,6,5.0,Beauty,UPI,Regular,Chennai,1
+ORD102833,30,60752.0,4,1,3.0,Beauty,UPI,Regular,Chennai,0
+ORD102834,42,83751.0,4,4,2.0,Fashion,Cash on Delivery,Regular,Mumbai,1
+ORD102835,56,43560.0,6,3,4.0,Beauty,Credit Card,New,Mumbai,0
+ORD102836,38,91375.0,6,2,1.0,Electronics,Credit Card,Premium,Hyderabad,1
+ORD102837,26,49238.0,4,6,2.0,Sports,UPI,New,Mumbai,1
+ORD102838,29,16454.0,6,7,1.0,Home,Cash on Delivery,Premium,Hyderabad,1
+ORD102839,32,79732.0,2,7,1.0,Sports,UPI,New,Hyderabad,1
+ORD102840,19,56563.0,3,8,1.0,Home,UPI,New,Hyderabad,1
+ORD102841,30,76473.0,14,2,5.0,Electronics,UPI,Premium,Hyderabad,0
+ORD102842,32,79013.0,7,9,3.0,Fashion,Credit Card,Regular,Chennai,1
+ORD102843,57,84249.0,8,1,3.0,Fashion,UPI,Regular,Bangalore,0
+ORD102844,56,39869.0,12,0,4.0,Fashion,UPI,Premium,Bangalore,0
+ORD102845,52,48422.0,4,8,1.0,Home,Debit Card,Regular,Bangalore,1
+ORD102846,30,47496.0,1,3,2.0,Electronics,Debit Card,Premium,Hyderabad,0
+ORD102847,25,11555.0,5,3,5.0,Home,Cash on Delivery,Premium,Delhi,0
+ORD102848,38,65166.0,3,6,3.0,Beauty,Cash on Delivery,New,Mumbai,1
+ORD102849,52,31835.0,4,2,2.0,Fashion,Credit Card,Premium,Mumbai,0
+ORD102850,22,11495.0,9,7,3.0,Beauty,UPI,Premium,Hyderabad,1
+ORD102851,33,88794.0,8,4,4.0,Home,Credit Card,New,Delhi,0
+ORD102852,40,48164.0,6,7,2.0,Beauty,Cash on Delivery,Regular,Hyderabad,1
+ORD102853,47,54848.0,14,6,5.0,Home,Debit Card,Premium,Chennai,1
+ORD102854,55,55920.0,5,3,1.0,Sports,Cash on Delivery,Regular,Bangalore,1
+ORD102855,46,55362.0,7,9,3.0,Sports,Debit Card,Regular,Chennai,1
+ORD102856,54,20971.0,13,7,5.0,Beauty,Credit Card,New,Hyderabad,1
+ORD102857,46,84469.0,9,0,3.0,Home,Cash on Delivery,Regular,Hyderabad,0
+ORD102858,18,15967.0,4,3,5.0,Sports,Debit Card,Regular,Chennai,0
+ORD102859,54,95291.0,11,2,4.0,Electronics,Credit Card,Regular,Delhi,0
+ORD102860,36,5360.0,2,7,1.0,Fashion,Debit Card,New,Chennai,1
+ORD102861,42,24846.0,7,9,5.0,Fashion,Debit Card,Regular,Bangalore,1
+ORD102862,48,,11,3,3.0,Home,UPI,New,Mumbai,1
+ORD102863,23,61836.0,9,3,2.0,Electronics,Debit Card,New,Delhi,1
+ORD102864,54,70286.0,13,8,2.0,Sports,Debit Card,New,Hyderabad,1
+ORD102865,38,54740.0,8,4,4.0,Electronics,Cash on Delivery,Regular,Hyderabad,1
+ORD102866,59,48981.0,12,8,2.0,Fashion,Credit Card,New,Hyderabad,1
+ORD102867,47,7358.0,7,0,4.0,Home,UPI,Premium,Delhi,0
+ORD102868,30,61955.0,1,0,3.0,Beauty,Debit Card,Regular,Bangalore,0
+ORD102869,23,47958.0,12,4,1.0,Fashion,UPI,Regular,Delhi,1
+ORD102870,43,895.0,14,9,3.0,Electronics,Debit Card,Regular,Chennai,1
+ORD102871,22,37805.0,5,8,3.0,Electronics,Cash on Delivery,New,Hyderabad,1
+ORD102872,45,52493.0,11,3,1.0,Home,Cash on Delivery,New,Hyderabad,1
+ORD102873,59,86004.0,6,9,2.0,Electronics,Debit Card,New,Hyderabad,1
+ORD102874,32,98116.0,10,3,1.0,Electronics,Cash on Delivery,Regular,Bangalore,1
+ORD102875,30,31124.0,9,7,5.0,Beauty,UPI,Premium,Hyderabad,1
+ORD102876,23,53479.0,14,5,3.0,Electronics,Debit Card,Premium,Chennai,1
+ORD102877,48,76921.0,11,5,2.0,Electronics,Cash on Delivery,New,Delhi,1
+ORD102878,52,46826.0,4,0,4.0,Home,Debit Card,Regular,Mumbai,0
+ORD102879,45,66441.0,6,6,3.0,Beauty,UPI,Premium,Mumbai,1
+ORD102880,41,87478.0,14,5,2.0,Beauty,UPI,Regular,Mumbai,1
+ORD102881,19,95024.0,14,8,2.0,Beauty,Cash on Delivery,Premium,Chennai,1
+ORD102882,48,12621.0,12,1,1.0,Home,UPI,New,Bangalore,1
+ORD102883,38,72740.0,5,7,3.0,Electronics,UPI,New,Chennai,1
+ORD102884,41,10453.0,8,4,1.0,Home,Cash on Delivery,New,Bangalore,1
+ORD102885,40,68649.0,5,0,1.0,Electronics,Credit Card,Premium,Mumbai,0
+ORD102886,55,91757.0,12,6,2.0,Sports,UPI,Premium,Chennai,1
+ORD102887,43,699279.0,9,3,5.0,Home,UPI,New,Chennai,0
+ORD102888,35,50479.0,10,7,2.0,Home,UPI,Regular,Mumbai,1
+ORD102889,36,8802.0,12,8,2.0,Sports,Cash on Delivery,Regular,Bangalore,1
+ORD102890,31,13375.0,4,6,2.0,Fashion,Cash on Delivery,New,Bangalore,1
+ORD102891,47,33564.0,14,8,2.0,Home,Credit Card,Premium,Delhi,1
+ORD102892,53,79155.0,1,1,2.0,Beauty,UPI,Premium,Hyderabad,0
+ORD102893,25,70418.0,2,3,1.0,Fashion,Cash on Delivery,Premium,Delhi,1
+ORD102894,37,46958.0,14,7,1.0,Home,Debit Card,Premium,Delhi,1
+ORD102895,42,94326.0,5,5,2.0,Fashion,UPI,Regular,Mumbai,1
+ORD102896,57,7065.0,4,6,3.0,Electronics,Debit Card,Premium,Bangalore,1
+ORD102897,56,44822.0,8,0,1.0,Fashion,UPI,New,Delhi,0
+ORD102898,31,97817.0,10,8,4.0,Electronics,Credit Card,New,Bangalore,1
+ORD102899,31,71449.0,12,4,4.0,Beauty,Cash on Delivery,New,Delhi,1
+ORD102900,50,505.0,9,2,3.0,Electronics,Debit Card,New,Hyderabad,0
+ORD102901,52,99329.0,2,3,2.0,Sports,Debit Card,Regular,Delhi,0
+ORD102902,29,13557.0,1,2,2.0,Fashion,UPI,New,Bangalore,0
+ORD102903,39,47112.0,3,4,5.0,Home,Cash on Delivery,Regular,Hyderabad,0
+ORD102904,38,31919.0,12,6,5.0,Sports,Credit Card,Regular,Bangalore,1
+ORD102905,56,72040.0,2,4,4.0,Electronics,Debit Card,Regular,Bangalore,0
+ORD102906,51,85053.0,3,8,1.0,Home,UPI,New,Delhi,1
+ORD102907,41,75227.0,8,7,1.0,Electronics,UPI,New,Chennai,1
+ORD102908,55,48300.0,8,2,3.0,Beauty,Credit Card,Regular,Chennai,0
+ORD102909,51,83262.0,2,6,4.0,Beauty,Cash on Delivery,Regular,Mumbai,0
+ORD102910,39,38430.0,2,7,1.0,Electronics,UPI,Regular,Delhi,1
+ORD102911,56,69639.0,13,0,4.0,Fashion,Credit Card,Regular,Hyderabad,0
+ORD102912,21,4311.0,4,1,4.0,Beauty,Debit Card,New,Delhi,0
+ORD102913,43,71178.0,4,5,3.0,Home,Debit Card,New,Chennai,0
+ORD102914,56,64537.0,3,3,2.0,Beauty,Cash on Delivery,New,Mumbai,0
+ORD102915,47,45352.0,9,5,5.0,Fashion,Cash on Delivery,New,Hyderabad,1
+ORD102916,56,65783.0,5,3,4.0,Home,Cash on Delivery,Premium,Delhi,0
+ORD102917,33,91788.0,14,1,3.0,Electronics,UPI,Premium,Bangalore,1
+ORD102918,56,63501.0,11,3,5.0,Electronics,Credit Card,New,Chennai,0
+ORD102919,33,42713.0,11,5,2.0,Electronics,Debit Card,New,Chennai,1
+ORD102920,25,84305.0,11,6,3.0,Sports,UPI,Regular,Bangalore,1
+ORD102921,42,82027.0,14,8,1.0,Sports,Cash on Delivery,Regular,Delhi,1
+ORD102922,39,87685.0,12,6,3.0,Electronics,Credit Card,Premium,Mumbai,1
+ORD102923,56,34636.0,10,9,2.0,Beauty,Credit Card,New,Bangalore,1
+ORD102924,30,70953.0,13,5,1.0,Home,Debit Card,Premium,Hyderabad,1
+ORD102925,26,41650.0,13,4,5.0,Home,UPI,New,Bangalore,1
+ORD102926,26,97595.0,7,7,3.0,Sports,Cash on Delivery,Premium,Mumbai,1
+ORD102927,57,77139.0,7,2,2.0,Fashion,Credit Card,Regular,Chennai,0
+ORD102928,31,74789.0,14,7,1.0,Fashion,Credit Card,Regular,Delhi,1
+ORD102929,36,,3,5,3.0,Fashion,UPI,Premium,Delhi,0
+ORD102930,43,7748.0,6,2,3.0,Beauty,Debit Card,New,Bangalore,0
+ORD102931,36,934.0,7,6,3.0,Home,UPI,New,Chennai,1
+ORD102932,22,38993.0,1,7,2.0,Sports,Debit Card,Regular,Hyderabad,1
+ORD102933,25,40093.0,12,9,5.0,Electronics,Cash on Delivery,New,Delhi,1
+ORD102934,43,96005.0,10,2,4.0,Electronics,UPI,New,Hyderabad,0
+ORD102935,37,53379.0,5,2,3.0,Home,Credit Card,Premium,Hyderabad,0
+ORD102936,32,96237.0,2,5,3.0,Fashion,Credit Card,New,Chennai,0
+ORD102937,21,46310.0,6,8,1.0,Home,Debit Card,Regular,Delhi,1
+ORD102938,40,97122.0,12,8,5.0,Home,Debit Card,Premium,Delhi,1
+ORD102939,58,18474.0,5,7,1.0,Home,Debit Card,Regular,Chennai,1
+ORD102940,43,78500.0,13,8,1.0,Home,Debit Card,Premium,Mumbai,1
+ORD102941,18,6200.0,8,8,4.0,Sports,Cash on Delivery,New,Mumbai,1
+ORD102942,23,85391.0,13,9,4.0,Sports,UPI,New,Delhi,1
+ORD102943,57,39033.0,11,5,4.0,Fashion,Credit Card,Regular,Delhi,1
+ORD102944,28,25160.0,14,1,3.0,Electronics,Credit Card,Premium,Delhi,1
+ORD102945,20,98815.0,11,4,,Home,Credit Card,Premium,Chennai,0
+ORD102946,55,59720.0,12,5,2.0,Fashion,Cash on Delivery,Premium,Chennai,1
+ORD102947,46,94425.0,12,4,1.0,Home,Cash on Delivery,Premium,Bangalore,1
+ORD102948,58,73702.0,2,8,5.0,Home,Debit Card,Regular,Delhi,0
+ORD102949,55,,11,3,1.0,Sports,Cash on Delivery,Regular,Mumbai,1
+ORD102950,37,35700.0,10,2,5.0,Fashion,UPI,Premium,Hyderabad,0
+ORD102951,40,94588.0,6,2,5.0,Home,UPI,Regular,Delhi,0
+ORD102952,36,22833.0,7,6,4.0,Sports,Debit Card,Regular,Chennai,1
+ORD102953,29,90090.0,11,1,1.0,Electronics,Cash on Delivery,Premium,Bangalore,1
+ORD102954,45,26322.0,2,3,3.0,Beauty,Credit Card,Premium,Mumbai,0
+ORD102955,48,36525.0,6,5,5.0,Sports,Credit Card,Regular,Delhi,0
+ORD102956,58,19836.0,4,8,5.0,Home,UPI,Regular,Chennai,1
+ORD102957,39,85011.0,2,9,3.0,Beauty,UPI,New,Mumbai,1
+ORD102958,55,25685.0,8,3,5.0,Sports,UPI,New,Delhi,0
+ORD102959,45,57889.0,12,5,4.0,Home,UPI,Regular,Mumbai,1
+ORD102960,48,77460.0,12,6,1.0,Electronics,UPI,Regular,Bangalore,1
+ORD102961,19,13700.0,4,4,2.0,Home,Debit Card,Premium,Hyderabad,1
+ORD102962,34,31080.0,6,2,4.0,Fashion,UPI,Premium,Mumbai,0
+ORD102963,56,4049.0,6,3,3.0,Fashion,Credit Card,Regular,Hyderabad,0
+ORD102964,54,48828.0,6,5,4.0,Electronics,Debit Card,New,Chennai,0
+ORD102965,47,45287.0,4,1,2.0,Beauty,Debit Card,New,Delhi,0
+ORD102966,53,93499.0,13,9,2.0,Beauty,Cash on Delivery,New,Mumbai,1
+ORD102967,26,80241.0,1,1,2.0,Home,Debit Card,New,Hyderabad,0
+ORD102968,48,8001.0,6,6,5.0,Beauty,Debit Card,Premium,Bangalore,0
+ORD102969,36,83790.0,9,4,5.0,Fashion,Debit Card,New,Delhi,0
+ORD102970,45,18727.0,9,7,4.0,Sports,Credit Card,Regular,Mumbai,1
+ORD102971,53,47975.0,2,8,3.0,Electronics,Debit Card,Premium,Delhi,1
+ORD102972,21,12954.0,10,7,4.0,Sports,Credit Card,Regular,Delhi,1
+ORD102973,32,1786.0,10,0,4.0,Electronics,Credit Card,Premium,Delhi,0
+ORD102974,35,55083.0,14,4,5.0,Home,Debit Card,Regular,Mumbai,1
+ORD102975,19,59763.0,4,8,1.0,Beauty,Cash on Delivery,Regular,Delhi,1
+ORD102976,44,38674.0,9,3,3.0,Beauty,UPI,Premium,Chennai,1
+ORD102977,18,62757.0,13,0,1.0,Beauty,UPI,New,Hyderabad,1
+ORD102978,33,25965.0,12,5,2.0,Home,Credit Card,Premium,Hyderabad,1
+ORD102979,39,21532.0,12,2,1.0,Home,Credit Card,Premium,Hyderabad,1
+ORD102980,22,83438.0,2,6,3.0,Sports,Debit Card,New,Delhi,0
+ORD102981,27,21730.0,9,6,4.0,Fashion,Cash on Delivery,Premium,Chennai,1
+ORD102982,54,36450.0,4,3,2.0,Beauty,Cash on Delivery,New,Chennai,0
+ORD102983,41,36365.0,13,9,2.0,Electronics,Debit Card,Premium,Chennai,1
+ORD102984,27,,5,1,5.0,Home,UPI,Regular,Hyderabad,0
+ORD102985,44,2211.0,10,7,1.0,Beauty,Debit Card,New,Chennai,1
+ORD102986,39,53770.0,7,8,3.0,Sports,UPI,Premium,Bangalore,1
+ORD102987,41,16720.0,1,3,3.0,Sports,Credit Card,Premium,Delhi,0
+ORD102988,57,68858.0,12,2,4.0,Fashion,Credit Card,Premium,Bangalore,0
+ORD102989,56,75705.0,9,8,3.0,Home,Debit Card,Premium,Chennai,1
+ORD102990,30,27994.0,8,5,1.0,Beauty,Credit Card,New,Chennai,1
+ORD102991,34,37219.0,6,1,1.0,Electronics,Credit Card,Premium,Chennai,0
+ORD102992,35,14539.0,12,5,4.0,Sports,UPI,New,Bangalore,1
+ORD102993,59,49397.0,2,6,5.0,Electronics,Cash on Delivery,New,Hyderabad,0
+ORD102994,29,86227.0,12,6,4.0,Beauty,Cash on Delivery,New,Chennai,1
+ORD102995,42,13303.0,10,3,2.0,Home,Cash on Delivery,Regular,Bangalore,1
+ORD102996,20,35060.0,1,6,5.0,Fashion,Debit Card,Premium,Delhi,0
+ORD102997,36,88278.0,1,7,2.0,Sports,UPI,Regular,Bangalore,1
+ORD102998,56,50510.0,9,5,2.0,Electronics,Credit Card,New,Bangalore,1
+ORD102999,42,46989.0,8,8,4.0,Fashion,Credit Card,Regular,Delhi,1
+ORD103000,40,20010.0,13,8,5.0,Sports,Debit Card,Regular,Chennai,1
+ORD103001,50,11536.0,5,5,,Sports,UPI,Premium,Chennai,1
+ORD103002,25,67208.0,9,5,2.0,Sports,Credit Card,Regular,Hyderabad,1
+ORD103003,44,46272.0,3,4,4.0,Beauty,Credit Card,Premium,Bangalore,0
+ORD103004,31,85981.0,9,9,1.0,Beauty,Debit Card,Regular,Chennai,1
+ORD103005,45,83810.0,6,3,2.0,Fashion,Debit Card,New,Hyderabad,1
+ORD103006,49,88439.0,14,4,5.0,Fashion,Cash on Delivery,New,Chennai,1
+ORD103007,46,86527.0,14,1,5.0,Fashion,Cash on Delivery,New,Bangalore,0
+ORD103008,39,5609.0,5,4,2.0,Beauty,Cash on Delivery,Regular,Mumbai,1
+ORD103009,57,43513.0,6,8,4.0,Electronics,UPI,New,Bangalore,1
+ORD103010,18,20528.0,14,3,2.0,Sports,UPI,Regular,Bangalore,1
+ORD103011,19,26770.0,9,1,5.0,Sports,UPI,Regular,Delhi,0
+ORD103012,46,55362.0,7,9,3.0,Sports,Debit Card,Regular,Chennai,1
+ORD103013,43,59361.0,14,8,4.0,Sports,Debit Card,Premium,Mumbai,1
+ORD103014,18,33233.0,1,2,5.0,Beauty,Cash on Delivery,Regular,Hyderabad,0
+ORD103015,44,51330.0,8,0,4.0,Sports,Credit Card,Premium,Mumbai,0
+ORD103016,30,87269.0,12,9,4.0,Electronics,UPI,New,Delhi,1
+ORD103017,36,30105.0,6,1,4.0,Beauty,Cash on Delivery,Regular,Chennai,0
+ORD103018,52,41233.0,6,3,1.0,Electronics,Debit Card,New,Mumbai,1
+ORD103019,41,81560.0,6,6,2.0,Home,Credit Card,Regular,Delhi,1
+ORD103020,20,35060.0,1,6,5.0,Fashion,Debit Card,Premium,Delhi,0
+ORD103021,39,87336.0,11,6,3.0,Fashion,Cash on Delivery,New,Bangalore,1
+ORD103022,53,72582.0,10,2,3.0,Fashion,Debit Card,Regular,Mumbai,0
+ORD103023,54,88392.0,13,0,3.0,Beauty,UPI,Regular,Bangalore,0
+ORD103024,18,83946.0,9,5,3.0,Sports,UPI,Regular,Chennai,1
+ORD103025,29,43501.0,5,4,3.0,Fashion,Debit Card,New,Mumbai,0
+ORD103026,41,41935.0,10,8,5.0,Fashion,Debit Card,New,Hyderabad,1
+ORD103027,58,46702.0,5,1,4.0,Beauty,Cash on Delivery,Premium,Delhi,0
+ORD103028,35,27012.0,13,5,2.0,Beauty,Credit Card,Premium,Mumbai,1
+ORD103029,50,60292.0,6,3,4.0,Beauty,Credit Card,New,Hyderabad,0
